@@ -5,7 +5,7 @@
   "opd_id": 9,
   "category": "social-labor",
   "url": "https://dasatama.magetan.go.id/detail/43",
-  "scraped_at": "2026-05-07T13:17:49",
+  "scraped_at": "2026-05-07T13:29:22Z",
   "metadata": {
     "concept": "Anak Terlantar",
     "classification": "Lokasi Keberadaan",
@@ -19,7 +19,7 @@
   "data": [
     {
       "name": "Dalam Panti",
-      "type": "string",
+      "type": "integer",
       "years": {
         "total": 4,
         "min": 2021,
@@ -28,19 +28,19 @@
       "values": [
         {
           "year": 2021,
-          "value": "1052"
+          "value": 1052
         },
         {
           "year": 2022,
-          "value": "1097"
+          "value": 1097
         },
         {
           "year": 2023,
-          "value": "-"
+          "value": null
         },
         {
           "year": 2024,
-          "value": "15"
+          "value": 15
         }
       ]
     },
@@ -73,7 +73,7 @@
     },
     {
       "name": "Luar Panti Dihabilitasi",
-      "type": "string",
+      "type": "integer",
       "years": {
         "total": 4,
         "min": 2021,
@@ -82,25 +82,25 @@
       "values": [
         {
           "year": 2021,
-          "value": "-"
+          "value": null
         },
         {
           "year": 2022,
-          "value": "-"
+          "value": null
         },
         {
           "year": 2023,
-          "value": "-"
+          "value": null
         },
         {
           "year": 2024,
-          "value": "1"
+          "value": 1
         }
       ]
     },
     {
       "name": "Persentase Luar Panti Dihabilitasi",
-      "type": "string",
+      "type": "integer",
       "years": {
         "total": 4,
         "min": 2021,
@@ -109,19 +109,19 @@
       "values": [
         {
           "year": 2021,
-          "value": "-"
+          "value": null
         },
         {
           "year": 2022,
-          "value": "-"
+          "value": null
         },
         {
           "year": 2023,
-          "value": "-"
+          "value": null
         },
         {
           "year": 2024,
-          "value": "100"
+          "value": 100
         }
       ]
     }

@@ -5,7 +5,7 @@
   "opd_id": 23,
   "category": "commodity-prices",
   "url": "https://dasatama.magetan.go.id/detail/35",
-  "scraped_at": "2026-05-07T13:19:31",
+  "scraped_at": "2026-05-07T13:31:06Z",
   "metadata": {
     "concept": "Kredit Usaha Rakyat",
     "classification": "Jenis Sektor usaha",
@@ -65,7 +65,7 @@
     },
     {
       "name": "Pertambangan dan Penggalian",
-      "type": "string",
+      "type": "integer",
       "years": {
         "total": 3,
         "min": 2022,
@@ -74,15 +74,15 @@
       "values": [
         {
           "year": 2022,
-          "value": "-"
+          "value": null
         },
         {
           "year": 2023,
-          "value": "-"
+          "value": null
         },
         {
           "year": 2024,
-          "value": "150000000"
+          "value": 150000000
         }
       ]
     },

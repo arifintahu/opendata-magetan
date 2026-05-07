@@ -21,6 +21,9 @@ DATASETS_DIR = os.path.normpath(
 INDEX_PATH = os.path.normpath(
     os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data", "datasets_index.json")
 )
+AGENCIES_PATH = os.path.normpath(
+    os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data", "agencies.json")
+)
 DIRECTORIES_PATH = os.path.normpath(
     os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data", "directories.json")
 )
@@ -33,6 +36,9 @@ RETRY_WAITS = [2, 5, 10]
 USER_AGENT = "Mozilla/5.0 (compatible; opendata-magetan-scraper/1.0)"
 
 API_RESERVED_KEYS = {"opdTitle", "opdId", "dataId"}
+
+# Values treated as missing data → null
+NULL_SENTINELS = {"", "-", "–", "n/a", "na", "*", "..."}
 
 METADATA_MAP = {
     "Konsep":          ("concept",        "string"),
@@ -91,18 +97,23 @@ def build_category_lookup(categories_path: str) -> dict[str, str]:
     return lookup
 
 
+def is_null(raw: str) -> bool:
+    return raw.strip().lower() in NULL_SENTINELS
+
+
 def infer_type(raw_values: list[str]) -> str:
-    cleaned = [v.strip().replace(",", "") for v in raw_values if v.strip()]
-    if not cleaned:
+    # Exclude null sentinels before type inference
+    meaningful = [v.strip().replace(",", "") for v in raw_values if not is_null(v)]
+    if not meaningful:
         return "string"
     try:
-        for v in cleaned:
+        for v in meaningful:
             int(v)
         return "integer"
     except ValueError:
         pass
     try:
-        for v in cleaned:
+        for v in meaningful:
             float(v)
         return "number"
     except ValueError:
@@ -111,19 +122,19 @@ def infer_type(raw_values: list[str]) -> str:
 
 
 def cast(value: str, typ: str):
-    v = value.strip().replace(",", "")
-    if not v:
+    if is_null(value):
         return None
+    v = value.strip().replace(",", "")
     if typ == "integer":
         try:
             return int(v)
         except ValueError:
-            return v
+            return None
     if typ == "number":
         try:
             return float(v)
         except ValueError:
-            return v
+            return None
     return value.strip()
 
 
@@ -229,7 +240,7 @@ def scrape_dataset(
 
     opd_id = get_opd_id(api_json)
 
-    result = {
+    return {
         "id": dataset_id,
         "title": item["title"],
         "item_title": item["item_title"],
@@ -241,7 +252,6 @@ def scrape_dataset(
         "total_data": len(timeseries),
         "data": timeseries,
     }
-    return result
 
 
 def build_index(
@@ -290,7 +300,11 @@ def build_index(
             "item_title": d["item_title"],
             "opd_id": d.get("opd_id"),
             "category": d.get("category"),
-            "series": [{"name": s["name"], "type": s["type"], "years": s.get("years")} for s in d.get("data", [])],
+            "total_data": d.get("total_data"),
+            "series": [
+                {"name": s["name"], "type": s["type"], "years": s.get("years")}
+                for s in d.get("data", [])
+            ],
             "scraped_at": d.get("scraped_at"),
             "status": "success",
         })
@@ -301,6 +315,41 @@ def build_index(
         "failed": failed,
         "indexed_at": indexed_at,
         "datasets": datasets,
+    }
+
+
+def build_agencies(datasets_dir: str, indexed_at: str) -> dict:
+    agencies: dict[int, dict] = {}
+
+    for fname in os.listdir(datasets_dir):
+        if not fname.endswith(".json"):
+            continue
+        with open(os.path.join(datasets_dir, fname), encoding="utf-8") as f:
+            d = json.load(f)
+
+        opd_id = d.get("opd_id")
+        if opd_id is None:
+            continue
+
+        if opd_id not in agencies:
+            agencies[opd_id] = {
+                "opd_id": opd_id,
+                "name": d.get("item_title", ""),
+                "total_datasets": 0,
+                "dataset_ids": [],
+            }
+
+        agencies[opd_id]["total_datasets"] += 1
+        agencies[opd_id]["dataset_ids"].append(d["id"])
+
+    sorted_agencies = sorted(agencies.values(), key=lambda a: a["opd_id"])
+    for a in sorted_agencies:
+        a["dataset_ids"].sort()
+
+    return {
+        "total": len(sorted_agencies),
+        "indexed_at": indexed_at,
+        "agencies": sorted_agencies,
     }
 
 
@@ -315,7 +364,7 @@ def main() -> None:
         format="%(asctime)s [%(levelname)s] %(message)s",
     )
 
-    for path, name in [(DIRECTORIES_PATH, "directories.json"), (CATEGORIES_PATH, "categories.json")]:
+    for path in [DIRECTORIES_PATH, CATEGORIES_PATH]:
         if not os.path.exists(path):
             logging.error("Required input not found: %s", path)
             logging.error("Run extract_menu.py and categorize.py first.")
@@ -343,7 +392,7 @@ def main() -> None:
             skip_count += 1
             continue
 
-        scraped_at = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S")
+        scraped_at = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
         category = category_lookup.get(dataset_id, "")
 
         try:
@@ -363,10 +412,15 @@ def main() -> None:
 
     logging.info("Done: %d success, %d skipped, %d failed", success_count, skip_count, fail_count)
 
-    indexed_at = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S")
+    indexed_at = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
     index = build_index(all_items, results, indexed_at)
     save_json(index, INDEX_PATH)
     logging.info("Index saved to %s", INDEX_PATH)
+
+    agencies = build_agencies(DATASETS_DIR, indexed_at)
+    save_json(agencies, AGENCIES_PATH)
+    logging.info("Agencies saved to %s (%d agencies)", AGENCIES_PATH, agencies["total"])
 
 
 if __name__ == "__main__":

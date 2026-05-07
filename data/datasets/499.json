@@ -5,7 +5,7 @@
   "opd_id": 22,
   "category": "governance",
   "url": "https://dasatama.magetan.go.id/detail/499",
-  "scraped_at": "2026-05-07T13:19:27",
+  "scraped_at": "2026-05-07T13:31:02Z",
   "metadata": {
     "concept": "Pembangunan Statistik",
     "classification": "Jenis Evaluasi",
@@ -19,7 +19,7 @@
   "data": [
     {
       "name": "IPS",
-      "type": "string",
+      "type": "number",
       "years": {
         "total": 3,
         "min": 2023,
@@ -28,21 +28,21 @@
       "values": [
         {
           "year": 2023,
-          "value": "2.11"
+          "value": 2.11
         },
         {
           "year": 2024,
-          "value": "2.14"
+          "value": 2.14
         },
         {
           "year": 2025,
-          "value": "-"
+          "value": null
         }
       ]
     },
     {
       "name": "Evaluasi SDI",
-      "type": "string",
+      "type": "number",
       "years": {
         "total": 3,
         "min": 2023,
@@ -51,15 +51,15 @@
       "values": [
         {
           "year": 2023,
-          "value": "-"
+          "value": null
         },
         {
           "year": 2024,
-          "value": "59.97"
+          "value": 59.97
         },
         {
           "year": 2025,
-          "value": "73.31"
+          "value": 73.31
         }
       ]
     }

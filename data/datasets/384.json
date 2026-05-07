@@ -5,7 +5,7 @@
   "opd_id": 25,
   "category": "health",
   "url": "https://dasatama.magetan.go.id/detail/384",
-  "scraped_at": "2026-05-07T13:19:53",
+  "scraped_at": "2026-05-07T13:31:27Z",
   "metadata": {
     "concept": "ALOS; BOR; BTO; GDR; NDR; TOI; Infeksi Nosokomial",
     "classification": "-",
@@ -118,7 +118,7 @@
       "values": [
         {
           "year": 2024,
-          "value": "-"
+          "value": null
         }
       ]
     }

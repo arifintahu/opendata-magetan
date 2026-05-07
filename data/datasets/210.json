@@ -5,7 +5,7 @@
   "opd_id": 25,
   "category": "health",
   "url": "https://dasatama.magetan.go.id/detail/210",
-  "scraped_at": "2026-05-07T13:19:49",
+  "scraped_at": "2026-05-07T13:31:24Z",
   "metadata": {
     "concept": "Rawat Inap",
     "classification": "Jenis Penyakit",
@@ -19,7 +19,7 @@
   "data": [
     {
       "name": "Single Live Birth",
-      "type": "string",
+      "type": "integer",
       "years": {
         "total": 3,
         "min": 2022,
@@ -28,21 +28,21 @@
       "values": [
         {
           "year": 2022,
-          "value": "1157"
+          "value": 1157
         },
         {
           "year": 2023,
-          "value": "-"
+          "value": null
         },
         {
           "year": 2024,
-          "value": "-"
+          "value": null
         }
       ]
     },
     {
       "name": "Other Viral Pneumonia",
-      "type": "string",
+      "type": "integer",
       "years": {
         "total": 3,
         "min": 2022,
@@ -51,21 +51,21 @@
       "values": [
         {
           "year": 2022,
-          "value": "1067"
+          "value": 1067
         },
         {
           "year": 2023,
-          "value": "-"
+          "value": null
         },
         {
           "year": 2024,
-          "value": "-"
+          "value": null
         }
       ]
     },
     {
       "name": "Singleton, Born in Hospital",
-      "type": "string",
+      "type": "integer",
       "years": {
         "total": 3,
         "min": 2022,
@@ -74,15 +74,15 @@
       "values": [
         {
           "year": 2022,
-          "value": "1056"
+          "value": 1056
         },
         {
           "year": 2023,
-          "value": "606"
+          "value": 606
         },
         {
           "year": 2024,
-          "value": "-"
+          "value": null
         }
       ]
     },
@@ -111,7 +111,7 @@
     },
     {
       "name": "Heart Failure",
-      "type": "string",
+      "type": "integer",
       "years": {
         "total": 3,
         "min": 2022,
@@ -120,21 +120,21 @@
       "values": [
         {
           "year": 2022,
-          "value": "668"
+          "value": 668
         },
         {
           "year": 2023,
-          "value": "-"
+          "value": null
         },
         {
           "year": 2024,
-          "value": "-"
+          "value": null
         }
       ]
     },
     {
       "name": "Fetus and Newborn Affected by Caesarean Delivery",
-      "type": "string",
+      "type": "integer",
       "years": {
         "total": 3,
         "min": 2022,
@@ -143,21 +143,21 @@
       "values": [
         {
           "year": 2022,
-          "value": "604"
+          "value": 604
         },
         {
           "year": 2023,
-          "value": "573"
+          "value": 573
         },
         {
           "year": 2024,
-          "value": "-"
+          "value": null
         }
       ]
     },
     {
       "name": "Respiratory failure",
-      "type": "string",
+      "type": "integer",
       "years": {
         "total": 3,
         "min": 2022,
@@ -166,21 +166,21 @@
       "values": [
         {
           "year": 2022,
-          "value": "558"
+          "value": 558
         },
         {
           "year": 2023,
-          "value": "-"
+          "value": null
         },
         {
           "year": 2024,
-          "value": "-"
+          "value": null
         }
       ]
     },
     {
       "name": "Delivery by Emergency Caesarean Section",
-      "type": "string",
+      "type": "integer",
       "years": {
         "total": 3,
         "min": 2022,
@@ -189,21 +189,21 @@
       "values": [
         {
           "year": 2022,
-          "value": "555"
+          "value": 555
         },
         {
           "year": 2023,
-          "value": "-"
+          "value": null
         },
         {
           "year": 2024,
-          "value": "-"
+          "value": null
         }
       ]
     },
     {
       "name": "Anaemia",
-      "type": "string",
+      "type": "integer",
       "years": {
         "total": 3,
         "min": 2022,
@@ -212,15 +212,15 @@
       "values": [
         {
           "year": 2022,
-          "value": "543"
+          "value": 543
         },
         {
           "year": 2023,
-          "value": "-"
+          "value": null
         },
         {
           "year": 2024,
-          "value": "831"
+          "value": 831
         }
       ]
     },
@@ -341,7 +341,7 @@
     },
     {
       "name": "Acute subendocardial myocardial infarction",
-      "type": "string",
+      "type": "integer",
       "years": {
         "total": 3,
         "min": 2022,
@@ -350,21 +350,21 @@
       "values": [
         {
           "year": 2022,
-          "value": "0"
+          "value": 0
         },
         {
           "year": 2023,
-          "value": "462"
+          "value": 462
         },
         {
           "year": 2024,
-          "value": "-"
+          "value": null
         }
       ]
     },
     {
       "name": "Viral infection, unspecified",
-      "type": "string",
+      "type": "integer",
       "years": {
         "total": 3,
         "min": 2022,
@@ -373,15 +373,15 @@
       "values": [
         {
           "year": 2022,
-          "value": "0"
+          "value": 0
         },
         {
           "year": 2023,
-          "value": "448"
+          "value": 448
         },
         {
           "year": 2024,
-          "value": "-"
+          "value": null
         }
       ]
     },

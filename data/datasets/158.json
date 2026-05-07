@@ -5,7 +5,7 @@
   "opd_id": 11,
   "category": "livestock-fisheries",
   "url": "https://dasatama.magetan.go.id/detail/158",
-  "scraped_at": "2026-05-07T13:18:09",
+  "scraped_at": "2026-05-07T13:29:44Z",
   "metadata": {
     "concept": "Susu",
     "classification": "Jenis Susu",
@@ -42,7 +42,7 @@
     },
     {
       "name": "Kambing Perah",
-      "type": "string",
+      "type": "integer",
       "years": {
         "total": 3,
         "min": 2022,
@@ -51,15 +51,15 @@
       "values": [
         {
           "year": 2022,
-          "value": "9250"
+          "value": 9250
         },
         {
           "year": 2023,
-          "value": "1453148"
+          "value": 1453148
         },
         {
           "year": 2024,
-          "value": "-"
+          "value": null
         }
       ]
     }

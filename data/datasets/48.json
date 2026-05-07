@@ -5,7 +5,7 @@
   "opd_id": 11,
   "category": "livestock-fisheries",
   "url": "https://dasatama.magetan.go.id/detail/48",
-  "scraped_at": "2026-05-07T13:18:06",
+  "scraped_at": "2026-05-07T13:29:41Z",
   "metadata": {
     "concept": "Ternak Kecil",
     "classification": "Jenis Ternak Kecil",
@@ -42,7 +42,7 @@
     },
     {
       "name": "Kambing Perah",
-      "type": "string",
+      "type": "integer",
       "years": {
         "total": 3,
         "min": 2022,
@@ -51,15 +51,15 @@
       "values": [
         {
           "year": 2022,
-          "value": "454"
+          "value": 454
         },
         {
           "year": 2023,
-          "value": "713"
+          "value": 713
         },
         {
           "year": 2024,
-          "value": "-"
+          "value": null
         }
       ]
     },

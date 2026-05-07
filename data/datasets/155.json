@@ -5,7 +5,7 @@
   "opd_id": 11,
   "category": "livestock-fisheries",
   "url": "https://dasatama.magetan.go.id/detail/155",
-  "scraped_at": "2026-05-07T13:18:07",
+  "scraped_at": "2026-05-07T13:29:42Z",
   "metadata": {
     "concept": "Daging Ternak",
     "classification": "Jenis daging ternak",
@@ -42,7 +42,7 @@
     },
     {
       "name": "Sapi Perah",
-      "type": "string",
+      "type": "integer",
       "years": {
         "total": 3,
         "min": 2022,
@@ -51,21 +51,21 @@
       "values": [
         {
           "year": 2022,
-          "value": "0"
+          "value": 0
         },
         {
           "year": 2023,
-          "value": "0"
+          "value": 0
         },
         {
           "year": 2024,
-          "value": "-"
+          "value": null
         }
       ]
     },
     {
       "name": "Kerbau",
-      "type": "string",
+      "type": "integer",
       "years": {
         "total": 3,
         "min": 2022,
@@ -74,21 +74,21 @@
       "values": [
         {
           "year": 2022,
-          "value": "0"
+          "value": 0
         },
         {
           "year": 2023,
-          "value": "0"
+          "value": 0
         },
         {
           "year": 2024,
-          "value": "-"
+          "value": null
         }
       ]
     },
     {
       "name": "Kuda",
-      "type": "string",
+      "type": "integer",
       "years": {
         "total": 3,
         "min": 2022,
@@ -97,15 +97,15 @@
       "values": [
         {
           "year": 2022,
-          "value": "0"
+          "value": 0
         },
         {
           "year": 2023,
-          "value": "0"
+          "value": 0
         },
         {
           "year": 2024,
-          "value": "-"
+          "value": null
         }
       ]
     },
@@ -157,7 +157,7 @@
     },
     {
       "name": "Babi",
-      "type": "string",
+      "type": "integer",
       "years": {
         "total": 3,
         "min": 2022,
@@ -166,15 +166,15 @@
       "values": [
         {
           "year": 2022,
-          "value": "0"
+          "value": 0
         },
         {
           "year": 2023,
-          "value": "0"
+          "value": 0
         },
         {
           "year": 2024,
-          "value": "-"
+          "value": null
         }
       ]
     },

@@ -5,7 +5,7 @@
   "opd_id": 8,
   "category": "investment-sme",
   "url": "https://dasatama.magetan.go.id/detail/396",
-  "scraped_at": "2026-05-07T13:17:47",
+  "scraped_at": "2026-05-07T13:29:21Z",
   "metadata": {
     "concept": "Usaha Mikro",
     "classification": "",
@@ -19,7 +19,7 @@
   "data": [
     {
       "name": "Jumlah Usaha Mikro Naik Kelas",
-      "type": "string",
+      "type": "integer",
       "years": {
         "total": 5,
         "min": 2020,
@@ -28,23 +28,23 @@
       "values": [
         {
           "year": 2020,
-          "value": "-"
+          "value": null
         },
         {
           "year": 2021,
-          "value": "-"
+          "value": null
         },
         {
           "year": 2022,
-          "value": "1"
+          "value": 1
         },
         {
           "year": 2023,
-          "value": "1"
+          "value": 1
         },
         {
           "year": 2024,
-          "value": "3"
+          "value": 3
         }
       ]
     }

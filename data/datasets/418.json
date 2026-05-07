@@ -5,7 +5,7 @@
   "opd_id": 23,
   "category": "commodity-prices",
   "url": "https://dasatama.magetan.go.id/detail/418",
-  "scraped_at": "2026-05-07T13:19:39",
+  "scraped_at": "2026-05-07T13:31:14Z",
   "metadata": {
     "concept": "Harga Eceran",
     "classification": "",
@@ -42,7 +42,7 @@
     },
     {
       "name": "Februari",
-      "type": "string",
+      "type": "integer",
       "years": {
         "total": 3,
         "min": 2024,
@@ -51,21 +51,21 @@
       "values": [
         {
           "year": 2024,
-          "value": "77458"
+          "value": 77458
         },
         {
           "year": 2025,
-          "value": "45417"
+          "value": 45417
         },
         {
           "year": 2026,
-          "value": "-"
+          "value": null
         }
       ]
     },
     {
       "name": "Maret",
-      "type": "string",
+      "type": "integer",
       "years": {
         "total": 3,
         "min": 2024,
@@ -74,21 +74,21 @@
       "values": [
         {
           "year": 2024,
-          "value": "53459"
+          "value": 53459
         },
         {
           "year": 2025,
-          "value": "46666"
+          "value": 46666
         },
         {
           "year": 2026,
-          "value": "-"
+          "value": null
         }
       ]
     },
     {
       "name": "April",
-      "type": "string",
+      "type": "integer",
       "years": {
         "total": 3,
         "min": 2024,
@@ -97,21 +97,21 @@
       "values": [
         {
           "year": 2024,
-          "value": "42133"
+          "value": 42133
         },
         {
           "year": 2025,
-          "value": "40400"
+          "value": 40400
         },
         {
           "year": 2026,
-          "value": "-"
+          "value": null
         }
       ]
     },
     {
       "name": "Mei",
-      "type": "string",
+      "type": "integer",
       "years": {
         "total": 3,
         "min": 2024,
@@ -120,21 +120,21 @@
       "values": [
         {
           "year": 2024,
-          "value": "45000"
+          "value": 45000
         },
         {
           "year": 2025,
-          "value": "30500"
+          "value": 30500
         },
         {
           "year": 2026,
-          "value": "-"
+          "value": null
         }
       ]
     },
     {
       "name": "Juni",
-      "type": "string",
+      "type": "integer",
       "years": {
         "total": 3,
         "min": 2024,
@@ -143,21 +143,21 @@
       "values": [
         {
           "year": 2024,
-          "value": "46750"
+          "value": 46750
         },
         {
           "year": 2025,
-          "value": "32167"
+          "value": 32167
         },
         {
           "year": 2026,
-          "value": "-"
+          "value": null
         }
       ]
     },
     {
       "name": "Juli",
-      "type": "string",
+      "type": "integer",
       "years": {
         "total": 3,
         "min": 2024,
@@ -166,21 +166,21 @@
       "values": [
         {
           "year": 2024,
-          "value": "36083"
+          "value": 36083
         },
         {
           "year": 2025,
-          "value": "32900"
+          "value": 32900
         },
         {
           "year": 2026,
-          "value": "-"
+          "value": null
         }
       ]
     },
     {
       "name": "Agustus",
-      "type": "string",
+      "type": "integer",
       "years": {
         "total": 3,
         "min": 2024,
@@ -189,21 +189,21 @@
       "values": [
         {
           "year": 2024,
-          "value": "35167"
+          "value": 35167
         },
         {
           "year": 2025,
-          "value": "34333"
+          "value": 34333
         },
         {
           "year": 2026,
-          "value": "-"
+          "value": null
         }
       ]
     },
     {
       "name": "September",
-      "type": "string",
+      "type": "integer",
       "years": {
         "total": 3,
         "min": 2024,
@@ -212,21 +212,21 @@
       "values": [
         {
           "year": 2024,
-          "value": "24000"
+          "value": 24000
         },
         {
           "year": 2025,
-          "value": "36750"
+          "value": 36750
         },
         {
           "year": 2026,
-          "value": "-"
+          "value": null
         }
       ]
     },
     {
       "name": "Oktober",
-      "type": "string",
+      "type": "integer",
       "years": {
         "total": 3,
         "min": 2024,
@@ -235,21 +235,21 @@
       "values": [
         {
           "year": 2024,
-          "value": "21750"
+          "value": 21750
         },
         {
           "year": 2025,
-          "value": "48333"
+          "value": 48333
         },
         {
           "year": 2026,
-          "value": "-"
+          "value": null
         }
       ]
     },
     {
       "name": "November",
-      "type": "string",
+      "type": "integer",
       "years": {
         "total": 3,
         "min": 2024,
@@ -258,21 +258,21 @@
       "values": [
         {
           "year": 2024,
-          "value": "20533"
+          "value": 20533
         },
         {
           "year": 2025,
-          "value": "55083"
+          "value": 55083
         },
         {
           "year": 2026,
-          "value": "-"
+          "value": null
         }
       ]
     },
     {
       "name": "Desember",
-      "type": "string",
+      "type": "integer",
       "years": {
         "total": 3,
         "min": 2024,
@@ -281,15 +281,15 @@
       "values": [
         {
           "year": 2024,
-          "value": "34250"
+          "value": 34250
         },
         {
           "year": 2025,
-          "value": "44466"
+          "value": 44466
         },
         {
           "year": 2026,
-          "value": "-"
+          "value": null
         }
       ]
     }

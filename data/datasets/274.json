@@ -5,7 +5,7 @@
   "opd_id": 25,
   "category": "health",
   "url": "https://dasatama.magetan.go.id/detail/274",
-  "scraped_at": "2026-05-07T13:19:51",
+  "scraped_at": "2026-05-07T13:31:26Z",
   "metadata": {
     "concept": "Rawat Jalan",
     "classification": "Jenis klinik/poli",
@@ -38,7 +38,7 @@
     },
     {
       "name": "Klinik Geriatri",
-      "type": "string",
+      "type": "integer",
       "years": {
         "total": 2,
         "min": 2023,
@@ -47,11 +47,11 @@
       "values": [
         {
           "year": 2023,
-          "value": "22"
+          "value": 22
         },
         {
           "year": 2024,
-          "value": "-"
+          "value": null
         }
       ]
     },

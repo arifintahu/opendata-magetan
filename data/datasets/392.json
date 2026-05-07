@@ -5,7 +5,7 @@
   "opd_id": 3,
   "category": "governance",
   "url": "https://dasatama.magetan.go.id/detail/392",
-  "scraped_at": "2026-05-07T13:16:30",
+  "scraped_at": "2026-05-07T13:28:00Z",
   "metadata": {
     "concept": "Indeks Sistem Merit",
     "classification": "Wilayah",
@@ -19,7 +19,7 @@
   "data": [
     {
       "name": "Indeks Sistem Merit",
-      "type": "string",
+      "type": "number",
       "years": {
         "total": 6,
         "min": 2020,
@@ -28,27 +28,27 @@
       "values": [
         {
           "year": 2020,
-          "value": "165"
+          "value": 165.0
         },
         {
           "year": 2021,
-          "value": "160"
+          "value": 160.0
         },
         {
           "year": 2022,
-          "value": "270.5"
+          "value": 270.5
         },
         {
           "year": 2023,
-          "value": "288"
+          "value": 288.0
         },
         {
           "year": 2024,
-          "value": "3045"
+          "value": 3045.0
         },
         {
           "year": 2025,
-          "value": "-"
+          "value": null
         }
       ]
     }
