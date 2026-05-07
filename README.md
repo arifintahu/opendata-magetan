@@ -4,6 +4,8 @@ Structured data extracted from [Satu Data Magetan](https://dasatama.magetan.go.i
 
 ## Data source
 
+This data is extracted from the official public open data portal of Magetan Regency and is freely available for public use. All datasets are published by the regional government and accessible without authentication on the source portal.
+
 **Portal:** https://dasatama.magetan.go.id/  
 **Publisher:** Pemerintah Kabupaten Magetan  
 **Coverage:** 32 OPD, 454 datasets, 15 thematic categories
