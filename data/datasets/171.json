@@ -1,0 +1,251 @@
+{
+  "id": 171,
+  "title": "Jumlah Penduduk - Pendidikan",
+  "item_title": "Dinas Kependudukan dan Pencatatan Sipil",
+  "opd_id": 14,
+  "category": "demographics",
+  "url": "https://dasatama.magetan.go.id/detail/171",
+  "scraped_at": "2026-05-07T13:18:25",
+  "metadata": {
+    "concept": "Penduduk",
+    "classification": "Jenjang Pendidikan",
+    "measure": "Jumlah",
+    "unit": "Jiwa",
+    "period": "Tahunan",
+    "created_at": "2023-12-20 14:50:43",
+    "updated_at": ""
+  },
+  "total_data": 10,
+  "data": [
+    {
+      "name": "Tidak/Belum Sekolah",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 119331
+        },
+        {
+          "year": 2023,
+          "value": 117947
+        },
+        {
+          "year": 2024,
+          "value": 115844
+        }
+      ]
+    },
+    {
+      "name": "Belum Tamat SD",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 66031
+        },
+        {
+          "year": 2023,
+          "value": 66755
+        },
+        {
+          "year": 2024,
+          "value": 63295
+        }
+      ]
+    },
+    {
+      "name": "Tamat SD/Sederajat",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 188705
+        },
+        {
+          "year": 2023,
+          "value": 185951
+        },
+        {
+          "year": 2024,
+          "value": 182878
+        }
+      ]
+    },
+    {
+      "name": "SMP/Sederajat",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 114706
+        },
+        {
+          "year": 2023,
+          "value": 114401
+        },
+        {
+          "year": 2024,
+          "value": 113480
+        }
+      ]
+    },
+    {
+      "name": "SMA/Sederajat",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 160143
+        },
+        {
+          "year": 2023,
+          "value": 164505
+        },
+        {
+          "year": 2024,
+          "value": 172662
+        }
+      ]
+    },
+    {
+      "name": "D I/II",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 2337
+        },
+        {
+          "year": 2023,
+          "value": 2325
+        },
+        {
+          "year": 2024,
+          "value": 2289
+        }
+      ]
+    },
+    {
+      "name": "D III",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 7160
+        },
+        {
+          "year": 2023,
+          "value": 7477
+        },
+        {
+          "year": 2024,
+          "value": 7781
+        }
+      ]
+    },
+    {
+      "name": "D IV/ S 1",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 30464
+        },
+        {
+          "year": 2023,
+          "value": 31769
+        },
+        {
+          "year": 2024,
+          "value": 33056
+        }
+      ]
+    },
+    {
+      "name": "S 2",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 1326
+        },
+        {
+          "year": 2023,
+          "value": 1379
+        },
+        {
+          "year": 2024,
+          "value": 1470
+        }
+      ]
+    },
+    {
+      "name": "S 3",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 42
+        },
+        {
+          "year": 2023,
+          "value": 44
+        },
+        {
+          "year": 2024,
+          "value": 45
+        }
+      ]
+    }
+  ]
+}

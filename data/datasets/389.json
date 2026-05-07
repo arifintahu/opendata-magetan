@@ -1,0 +1,114 @@
+{
+  "id": 389,
+  "title": "Partisipasi Angkatan Kerja Perempuan",
+  "item_title": "Dinas Pengendalian Penduduk, Keluarga Berencana, Pemberdayaan Perempuan, dan Perlindungan Anak",
+  "opd_id": 21,
+  "category": "social-labor",
+  "url": "https://dasatama.magetan.go.id/detail/389",
+  "scraped_at": "2026-05-07T13:19:20",
+  "metadata": {
+    "concept": "angkatan kerja perempuan",
+    "classification": "",
+    "measure": "Jumlah; Persentase",
+    "unit": "Orang; Persen",
+    "period": "Tahunan",
+    "created_at": "2025-04-08 14:33:03",
+    "updated_at": ""
+  },
+  "total_data": 3,
+  "data": [
+    {
+      "name": "Jumlah Perempuan Usia Kerja (15-64 tahun)",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2020,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 229726
+        },
+        {
+          "year": 2021,
+          "value": 238339
+        },
+        {
+          "year": 2022,
+          "value": 237508
+        },
+        {
+          "year": 2023,
+          "value": 237123
+        },
+        {
+          "year": 2024,
+          "value": 236220
+        }
+      ]
+    },
+    {
+      "name": "Angkatan Kerja Perempuan",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2020,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 200415
+        },
+        {
+          "year": 2021,
+          "value": 193372
+        },
+        {
+          "year": 2022,
+          "value": 193917
+        },
+        {
+          "year": 2023,
+          "value": 191606
+        },
+        {
+          "year": 2024,
+          "value": 191054
+        }
+      ]
+    },
+    {
+      "name": "%",
+      "type": "number",
+      "years": {
+        "total": 5,
+        "min": 2020,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 87.24
+        },
+        {
+          "year": 2021,
+          "value": 81.13
+        },
+        {
+          "year": 2022,
+          "value": 81.65
+        },
+        {
+          "year": 2023,
+          "value": 80.8
+        },
+        {
+          "year": 2024,
+          "value": 80.88
+        }
+      ]
+    }
+  ]
+}

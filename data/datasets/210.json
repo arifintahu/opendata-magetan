@@ -1,0 +1,458 @@
+{
+  "id": 210,
+  "title": "Jumlah Rawat Inap Berdasarkan 10 Besar Penyakit",
+  "item_title": "RSUD Sayidiman",
+  "opd_id": 25,
+  "category": "health",
+  "url": "https://dasatama.magetan.go.id/detail/210",
+  "scraped_at": "2026-05-07T13:19:49",
+  "metadata": {
+    "concept": "Rawat Inap",
+    "classification": "Jenis Penyakit",
+    "measure": "Jumlah",
+    "unit": "Pasien",
+    "period": "Tahunan",
+    "created_at": "2024-01-15 11:29:56",
+    "updated_at": "2025-05-16 11:18:40"
+  },
+  "total_data": 19,
+  "data": [
+    {
+      "name": "Single Live Birth",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "1157"
+        },
+        {
+          "year": 2023,
+          "value": "-"
+        },
+        {
+          "year": 2024,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "Other Viral Pneumonia",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "1067"
+        },
+        {
+          "year": 2023,
+          "value": "-"
+        },
+        {
+          "year": 2024,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "Singleton, Born in Hospital",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "1056"
+        },
+        {
+          "year": 2023,
+          "value": "606"
+        },
+        {
+          "year": 2024,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "Non-insulin-dependent diabetes",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 766
+        },
+        {
+          "year": 2023,
+          "value": 609
+        },
+        {
+          "year": 2024,
+          "value": 1216
+        }
+      ]
+    },
+    {
+      "name": "Heart Failure",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "668"
+        },
+        {
+          "year": 2023,
+          "value": "-"
+        },
+        {
+          "year": 2024,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "Fetus and Newborn Affected by Caesarean Delivery",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "604"
+        },
+        {
+          "year": 2023,
+          "value": "573"
+        },
+        {
+          "year": 2024,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "Respiratory failure",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "558"
+        },
+        {
+          "year": 2023,
+          "value": "-"
+        },
+        {
+          "year": 2024,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "Delivery by Emergency Caesarean Section",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "555"
+        },
+        {
+          "year": 2023,
+          "value": "-"
+        },
+        {
+          "year": 2024,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "Anaemia",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "543"
+        },
+        {
+          "year": 2023,
+          "value": "-"
+        },
+        {
+          "year": 2024,
+          "value": "831"
+        }
+      ]
+    },
+    {
+      "name": "Chronic kidney disease, stage 5",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 778
+        },
+        {
+          "year": 2024,
+          "value": 881
+        }
+      ]
+    },
+    {
+      "name": "Gastroenteritis and colitis of unspecified origin",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 646
+        },
+        {
+          "year": 2024,
+          "value": 847
+        }
+      ]
+    },
+    {
+      "name": "Pneumonia, unspecified",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 568
+        },
+        {
+          "year": 2024,
+          "value": 1022
+        }
+      ]
+    },
+    {
+      "name": "Cerebral infarction, unspecified",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 513
+        },
+        {
+          "year": 2024,
+          "value": 717
+        }
+      ]
+    },
+    {
+      "name": "Dengue fever [classical dengue]",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 471
+        },
+        {
+          "year": 2024,
+          "value": 1552
+        }
+      ]
+    },
+    {
+      "name": "Acute subendocardial myocardial infarction",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "0"
+        },
+        {
+          "year": 2023,
+          "value": "462"
+        },
+        {
+          "year": 2024,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "Viral infection, unspecified",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "0"
+        },
+        {
+          "year": 2023,
+          "value": "448"
+        },
+        {
+          "year": 2024,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "Hypokalaemia",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 988
+        }
+      ]
+    },
+    {
+      "name": "Essential (primary) hypertension",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 872
+        }
+      ]
+    },
+    {
+      "name": "Dyspepsia",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 701
+        }
+      ]
+    }
+  ]
+}

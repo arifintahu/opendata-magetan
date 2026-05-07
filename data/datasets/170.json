@@ -1,0 +1,182 @@
+{
+  "id": 170,
+  "title": "Jumlah Penduduk - Agama",
+  "item_title": "Dinas Kependudukan dan Pencatatan Sipil",
+  "opd_id": 14,
+  "category": "demographics",
+  "url": "https://dasatama.magetan.go.id/detail/170",
+  "scraped_at": "2026-05-07T13:18:24",
+  "metadata": {
+    "concept": "Penduduk; Agama",
+    "classification": "Agama",
+    "measure": "Jumlah",
+    "unit": "Jiwa",
+    "period": "Tahunan",
+    "created_at": "2023-12-20 14:42:54",
+    "updated_at": ""
+  },
+  "total_data": 7,
+  "data": [
+    {
+      "name": "Islam",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 683059
+        },
+        {
+          "year": 2023,
+          "value": 685434
+        },
+        {
+          "year": 2024,
+          "value": 685786
+        }
+      ]
+    },
+    {
+      "name": "Kristen",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 5074
+        },
+        {
+          "year": 2023,
+          "value": 5055
+        },
+        {
+          "year": 2024,
+          "value": 4994
+        }
+      ]
+    },
+    {
+      "name": "Khatolik",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 1464
+        },
+        {
+          "year": 2023,
+          "value": 1432
+        },
+        {
+          "year": 2024,
+          "value": 1400
+        }
+      ]
+    },
+    {
+      "name": "Hindu",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 102
+        },
+        {
+          "year": 2023,
+          "value": 96
+        },
+        {
+          "year": 2024,
+          "value": 88
+        }
+      ]
+    },
+    {
+      "name": "Budha",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 530
+        },
+        {
+          "year": 2023,
+          "value": 521
+        },
+        {
+          "year": 2024,
+          "value": 515
+        }
+      ]
+    },
+    {
+      "name": "Konghucu",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 1
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Kepercayaan",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 15
+        },
+        {
+          "year": 2023,
+          "value": 15
+        },
+        {
+          "year": 2024,
+          "value": 17
+        }
+      ]
+    }
+  ]
+}

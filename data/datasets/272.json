@@ -1,0 +1,129 @@
+{
+  "id": 272,
+  "title": "Sebaran Proyek Berdasarkan Resiko",
+  "item_title": "Dinas Penanaman Modal dan Pelayanan Satu Pintu",
+  "opd_id": 18,
+  "category": "investment-sme",
+  "url": "https://dasatama.magetan.go.id/detail/272",
+  "scraped_at": "2026-05-07T13:18:59",
+  "metadata": {
+    "concept": "Bidang Usaha/KBLI berdasarkan resiko",
+    "classification": "Tingkatan Resiko",
+    "measure": "Jumlah",
+    "unit": "Proyek",
+    "period": "Tahunan",
+    "created_at": "2024-02-28 14:08:05",
+    "updated_at": "2026-02-25 11:06:17"
+  },
+  "total_data": 4,
+  "data": [
+    {
+      "name": "Rendah",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 4455
+        },
+        {
+          "year": 2023,
+          "value": 16884
+        },
+        {
+          "year": 2024,
+          "value": 8049
+        },
+        {
+          "year": 2025,
+          "value": 6644
+        }
+      ]
+    },
+    {
+      "name": "Menengah Rendah",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 592
+        },
+        {
+          "year": 2023,
+          "value": 2183
+        },
+        {
+          "year": 2024,
+          "value": 890
+        },
+        {
+          "year": 2025,
+          "value": 1016
+        }
+      ]
+    },
+    {
+      "name": "Menengah Tinggi",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 1149
+        },
+        {
+          "year": 2023,
+          "value": 1260
+        },
+        {
+          "year": 2024,
+          "value": 833
+        },
+        {
+          "year": 2025,
+          "value": 674
+        }
+      ]
+    },
+    {
+      "name": "Tinggi",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 320
+        },
+        {
+          "year": 2023,
+          "value": 339
+        },
+        {
+          "year": 2024,
+          "value": 248
+        },
+        {
+          "year": 2025,
+          "value": 286
+        }
+      ]
+    }
+  ]
+}

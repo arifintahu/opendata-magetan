@@ -1,0 +1,363 @@
+{
+  "id": 147,
+  "title": "Karang Taruna (Kecamatan)",
+  "item_title": "Dinas Sosial",
+  "opd_id": 9,
+  "category": "social-labor",
+  "url": "https://dasatama.magetan.go.id/detail/147",
+  "scraped_at": "2026-05-07T13:17:57",
+  "metadata": {
+    "concept": "Karang Taruna",
+    "classification": "Wilayah (Kecamatan)",
+    "measure": "Jumlah",
+    "unit": "Karang Taruna",
+    "period": "Tahunan",
+    "created_at": "2023-12-20 10:06:12",
+    "updated_at": ""
+  },
+  "total_data": 18,
+  "data": [
+    {
+      "name": "Barat",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 14
+        },
+        {
+          "year": 2024,
+          "value": 14
+        }
+      ]
+    },
+    {
+      "name": "Bendo",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 16
+        },
+        {
+          "year": 2024,
+          "value": 16
+        }
+      ]
+    },
+    {
+      "name": "Karangrejo",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 14
+        },
+        {
+          "year": 2024,
+          "value": 13
+        }
+      ]
+    },
+    {
+      "name": "Karas",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 10
+        },
+        {
+          "year": 2024,
+          "value": 11
+        }
+      ]
+    },
+    {
+      "name": "Kartoharjo",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 13
+        },
+        {
+          "year": 2024,
+          "value": 12
+        }
+      ]
+    },
+    {
+      "name": "Kawedanan",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 20
+        },
+        {
+          "year": 2024,
+          "value": 20
+        }
+      ]
+    },
+    {
+      "name": "Lembeyan",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 10
+        }
+      ]
+    },
+    {
+      "name": "Magetan",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 14
+        }
+      ]
+    },
+    {
+      "name": "Maospati",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 15
+        }
+      ]
+    },
+    {
+      "name": "Ngariboyo",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 12
+        }
+      ]
+    },
+    {
+      "name": "Nguntoronadi",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 8
+        },
+        {
+          "year": 2024,
+          "value": 9
+        }
+      ]
+    },
+    {
+      "name": "Panekan",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 16
+        },
+        {
+          "year": 2024,
+          "value": 17
+        }
+      ]
+    },
+    {
+      "name": "Parang",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 13
+        },
+        {
+          "year": 2024,
+          "value": 13
+        }
+      ]
+    },
+    {
+      "name": "Plaosan",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 15
+        }
+      ]
+    },
+    {
+      "name": "Poncol",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 7
+        },
+        {
+          "year": 2024,
+          "value": 8
+        }
+      ]
+    },
+    {
+      "name": "Sidorejo",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 11
+        },
+        {
+          "year": 2024,
+          "value": 10
+        }
+      ]
+    },
+    {
+      "name": "Sukomoro",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 13
+        },
+        {
+          "year": 2024,
+          "value": 14
+        }
+      ]
+    },
+    {
+      "name": "Takeran",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 12
+        },
+        {
+          "year": 2024,
+          "value": 12
+        }
+      ]
+    }
+  ]
+}

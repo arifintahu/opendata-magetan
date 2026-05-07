@@ -1,0 +1,1666 @@
+{
+  "id": 326,
+  "title": "KUNJUNGAN WISATA",
+  "item_title": "Dinas Pariwisata dan Kebudayaan",
+  "opd_id": 13,
+  "category": "tourism-culture",
+  "url": "https://dasatama.magetan.go.id/detail/326",
+  "scraped_at": "2026-05-07T13:18:19",
+  "metadata": {
+    "concept": "Wisata",
+    "classification": "Objek Wisata",
+    "measure": "Jumlah",
+    "unit": "Wisatawan",
+    "period": "Tahunan",
+    "created_at": "2024-07-24 18:27:32",
+    "updated_at": "2026-02-26 08:29:51"
+  },
+  "total_data": 47,
+  "data": [
+    {
+      "name": "Sarangan",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 635680
+        },
+        {
+          "year": 2021,
+          "value": 549522
+        },
+        {
+          "year": 2022,
+          "value": 919374
+        },
+        {
+          "year": 2023,
+          "value": 1082696
+        },
+        {
+          "year": 2024,
+          "value": 1080666
+        },
+        {
+          "year": 2025,
+          "value": 1088845
+        }
+      ]
+    },
+    {
+      "name": "Mojosemi Forest Park",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 42730
+        },
+        {
+          "year": 2021,
+          "value": 164770
+        },
+        {
+          "year": 2022,
+          "value": 255567
+        },
+        {
+          "year": 2023,
+          "value": 166567
+        },
+        {
+          "year": 2024,
+          "value": 112420
+        },
+        {
+          "year": 2025,
+          "value": 63152
+        }
+      ]
+    },
+    {
+      "name": "Taman Bunga Refugia",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 30938
+        },
+        {
+          "year": 2021,
+          "value": 29265
+        },
+        {
+          "year": 2022,
+          "value": 71524
+        },
+        {
+          "year": 2023,
+          "value": 70090
+        },
+        {
+          "year": 2024,
+          "value": 48608
+        },
+        {
+          "year": 2025,
+          "value": 43686
+        }
+      ]
+    },
+    {
+      "name": "Magetan Park",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 1922
+        },
+        {
+          "year": 2021,
+          "value": 11330
+        },
+        {
+          "year": 2022,
+          "value": 47137
+        },
+        {
+          "year": 2023,
+          "value": 49734
+        },
+        {
+          "year": 2024,
+          "value": 40993
+        },
+        {
+          "year": 2025,
+          "value": 49663
+        }
+      ]
+    },
+    {
+      "name": "Kolam Renang Banyu Biru",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 7359
+        },
+        {
+          "year": 2022,
+          "value": 57247
+        },
+        {
+          "year": 2023,
+          "value": 65195
+        },
+        {
+          "year": 2024,
+          "value": 54234
+        },
+        {
+          "year": 2025,
+          "value": 46190
+        }
+      ]
+    },
+    {
+      "name": "Taman Wisata Desa Jabung",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 13360
+        },
+        {
+          "year": 2021,
+          "value": 18743
+        },
+        {
+          "year": 2022,
+          "value": 30142
+        },
+        {
+          "year": 2023,
+          "value": 37187
+        },
+        {
+          "year": 2024,
+          "value": 31071
+        },
+        {
+          "year": 2025,
+          "value": 25717
+        }
+      ]
+    },
+    {
+      "name": "Taman Wisata Genilangit",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 46411
+        },
+        {
+          "year": 2021,
+          "value": 28973
+        },
+        {
+          "year": 2022,
+          "value": 97187
+        },
+        {
+          "year": 2023,
+          "value": 35305
+        },
+        {
+          "year": 2024,
+          "value": 27803
+        },
+        {
+          "year": 2025,
+          "value": 26550
+        }
+      ]
+    },
+    {
+      "name": "Air Terjun Tirtosari",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 15731
+        },
+        {
+          "year": 2021,
+          "value": 14757
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 34374
+        },
+        {
+          "year": 2024,
+          "value": 20401
+        },
+        {
+          "year": 2025,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Kampung susu Singolangu",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 5050
+        },
+        {
+          "year": 2021,
+          "value": 13355
+        },
+        {
+          "year": 2022,
+          "value": 24868
+        },
+        {
+          "year": 2023,
+          "value": 23626
+        },
+        {
+          "year": 2024,
+          "value": 28495
+        },
+        {
+          "year": 2025,
+          "value": 31431
+        }
+      ]
+    },
+    {
+      "name": "Mbah Djoe Resort",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 4760
+        },
+        {
+          "year": 2021,
+          "value": 42991
+        },
+        {
+          "year": 2022,
+          "value": 40656
+        },
+        {
+          "year": 2023,
+          "value": 20338
+        },
+        {
+          "year": 2024,
+          "value": 3088
+        },
+        {
+          "year": 2025,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Magetan Green Garden",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 7251
+        },
+        {
+          "year": 2021,
+          "value": 9523
+        },
+        {
+          "year": 2022,
+          "value": 21142
+        },
+        {
+          "year": 2023,
+          "value": 12955
+        },
+        {
+          "year": 2024,
+          "value": 13308
+        },
+        {
+          "year": 2025,
+          "value": 11499
+        }
+      ]
+    },
+    {
+      "name": "Wana wisata Alas Tuwo",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 5972
+        },
+        {
+          "year": 2021,
+          "value": 6337
+        },
+        {
+          "year": 2022,
+          "value": 4575
+        },
+        {
+          "year": 2023,
+          "value": 8135
+        },
+        {
+          "year": 2024,
+          "value": 19808
+        },
+        {
+          "year": 2025,
+          "value": 143
+        }
+      ]
+    },
+    {
+      "name": "Telaga Wahyu",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 4954
+        },
+        {
+          "year": 2021,
+          "value": 5026
+        },
+        {
+          "year": 2022,
+          "value": 7349
+        },
+        {
+          "year": 2023,
+          "value": 5007
+        },
+        {
+          "year": 2024,
+          "value": 6619
+        },
+        {
+          "year": 2025,
+          "value": 5631
+        }
+      ]
+    },
+    {
+      "name": "Wisata Pendakian Gunung Lawu Jalur Cemoro Sewu",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 22639
+        },
+        {
+          "year": 2021,
+          "value": 10448
+        },
+        {
+          "year": 2022,
+          "value": 3305
+        },
+        {
+          "year": 2023,
+          "value": 13747
+        },
+        {
+          "year": 2024,
+          "value": 47389
+        },
+        {
+          "year": 2025,
+          "value": 213
+        }
+      ]
+    },
+    {
+      "name": "Lawu Green Forest",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 19457
+        },
+        {
+          "year": 2021,
+          "value": 19915
+        },
+        {
+          "year": 2022,
+          "value": 7277
+        },
+        {
+          "year": 2023,
+          "value": 29374
+        },
+        {
+          "year": 2024,
+          "value": 25759
+        },
+        {
+          "year": 2025,
+          "value": 8178
+        }
+      ]
+    },
+    {
+      "name": "Kolam Renang Sendang Bening",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 2788
+        },
+        {
+          "year": 2021,
+          "value": 23997
+        },
+        {
+          "year": 2022,
+          "value": 1727
+        },
+        {
+          "year": 2023,
+          "value": 34262
+        },
+        {
+          "year": 2024,
+          "value": 28515
+        },
+        {
+          "year": 2025,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Hargo Dalem",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 6181
+        },
+        {
+          "year": 2024,
+          "value": 35086
+        },
+        {
+          "year": 2025,
+          "value": 51613
+        }
+      ]
+    },
+    {
+      "name": "Taman Tirto Gumarang",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 13051
+        },
+        {
+          "year": 2021,
+          "value": 2804
+        },
+        {
+          "year": 2022,
+          "value": 3562
+        },
+        {
+          "year": 2023,
+          "value": 3799
+        },
+        {
+          "year": 2024,
+          "value": 0
+        },
+        {
+          "year": 2025,
+          "value": 202
+        }
+      ]
+    },
+    {
+      "name": "Parang Hill",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 5203
+        },
+        {
+          "year": 2022,
+          "value": 22134
+        },
+        {
+          "year": 2023,
+          "value": 15006
+        },
+        {
+          "year": 2024,
+          "value": 8747
+        },
+        {
+          "year": 2025,
+          "value": 3657
+        }
+      ]
+    },
+    {
+      "name": "Randugede Hidden Paradise/ Wisata Bukit Serimpi",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 16880
+        },
+        {
+          "year": 2021,
+          "value": 10815
+        },
+        {
+          "year": 2022,
+          "value": 2333
+        },
+        {
+          "year": 2023,
+          "value": 1810
+        },
+        {
+          "year": 2024,
+          "value": 50118
+        },
+        {
+          "year": 2025,
+          "value": 95993
+        }
+      ]
+    },
+    {
+      "name": "Kolam Renang Sumber Barokah",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 7605
+        },
+        {
+          "year": 2024,
+          "value": 7634
+        },
+        {
+          "year": 2025,
+          "value": 7720
+        }
+      ]
+    },
+    {
+      "name": "Taman Soheden",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 14454
+        },
+        {
+          "year": 2024,
+          "value": 7608
+        },
+        {
+          "year": 2025,
+          "value": 4163
+        }
+      ]
+    },
+    {
+      "name": "Wisata Bumi Langit Petungrejo",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 17976
+        },
+        {
+          "year": 2024,
+          "value": 20348
+        },
+        {
+          "year": 2025,
+          "value": 250
+        }
+      ]
+    },
+    {
+      "name": "Monumen Soco",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 519
+        },
+        {
+          "year": 2022,
+          "value": 519
+        },
+        {
+          "year": 2023,
+          "value": 2207
+        },
+        {
+          "year": 2024,
+          "value": 1089
+        },
+        {
+          "year": 2025,
+          "value": 745
+        }
+      ]
+    },
+    {
+      "name": "Makam Ronggogalih",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 2569
+        },
+        {
+          "year": 2022,
+          "value": 2569
+        },
+        {
+          "year": 2023,
+          "value": 3294
+        },
+        {
+          "year": 2024,
+          "value": 3246
+        },
+        {
+          "year": 2025,
+          "value": 2343
+        }
+      ]
+    },
+    {
+      "name": "Sendang Kamal",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 1881
+        },
+        {
+          "year": 2024,
+          "value": 1573
+        },
+        {
+          "year": 2025,
+          "value": 2361
+        }
+      ]
+    },
+    {
+      "name": "Makam Kertonegoro",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 82
+        },
+        {
+          "year": 2022,
+          "value": 82
+        },
+        {
+          "year": 2023,
+          "value": 187
+        },
+        {
+          "year": 2024,
+          "value": 128
+        },
+        {
+          "year": 2025,
+          "value": 135
+        }
+      ]
+    },
+    {
+      "name": "Makam Ki Nantang Yudho",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 119
+        },
+        {
+          "year": 2022,
+          "value": 119
+        },
+        {
+          "year": 2023,
+          "value": 774
+        },
+        {
+          "year": 2024,
+          "value": 605
+        },
+        {
+          "year": 2025,
+          "value": 676
+        }
+      ]
+    },
+    {
+      "name": "Monumen Kesaktian Pancasila/ Pabrik Gula Rejosari",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 305
+        },
+        {
+          "year": 2022,
+          "value": 305
+        },
+        {
+          "year": 2023,
+          "value": 1090
+        },
+        {
+          "year": 2024,
+          "value": 900
+        },
+        {
+          "year": 2025,
+          "value": 684
+        }
+      ]
+    },
+    {
+      "name": "Desa Wisata Sidomukti",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 2745
+        },
+        {
+          "year": 2021,
+          "value": 2842
+        },
+        {
+          "year": 2022,
+          "value": 3859
+        },
+        {
+          "year": 2023,
+          "value": 3424
+        },
+        {
+          "year": 2024,
+          "value": 1906
+        },
+        {
+          "year": 2025,
+          "value": 1384
+        }
+      ]
+    },
+    {
+      "name": "Makam Maduretno",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 6309
+        },
+        {
+          "year": 2023,
+          "value": 1625
+        },
+        {
+          "year": 2024,
+          "value": 1597
+        },
+        {
+          "year": 2025,
+          "value": 2334
+        }
+      ]
+    },
+    {
+      "name": "Makam Ki Hajar Wonokoso",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 646
+        },
+        {
+          "year": 2024,
+          "value": 902
+        },
+        {
+          "year": 2025,
+          "value": 1075
+        }
+      ]
+    },
+    {
+      "name": "Makam Ki Mageti",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 70
+        },
+        {
+          "year": 2024,
+          "value": 84
+        },
+        {
+          "year": 2025,
+          "value": 58
+        }
+      ]
+    },
+    {
+      "name": "Punden Sonokeling",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 110
+        },
+        {
+          "year": 2022,
+          "value": 110
+        },
+        {
+          "year": 2023,
+          "value": 108
+        },
+        {
+          "year": 2024,
+          "value": 142
+        },
+        {
+          "year": 2025,
+          "value": 140
+        }
+      ]
+    },
+    {
+      "name": "Makam Yosonegoro",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 202
+        },
+        {
+          "year": 2022,
+          "value": 202
+        },
+        {
+          "year": 2023,
+          "value": 570
+        },
+        {
+          "year": 2024,
+          "value": 548
+        },
+        {
+          "year": 2025,
+          "value": 533
+        }
+      ]
+    },
+    {
+      "name": "Situs Kadipaten Purwodadi",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 257
+        },
+        {
+          "year": 2022,
+          "value": 257
+        },
+        {
+          "year": 2023,
+          "value": 9157
+        },
+        {
+          "year": 2024,
+          "value": 6505
+        },
+        {
+          "year": 2025,
+          "value": 6429
+        }
+      ]
+    },
+    {
+      "name": "Makam Nrang Kusumo",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 79
+        },
+        {
+          "year": 2022,
+          "value": 79
+        },
+        {
+          "year": 2023,
+          "value": 154
+        },
+        {
+          "year": 2024,
+          "value": 150
+        },
+        {
+          "year": 2025,
+          "value": 151
+        }
+      ]
+    },
+    {
+      "name": "Alun Alun Magetan",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 219024
+        },
+        {
+          "year": 2024,
+          "value": 320916
+        },
+        {
+          "year": 2025,
+          "value": 301508
+        }
+      ]
+    },
+    {
+      "name": "Jalan Sawo",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 153600
+        },
+        {
+          "year": 2024,
+          "value": 187200
+        },
+        {
+          "year": 2025,
+          "value": 180800
+        }
+      ]
+    },
+    {
+      "name": "Wisata Kuliner Jalan Tembus",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 594000
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 475200
+        },
+        {
+          "year": 2024,
+          "value": 531900
+        },
+        {
+          "year": 2025,
+          "value": 521100
+        }
+      ]
+    },
+    {
+      "name": "Pengunjung event",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 9000
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 126750
+        },
+        {
+          "year": 2024,
+          "value": 268360
+        },
+        {
+          "year": 2025,
+          "value": 747773
+        }
+      ]
+    },
+    {
+      "name": "Taman Ria Iswahjudi (TAMRIS)",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        },
+        {
+          "year": 2025,
+          "value": 134596
+        }
+      ]
+    },
+    {
+      "name": "Masjid Kuno Tamanarum",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        },
+        {
+          "year": 2025,
+          "value": 5237
+        }
+      ]
+    },
+    {
+      "name": "Petirtaan Dewi Sri",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        },
+        {
+          "year": 2025,
+          "value": 1059
+        }
+      ]
+    },
+    {
+      "name": "Sendang Bening",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        },
+        {
+          "year": 2025,
+          "value": 418
+        }
+      ]
+    },
+    {
+      "name": "Makam Kembang Sore (cagar budaya)",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        },
+        {
+          "year": 2025,
+          "value": 151
+        }
+      ]
+    },
+    {
+      "name": "Prasasti Batu Bertulis Bulugledeg Bendo",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        },
+        {
+          "year": 2025,
+          "value": 5
+        }
+      ]
+    }
+  ]
+}

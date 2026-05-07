@@ -1,0 +1,205 @@
+{
+  "id": 168,
+  "title": "Jumlah Penduduk - Kelompok Umur",
+  "item_title": "Dinas Kependudukan dan Pencatatan Sipil",
+  "opd_id": 14,
+  "category": "demographics",
+  "url": "https://dasatama.magetan.go.id/detail/168",
+  "scraped_at": "2026-05-07T13:18:23",
+  "metadata": {
+    "concept": "Penduduk",
+    "classification": "Kelompok Umur",
+    "measure": "Jumlah",
+    "unit": "Jiwa",
+    "period": "Tahunan",
+    "created_at": "2023-12-20 14:31:49",
+    "updated_at": ""
+  },
+  "total_data": 8,
+  "data": [
+    {
+      "name": "0-9",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 73950
+        },
+        {
+          "year": 2023,
+          "value": 81338
+        },
+        {
+          "year": 2024,
+          "value": 79485
+        }
+      ]
+    },
+    {
+      "name": "10-19",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 94544
+        },
+        {
+          "year": 2023,
+          "value": 94770
+        },
+        {
+          "year": 2024,
+          "value": 94882
+        }
+      ]
+    },
+    {
+      "name": "20-29",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 91233
+        },
+        {
+          "year": 2023,
+          "value": 90873
+        },
+        {
+          "year": 2024,
+          "value": 90986
+        }
+      ]
+    },
+    {
+      "name": "30-39",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 90061
+        },
+        {
+          "year": 2023,
+          "value": 89932
+        },
+        {
+          "year": 2024,
+          "value": 87156
+        }
+      ]
+    },
+    {
+      "name": "40-49",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 105406
+        },
+        {
+          "year": 2023,
+          "value": 105318
+        },
+        {
+          "year": 2024,
+          "value": 105833
+        }
+      ]
+    },
+    {
+      "name": "50-59",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 94612
+        },
+        {
+          "year": 2023,
+          "value": 94087
+        },
+        {
+          "year": 2024,
+          "value": 95522
+        }
+      ]
+    },
+    {
+      "name": "60-69",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 78246
+        },
+        {
+          "year": 2023,
+          "value": 77040
+        },
+        {
+          "year": 2024,
+          "value": 76157
+        }
+      ]
+    },
+    {
+      "name": ">=70",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 62193
+        },
+        {
+          "year": 2023,
+          "value": 59195
+        },
+        {
+          "year": 2024,
+          "value": 62779
+        }
+      ]
+    }
+  ]
+}

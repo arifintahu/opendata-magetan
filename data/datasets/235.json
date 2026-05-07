@@ -1,0 +1,345 @@
+{
+  "id": 235,
+  "title": "Realisasi PBB Daerah",
+  "item_title": "Badan Pengelolaan Keuangan dan Pendapatan Daerah",
+  "opd_id": 5,
+  "category": "governance",
+  "url": "https://dasatama.magetan.go.id/detail/235",
+  "scraped_at": "2026-05-07T13:16:41",
+  "metadata": {
+    "concept": "Pajak Bumi Dan Bangunan",
+    "classification": "",
+    "measure": "Jumlah",
+    "unit": "Rupiah",
+    "period": "Bulanan",
+    "created_at": "2024-02-22 11:44:29",
+    "updated_at": ""
+  },
+  "total_data": 12,
+  "data": [
+    {
+      "name": "Januari",
+      "type": "number",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 560827585.0
+        },
+        {
+          "year": 2022,
+          "value": 119230709.0
+        },
+        {
+          "year": 2023,
+          "value": 78641035.0
+        },
+        {
+          "year": 2024,
+          "value": 11682522.0
+        }
+      ]
+    },
+    {
+      "name": "Februari",
+      "type": "number",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 1509473427.0
+        },
+        {
+          "year": 2022,
+          "value": 5905125852.0
+        },
+        {
+          "year": 2023,
+          "value": 267127131.0
+        },
+        {
+          "year": 2024,
+          "value": 3201977.0
+        }
+      ]
+    },
+    {
+      "name": "Maret",
+      "type": "number",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 2567848192.0
+        },
+        {
+          "year": 2022,
+          "value": 53875035.0
+        },
+        {
+          "year": 2023,
+          "value": 779828203.0
+        },
+        {
+          "year": 2024,
+          "value": 129385476.0
+        }
+      ]
+    },
+    {
+      "name": "April",
+      "type": "number",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 6609660315.0
+        },
+        {
+          "year": 2022,
+          "value": 36567560.0
+        },
+        {
+          "year": 2023,
+          "value": 645496613.0
+        },
+        {
+          "year": 2024,
+          "value": 277937215.0
+        }
+      ]
+    },
+    {
+      "name": "Mei",
+      "type": "number",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 67801740.0
+        },
+        {
+          "year": 2022,
+          "value": 476000914.0
+        },
+        {
+          "year": 2023,
+          "value": 2406779878.0
+        },
+        {
+          "year": 2024,
+          "value": 1748346971.0
+        }
+      ]
+    },
+    {
+      "name": "Juni",
+      "type": "number",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 233530640.0
+        },
+        {
+          "year": 2022,
+          "value": 6851678034.0
+        },
+        {
+          "year": 2023,
+          "value": 2564496682.0
+        },
+        {
+          "year": 2024,
+          "value": 4661762924.0
+        }
+      ]
+    },
+    {
+      "name": "Juli",
+      "type": "number",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 35112013.0
+        },
+        {
+          "year": 2022,
+          "value": 4295074006.0
+        },
+        {
+          "year": 2023,
+          "value": 4661564149.0
+        },
+        {
+          "year": 2024,
+          "value": 6973495673.0
+        }
+      ]
+    },
+    {
+      "name": "Agustus",
+      "type": "number",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 1447229501.0
+        },
+        {
+          "year": 2022,
+          "value": 1684986318.0
+        },
+        {
+          "year": 2023,
+          "value": 7295071866.0
+        },
+        {
+          "year": 2024,
+          "value": 7675839648.0
+        }
+      ]
+    },
+    {
+      "name": "September",
+      "type": "number",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 6824240162.0
+        },
+        {
+          "year": 2022,
+          "value": 625614802.0
+        },
+        {
+          "year": 2023,
+          "value": 5638289982.0
+        },
+        {
+          "year": 2024,
+          "value": 5795573034.0
+        }
+      ]
+    },
+    {
+      "name": "Oktober",
+      "type": "number",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 2654790139.0
+        },
+        {
+          "year": 2022,
+          "value": 47954230.0
+        },
+        {
+          "year": 2023,
+          "value": 340676245.0
+        },
+        {
+          "year": 2024,
+          "value": 315185511.0
+        }
+      ]
+    },
+    {
+      "name": "November",
+      "type": "number",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 1276370502.0
+        },
+        {
+          "year": 2022,
+          "value": 879211098.0
+        },
+        {
+          "year": 2023,
+          "value": 11849258.0
+        },
+        {
+          "year": 2024,
+          "value": 10936374.0
+        }
+      ]
+    },
+    {
+      "name": "Desember",
+      "type": "number",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 21704251.0
+        },
+        {
+          "year": 2022,
+          "value": 2893292600.0
+        },
+        {
+          "year": 2023,
+          "value": 6059337.0
+        },
+        {
+          "year": 2024,
+          "value": 9111900.0
+        }
+      ]
+    }
+  ]
+}

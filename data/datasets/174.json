@@ -1,0 +1,67 @@
+{
+  "id": 174,
+  "title": "Kepemilikan Akta Perkawinan",
+  "item_title": "Dinas Kependudukan dan Pencatatan Sipil",
+  "opd_id": 14,
+  "category": "demographics",
+  "url": "https://dasatama.magetan.go.id/detail/174",
+  "scraped_at": "2026-05-07T13:18:26",
+  "metadata": {
+    "concept": "Akta Perkawinan",
+    "classification": "Status Kepemilikan",
+    "measure": "Jumlah",
+    "unit": "",
+    "period": "Tahunan",
+    "created_at": "2023-12-20 15:03:47",
+    "updated_at": ""
+  },
+  "total_data": 2,
+  "data": [
+    {
+      "name": "Memiliki",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 230253
+        },
+        {
+          "year": 2023,
+          "value": 249022
+        },
+        {
+          "year": 2024,
+          "value": 264451
+        }
+      ]
+    },
+    {
+      "name": "Belum Memiliki",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 132418
+        },
+        {
+          "year": 2023,
+          "value": 111925
+        },
+        {
+          "year": 2024,
+          "value": 93670
+        }
+      ]
+    }
+  ]
+}

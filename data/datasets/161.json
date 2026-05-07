@@ -1,0 +1,156 @@
+{
+  "id": 161,
+  "title": "Pengiriman Ternak Keluar Magetan",
+  "item_title": "Dinas Peternakan dan Perikanan",
+  "opd_id": 11,
+  "category": "livestock-fisheries",
+  "url": "https://dasatama.magetan.go.id/detail/161",
+  "scraped_at": "2026-05-07T13:18:10",
+  "metadata": {
+    "concept": "Pengiriman Ternak",
+    "classification": "Jenis Ternak",
+    "measure": "Jumlah",
+    "unit": "Ekor",
+    "period": "Tahunan",
+    "created_at": "2023-12-20 10:59:02",
+    "updated_at": ""
+  },
+  "total_data": 5,
+  "data": [
+    {
+      "name": "Sapi Potong",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 722
+        },
+        {
+          "year": 2022,
+          "value": 722
+        },
+        {
+          "year": 2023,
+          "value": 598
+        },
+        {
+          "year": 2024,
+          "value": 356
+        }
+      ]
+    },
+    {
+      "name": "Kambing",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 159
+        },
+        {
+          "year": 2022,
+          "value": 159
+        },
+        {
+          "year": 2023,
+          "value": 327
+        },
+        {
+          "year": 2024,
+          "value": 571
+        }
+      ]
+    },
+    {
+      "name": "Babi",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 763
+        },
+        {
+          "year": 2022,
+          "value": 769
+        },
+        {
+          "year": 2023,
+          "value": 4131
+        },
+        {
+          "year": 2024,
+          "value": 6431
+        }
+      ]
+    },
+    {
+      "name": "Kelinci",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 7
+        },
+        {
+          "year": 2022,
+          "value": 7
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Ayam Pedaging",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 350
+        },
+        {
+          "year": 2022,
+          "value": 350
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "id": 196,
+  "title": "Jumlah Peserta Pembinaan Bina Keluarga dan PIK-R di Kabupaten Magetan",
+  "item_title": "Dinas Pengendalian Penduduk, Keluarga Berencana, Pemberdayaan Perempuan, dan Perlindungan Anak",
+  "opd_id": 21,
+  "category": "health",
+  "url": "https://dasatama.magetan.go.id/detail/196",
+  "scraped_at": "2026-05-07T13:19:17",
+  "metadata": {
+    "concept": "Individu/anggota masyarakat yang menjadi peserta kegiatan pembinaan keluarga dan remaja dalam program Bangga Kencana",
+    "classification": "Jenis kelompok kegiatan: Bina Keluarga Balita (BKB), Bina Keluarga Remaja (BKR), Bina Keluarga Lansia (BKL), dan Pusat Informasi dan Konseling Remaja (PIK-R)",
+    "measure": "Jumlah",
+    "unit": "Orang",
+    "period": "Tahunan",
+    "created_at": "2024-01-15 10:08:27",
+    "updated_at": "2026-02-06 10:26:09"
+  },
+  "total_data": 4,
+  "data": [
+    {
+      "name": "BKB",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 573
+        },
+        {
+          "year": 2022,
+          "value": 636
+        },
+        {
+          "year": 2023,
+          "value": 610
+        },
+        {
+          "year": 2024,
+          "value": 600
+        },
+        {
+          "year": 2025,
+          "value": 604
+        }
+      ]
+    },
+    {
+      "name": "BKR",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 228
+        },
+        {
+          "year": 2022,
+          "value": 248
+        },
+        {
+          "year": 2023,
+          "value": 234
+        },
+        {
+          "year": 2024,
+          "value": 239
+        },
+        {
+          "year": 2025,
+          "value": 239
+        }
+      ]
+    },
+    {
+      "name": "BKL",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 230
+        },
+        {
+          "year": 2022,
+          "value": 245
+        },
+        {
+          "year": 2023,
+          "value": 241
+        },
+        {
+          "year": 2024,
+          "value": 246
+        },
+        {
+          "year": 2025,
+          "value": 247
+        }
+      ]
+    },
+    {
+      "name": "PIK-R",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 155
+        },
+        {
+          "year": 2022,
+          "value": 186
+        },
+        {
+          "year": 2023,
+          "value": 189
+        },
+        {
+          "year": 2024,
+          "value": 197
+        },
+        {
+          "year": 2025,
+          "value": 227
+        }
+      ]
+    }
+  ]
+}

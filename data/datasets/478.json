@@ -1,0 +1,201 @@
+{
+  "id": 478,
+  "title": "Curah Hujan Maksimum",
+  "item_title": "BPS Kabupaten Magetan",
+  "opd_id": 41,
+  "category": "infrastructure",
+  "url": "https://dasatama.magetan.go.id/detail/478",
+  "scraped_at": "2026-05-07T13:20:30",
+  "metadata": {
+    "concept": "Curah hujan",
+    "classification": "Periode",
+    "measure": "Volume",
+    "unit": "mm",
+    "period": "Bulanan",
+    "created_at": "2026-03-06 07:47:11",
+    "updated_at": "2026-03-06 07:50:08"
+  },
+  "total_data": 12,
+  "data": [
+    {
+      "name": "Januari",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 154
+        }
+      ]
+    },
+    {
+      "name": "Februari",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 99
+        }
+      ]
+    },
+    {
+      "name": "Maret",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 145
+        }
+      ]
+    },
+    {
+      "name": "April",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 135
+        }
+      ]
+    },
+    {
+      "name": "Mei",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 93
+        }
+      ]
+    },
+    {
+      "name": "Juni",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 88
+        }
+      ]
+    },
+    {
+      "name": "Juli",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 30
+        }
+      ]
+    },
+    {
+      "name": "Agustus",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 9
+        }
+      ]
+    },
+    {
+      "name": "September",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 128
+        }
+      ]
+    },
+    {
+      "name": "Oktober",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 128
+        }
+      ]
+    },
+    {
+      "name": "November",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 101
+        }
+      ]
+    },
+    {
+      "name": "Desember",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 108
+        }
+      ]
+    }
+  ]
+}

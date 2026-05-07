@@ -1,0 +1,83 @@
+{
+  "id": 195,
+  "title": "Data Jumlah SDM Program Bangga Kencana",
+  "item_title": "Dinas Pengendalian Penduduk, Keluarga Berencana, Pemberdayaan Perempuan, dan Perlindungan Anak",
+  "opd_id": 21,
+  "category": "health",
+  "url": "https://dasatama.magetan.go.id/detail/195",
+  "scraped_at": "2026-05-07T13:19:16",
+  "metadata": {
+    "concept": "Sumber daya manusia dan kelembagaan pelaksana program Bangga Kencana di tingkat lapangan yang meliputi Penyuluh KB, Petugas Lapangan Keluarga Berencana (PLKB) dan institusi masyarakat pendukung program KB.",
+    "classification": "Jenis pelaksana program: (1) Penyuluh KB / Petugas Lapangan Keluarga Berencana (PLKB), (2) Institusi Masyarakat Program KB.",
+    "measure": "Jumlah",
+    "unit": "Orang; Institusi",
+    "period": "Tahunan",
+    "created_at": "2024-01-15 10:06:41",
+    "updated_at": "2026-02-06 10:20:59"
+  },
+  "total_data": 2,
+  "data": [
+    {
+      "name": "PKB/ PLKB",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 40
+        },
+        {
+          "year": 2022,
+          "value": 45
+        },
+        {
+          "year": 2023,
+          "value": 44
+        },
+        {
+          "year": 2024,
+          "value": 45
+        },
+        {
+          "year": 2025,
+          "value": 42
+        }
+      ]
+    },
+    {
+      "name": "Institusi Masyarakat",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 1378
+        },
+        {
+          "year": 2022,
+          "value": 1378
+        },
+        {
+          "year": 2023,
+          "value": 1378
+        },
+        {
+          "year": 2024,
+          "value": 1378
+        },
+        {
+          "year": 2025,
+          "value": 1378
+        }
+      ]
+    }
+  ]
+}

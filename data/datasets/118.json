@@ -1,0 +1,136 @@
+{
+  "id": 118,
+  "title": "Pelayanan Kesehatan Ibu Bersalin (%)",
+  "item_title": "Dinas Kesehatan",
+  "opd_id": 7,
+  "category": "health",
+  "url": "https://dasatama.magetan.go.id/detail/118",
+  "scraped_at": "2026-05-07T13:17:26",
+  "metadata": {
+    "concept": "Pelayanan Kesehatan Ibu Bersalin",
+    "classification": "Jenis Pelayanan Kesehatan Ibu Bersalin",
+    "measure": "Persentase",
+    "unit": "Persen",
+    "period": "Tahunan",
+    "created_at": "2023-12-19 14:33:25",
+    "updated_at": "2023-12-19 14:36:04"
+  },
+  "total_data": 5,
+  "data": [
+    {
+      "name": "Persalinan di Fasyankes",
+      "type": "number",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 92.0
+        },
+        {
+          "year": 2023,
+          "value": 88.0
+        },
+        {
+          "year": 2024,
+          "value": 62.4
+        }
+      ]
+    },
+    {
+      "name": "KF1",
+      "type": "number",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 97.0
+        },
+        {
+          "year": 2023,
+          "value": 88.0
+        },
+        {
+          "year": 2024,
+          "value": 62.4
+        }
+      ]
+    },
+    {
+      "name": "KF2",
+      "type": "number",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 96.0
+        },
+        {
+          "year": 2023,
+          "value": 88.0
+        },
+        {
+          "year": 2024,
+          "value": 62.7
+        }
+      ]
+    },
+    {
+      "name": "KF3",
+      "type": "number",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 96.0
+        },
+        {
+          "year": 2023,
+          "value": 88.0
+        },
+        {
+          "year": 2024,
+          "value": 62.7
+        }
+      ]
+    },
+    {
+      "name": "Ibu Nifas mendapat Vit A",
+      "type": "number",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 83.0
+        },
+        {
+          "year": 2023,
+          "value": 98.0
+        },
+        {
+          "year": 2024,
+          "value": 62.7
+        }
+      ]
+    }
+  ]
+}

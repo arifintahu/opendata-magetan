@@ -1,0 +1,141 @@
+{
+  "id": 450,
+  "title": "Pelayanan Kesehatan Usia Pendidikan Dasar",
+  "item_title": "Dinas Kesehatan",
+  "opd_id": 7,
+  "category": "health",
+  "url": "https://dasatama.magetan.go.id/detail/450",
+  "scraped_at": "2026-05-07T13:17:37",
+  "metadata": {
+    "concept": "Pelayanan Kesehatan Usia Pendidikan Dasar",
+    "classification": "Jenjang Pendidikan",
+    "measure": "Jumlah",
+    "unit": "Orang",
+    "period": "Tahunan",
+    "created_at": "2025-09-25 11:09:12",
+    "updated_at": ""
+  },
+  "total_data": 8,
+  "data": [
+    {
+      "name": "SD/MI Kelas 1-6",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 503
+        }
+      ]
+    },
+    {
+      "name": "SD/MI Mendapat Pelayanan",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 503
+        }
+      ]
+    },
+    {
+      "name": "SMP/MTS  Kelas 7-9",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 100
+        }
+      ]
+    },
+    {
+      "name": "SMP/MTS Mendapat Pelayanan",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 100
+        }
+      ]
+    },
+    {
+      "name": "SMA/MA",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 73
+        }
+      ]
+    },
+    {
+      "name": "SMA/MA Mendapat Pelayanan",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 73
+        }
+      ]
+    },
+    {
+      "name": "Siswa Kelas 1-9",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 80032
+        }
+      ]
+    },
+    {
+      "name": "Siswa Kelas 1-9 Mendapat Pelayanan",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 86802
+        }
+      ]
+    }
+  ]
+}

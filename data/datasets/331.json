@@ -1,0 +1,136 @@
+{
+  "id": 331,
+  "title": "Jumlah Siswa Pendidikan Kesetaraan (Status SIswa)",
+  "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga",
+  "opd_id": 6,
+  "category": "education",
+  "url": "https://dasatama.magetan.go.id/detail/331",
+  "scraped_at": "2026-05-07T13:17:01",
+  "metadata": {
+    "concept": "Siswa",
+    "classification": "Status Siswa",
+    "measure": "Jumlah",
+    "unit": "Orang",
+    "period": "Tahunan",
+    "created_at": "2024-08-12 09:22:31",
+    "updated_at": ""
+  },
+  "total_data": 5,
+  "data": [
+    {
+      "name": "Siswa Baru",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 1211
+        },
+        {
+          "year": 2023,
+          "value": 1526
+        },
+        {
+          "year": 2024,
+          "value": 242
+        }
+      ]
+    },
+    {
+      "name": "Siswa Aktif",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 1242
+        },
+        {
+          "year": 2023,
+          "value": 1234
+        },
+        {
+          "year": 2024,
+          "value": 888
+        }
+      ]
+    },
+    {
+      "name": "Lulus Sekolah",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 103
+        },
+        {
+          "year": 2023,
+          "value": 62
+        },
+        {
+          "year": 2024,
+          "value": 291
+        }
+      ]
+    },
+    {
+      "name": "Putus Sekolah",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Mengulang",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        }
+      ]
+    }
+  ]
+}

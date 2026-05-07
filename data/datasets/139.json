@@ -1,0 +1,67 @@
+{
+  "id": 139,
+  "title": "Disabilitas (L/P)",
+  "item_title": "Dinas Sosial",
+  "opd_id": 9,
+  "category": "social-labor",
+  "url": "https://dasatama.magetan.go.id/detail/139",
+  "scraped_at": "2026-05-07T13:17:52",
+  "metadata": {
+    "concept": "Penyandang Disabilitas",
+    "classification": "Jenis Kelamin",
+    "measure": "Jumlah",
+    "unit": "Orang",
+    "period": "Tahunan",
+    "created_at": "2023-12-20 09:15:25",
+    "updated_at": ""
+  },
+  "total_data": 2,
+  "data": [
+    {
+      "name": "Laki - Laki",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 1167
+        },
+        {
+          "year": 2023,
+          "value": 2310
+        },
+        {
+          "year": 2024,
+          "value": 1912
+        }
+      ]
+    },
+    {
+      "name": "Perempuan",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 2717
+        },
+        {
+          "year": 2023,
+          "value": 1956
+        },
+        {
+          "year": 2024,
+          "value": 1408
+        }
+      ]
+    }
+  ]
+}

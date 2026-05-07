@@ -1,0 +1,393 @@
+{
+  "id": 208,
+  "title": "Harga Gula Pasir per Bulan",
+  "item_title": "Bagian Perekonomian dan SDA",
+  "opd_id": 23,
+  "category": "commodity-prices",
+  "url": "https://dasatama.magetan.go.id/detail/208",
+  "scraped_at": "2026-05-07T13:19:34",
+  "metadata": {
+    "concept": "Harga Eceran",
+    "classification": "",
+    "measure": "Rata-rata",
+    "unit": "Rupiah",
+    "period": "Bulanan",
+    "created_at": "2024-01-15 11:09:17",
+    "updated_at": "2026-02-03 12:29:20"
+  },
+  "total_data": 12,
+  "data": [
+    {
+      "name": "Januari",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2022,
+        "max": 2026
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 11084
+        },
+        {
+          "year": 2023,
+          "value": 13340
+        },
+        {
+          "year": 2024,
+          "value": 16500
+        },
+        {
+          "year": 2025,
+          "value": 16933
+        },
+        {
+          "year": 2026,
+          "value": 16166
+        }
+      ]
+    },
+    {
+      "name": "Februari",
+      "type": "string",
+      "years": {
+        "total": 5,
+        "min": 2022,
+        "max": 2026
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "11042"
+        },
+        {
+          "year": 2023,
+          "value": "13360"
+        },
+        {
+          "year": 2024,
+          "value": "17000"
+        },
+        {
+          "year": 2025,
+          "value": "17116"
+        },
+        {
+          "year": 2026,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "Maret",
+      "type": "string",
+      "years": {
+        "total": 5,
+        "min": 2022,
+        "max": 2026
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "11042"
+        },
+        {
+          "year": 2023,
+          "value": "13380"
+        },
+        {
+          "year": 2024,
+          "value": "17000"
+        },
+        {
+          "year": 2025,
+          "value": "17017"
+        },
+        {
+          "year": 2026,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "April",
+      "type": "string",
+      "years": {
+        "total": 5,
+        "min": 2022,
+        "max": 2026
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "11000"
+        },
+        {
+          "year": 2023,
+          "value": "13367"
+        },
+        {
+          "year": 2024,
+          "value": "17000"
+        },
+        {
+          "year": 2025,
+          "value": "16846"
+        },
+        {
+          "year": 2026,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "Mei",
+      "type": "string",
+      "years": {
+        "total": 5,
+        "min": 2022,
+        "max": 2026
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "11000"
+        },
+        {
+          "year": 2023,
+          "value": "13367"
+        },
+        {
+          "year": 2024,
+          "value": "17000"
+        },
+        {
+          "year": 2025,
+          "value": "16566"
+        },
+        {
+          "year": 2026,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "Juni",
+      "type": "string",
+      "years": {
+        "total": 5,
+        "min": 2022,
+        "max": 2026
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "11000"
+        },
+        {
+          "year": 2023,
+          "value": "13367"
+        },
+        {
+          "year": 2024,
+          "value": "17000"
+        },
+        {
+          "year": 2025,
+          "value": "16566"
+        },
+        {
+          "year": 2026,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "Juli",
+      "type": "string",
+      "years": {
+        "total": 5,
+        "min": 2022,
+        "max": 2026
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "11000"
+        },
+        {
+          "year": 2023,
+          "value": "13367"
+        },
+        {
+          "year": 2024,
+          "value": "17000"
+        },
+        {
+          "year": 2025,
+          "value": "16606"
+        },
+        {
+          "year": 2026,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "Agustus",
+      "type": "string",
+      "years": {
+        "total": 5,
+        "min": 2022,
+        "max": 2026
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "11000"
+        },
+        {
+          "year": 2023,
+          "value": "13367"
+        },
+        {
+          "year": 2024,
+          "value": "16400"
+        },
+        {
+          "year": 2025,
+          "value": "16458"
+        },
+        {
+          "year": 2026,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "September",
+      "type": "string",
+      "years": {
+        "total": 5,
+        "min": 2022,
+        "max": 2026
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "11000"
+        },
+        {
+          "year": 2023,
+          "value": "13667"
+        },
+        {
+          "year": 2024,
+          "value": "16600"
+        },
+        {
+          "year": 2025,
+          "value": "16208"
+        },
+        {
+          "year": 2026,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "Oktober",
+      "type": "string",
+      "years": {
+        "total": 5,
+        "min": 2022,
+        "max": 2026
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "11000"
+        },
+        {
+          "year": 2023,
+          "value": "14700"
+        },
+        {
+          "year": 2024,
+          "value": "16600"
+        },
+        {
+          "year": 2025,
+          "value": "16166"
+        },
+        {
+          "year": 2026,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "November",
+      "type": "string",
+      "years": {
+        "total": 5,
+        "min": 2022,
+        "max": 2026
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "11000"
+        },
+        {
+          "year": 2023,
+          "value": "14830"
+        },
+        {
+          "year": 2024,
+          "value": "16600"
+        },
+        {
+          "year": 2025,
+          "value": "16166"
+        },
+        {
+          "year": 2026,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "Desember",
+      "type": "string",
+      "years": {
+        "total": 5,
+        "min": 2022,
+        "max": 2026
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "11000"
+        },
+        {
+          "year": 2023,
+          "value": "15210"
+        },
+        {
+          "year": 2024,
+          "value": "16800"
+        },
+        {
+          "year": 2025,
+          "value": "16166"
+        },
+        {
+          "year": 2026,
+          "value": "-"
+        }
+      ]
+    }
+  ]
+}

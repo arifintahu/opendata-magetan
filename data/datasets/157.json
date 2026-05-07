@@ -1,0 +1,136 @@
+{
+  "id": 157,
+  "title": "Produksi Telur",
+  "item_title": "Dinas Peternakan dan Perikanan",
+  "opd_id": 11,
+  "category": "livestock-fisheries",
+  "url": "https://dasatama.magetan.go.id/detail/157",
+  "scraped_at": "2026-05-07T13:18:08",
+  "metadata": {
+    "concept": "Telur",
+    "classification": "Jenis Telur",
+    "measure": "Jumlah",
+    "unit": "Kg",
+    "period": "Tahunan",
+    "created_at": "2023-12-20 10:49:54",
+    "updated_at": ""
+  },
+  "total_data": 5,
+  "data": [
+    {
+      "name": "Ayam Petelur",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 32189467
+        },
+        {
+          "year": 2023,
+          "value": 23904247
+        },
+        {
+          "year": 2024,
+          "value": 24617884
+        }
+      ]
+    },
+    {
+      "name": "Ayam Buras",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 350647
+        },
+        {
+          "year": 2023,
+          "value": 699629
+        },
+        {
+          "year": 2024,
+          "value": 700552
+        }
+      ]
+    },
+    {
+      "name": "Itik",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 857880
+        },
+        {
+          "year": 2023,
+          "value": 186993
+        },
+        {
+          "year": 2024,
+          "value": 614291
+        }
+      ]
+    },
+    {
+      "name": "Entok",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "27580"
+        },
+        {
+          "year": 2023,
+          "value": "14889"
+        },
+        {
+          "year": 2024,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "B. Puyuh",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "140266"
+        },
+        {
+          "year": 2023,
+          "value": "140394"
+        },
+        {
+          "year": 2024,
+          "value": "-"
+        }
+      ]
+    }
+  ]
+}

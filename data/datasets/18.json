@@ -1,0 +1,177 @@
+{
+  "id": 18,
+  "title": "Jumlah Pengunjung Perpustakaan",
+  "item_title": "Dinas Kearsip dan Perpustakaan",
+  "opd_id": 1,
+  "category": "education",
+  "url": "https://dasatama.magetan.go.id/detail/18",
+  "scraped_at": "2026-05-07T13:16:18",
+  "metadata": {
+    "concept": "Pengunjung Perpustakaan",
+    "classification": "Perpustakaan Umum (Anggota); Perpustakaan Umum (Non-Anggota); Perpustakaan Digital; Perpustakaan Keliliing",
+    "measure": "Jumlah",
+    "unit": "Orang",
+    "period": "Tahunan",
+    "created_at": "2023-08-14 10:08:52",
+    "updated_at": "2026-02-24 13:55:51"
+  },
+  "total_data": 4,
+  "data": [
+    {
+      "name": "Perpustakaan Umum (Anggota)",
+      "type": "integer",
+      "years": {
+        "total": 7,
+        "min": 2019,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2019,
+          "value": 10900
+        },
+        {
+          "year": 2020,
+          "value": 7471
+        },
+        {
+          "year": 2021,
+          "value": 1894
+        },
+        {
+          "year": 2022,
+          "value": 4021
+        },
+        {
+          "year": 2023,
+          "value": 17295
+        },
+        {
+          "year": 2024,
+          "value": 17717
+        },
+        {
+          "year": 2025,
+          "value": 17927
+        }
+      ]
+    },
+    {
+      "name": "Perpustakaan Umum (Non Anggota)",
+      "type": "integer",
+      "years": {
+        "total": 7,
+        "min": 2019,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2019,
+          "value": 0
+        },
+        {
+          "year": 2020,
+          "value": 1461
+        },
+        {
+          "year": 2021,
+          "value": 4650
+        },
+        {
+          "year": 2022,
+          "value": 6888
+        },
+        {
+          "year": 2023,
+          "value": 13137
+        },
+        {
+          "year": 2024,
+          "value": 19216
+        },
+        {
+          "year": 2025,
+          "value": 20129
+        }
+      ]
+    },
+    {
+      "name": "Perpustakaan Digital",
+      "type": "integer",
+      "years": {
+        "total": 7,
+        "min": 2019,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2019,
+          "value": 18780
+        },
+        {
+          "year": 2020,
+          "value": 8385
+        },
+        {
+          "year": 2021,
+          "value": 1820
+        },
+        {
+          "year": 2022,
+          "value": 1706
+        },
+        {
+          "year": 2023,
+          "value": 1524
+        },
+        {
+          "year": 2024,
+          "value": 2680
+        },
+        {
+          "year": 2025,
+          "value": 1247
+        }
+      ]
+    },
+    {
+      "name": "Perpustakaan Keliling",
+      "type": "integer",
+      "years": {
+        "total": 7,
+        "min": 2019,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2019,
+          "value": 0
+        },
+        {
+          "year": 2020,
+          "value": 1202
+        },
+        {
+          "year": 2021,
+          "value": 2690
+        },
+        {
+          "year": 2022,
+          "value": 1340
+        },
+        {
+          "year": 2023,
+          "value": 9688
+        },
+        {
+          "year": 2024,
+          "value": 7355
+        },
+        {
+          "year": 2025,
+          "value": 7775
+        }
+      ]
+    }
+  ]
+}

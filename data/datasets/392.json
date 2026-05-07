@@ -1,0 +1,56 @@
+{
+  "id": 392,
+  "title": "Indeks Sistem Merit",
+  "item_title": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia",
+  "opd_id": 3,
+  "category": "governance",
+  "url": "https://dasatama.magetan.go.id/detail/392",
+  "scraped_at": "2026-05-07T13:16:30",
+  "metadata": {
+    "concept": "Indeks Sistem Merit",
+    "classification": "Wilayah",
+    "measure": "Indeks",
+    "unit": "",
+    "period": "",
+    "created_at": "2025-04-10 10:40:06",
+    "updated_at": "2026-01-25 12:32:26"
+  },
+  "total_data": 1,
+  "data": [
+    {
+      "name": "Indeks Sistem Merit",
+      "type": "string",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": "165"
+        },
+        {
+          "year": 2021,
+          "value": "160"
+        },
+        {
+          "year": 2022,
+          "value": "270.5"
+        },
+        {
+          "year": 2023,
+          "value": "288"
+        },
+        {
+          "year": 2024,
+          "value": "3045"
+        },
+        {
+          "year": 2025,
+          "value": "-"
+        }
+      ]
+    }
+  ]
+}

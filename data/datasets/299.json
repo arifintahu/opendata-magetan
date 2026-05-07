@@ -1,0 +1,322 @@
+{
+  "id": 299,
+  "title": "Data Persetujuan Lingkungan yang Diterbitkan Pemerintah Daerah Kabupaten/Kota",
+  "item_title": "Dinas Lingkungan Hidup dan Pangan",
+  "opd_id": 16,
+  "category": "environment",
+  "url": "https://dasatama.magetan.go.id/detail/299",
+  "scraped_at": "2026-05-07T13:18:44",
+  "metadata": {
+    "concept": "Perijinan Bidang Lingkungan",
+    "classification": "Jenis Dokumen Perijinan",
+    "measure": "Jumlah",
+    "unit": "Dokumen",
+    "period": "Tahunan",
+    "created_at": "2024-04-26 09:22:05",
+    "updated_at": "2026-02-18 14:50:58"
+  },
+  "total_data": 7,
+  "data": [
+    {
+      "name": "PKPLH-OSS",
+      "type": "integer",
+      "years": {
+        "total": 8,
+        "min": 2018,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2018,
+          "value": 0
+        },
+        {
+          "year": 2019,
+          "value": 0
+        },
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 45
+        },
+        {
+          "year": 2023,
+          "value": 37
+        },
+        {
+          "year": 2024,
+          "value": 0
+        },
+        {
+          "year": 2025,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "SPPL-OSS",
+      "type": "integer",
+      "years": {
+        "total": 8,
+        "min": 2018,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2018,
+          "value": 0
+        },
+        {
+          "year": 2019,
+          "value": 0
+        },
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 91
+        },
+        {
+          "year": 2023,
+          "value": 57
+        },
+        {
+          "year": 2024,
+          "value": 0
+        },
+        {
+          "year": 2025,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "UKL-UPL",
+      "type": "integer",
+      "years": {
+        "total": 8,
+        "min": 2018,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2018,
+          "value": 16
+        },
+        {
+          "year": 2019,
+          "value": 36
+        },
+        {
+          "year": 2020,
+          "value": 27
+        },
+        {
+          "year": 2021,
+          "value": 19
+        },
+        {
+          "year": 2022,
+          "value": 1
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 92
+        },
+        {
+          "year": 2025,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "name": "SPPL",
+      "type": "integer",
+      "years": {
+        "total": 8,
+        "min": 2018,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2018,
+          "value": 92
+        },
+        {
+          "year": 2019,
+          "value": 82
+        },
+        {
+          "year": 2020,
+          "value": 199
+        },
+        {
+          "year": 2021,
+          "value": 177
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        },
+        {
+          "year": 2025,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "DELH, DPLH",
+      "type": "integer",
+      "years": {
+        "total": 8,
+        "min": 2018,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2018,
+          "value": 0
+        },
+        {
+          "year": 2019,
+          "value": 0
+        },
+        {
+          "year": 2020,
+          "value": 5
+        },
+        {
+          "year": 2021,
+          "value": 1
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        },
+        {
+          "year": 2025,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "IPLC",
+      "type": "integer",
+      "years": {
+        "total": 8,
+        "min": 2018,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2018,
+          "value": 0
+        },
+        {
+          "year": 2019,
+          "value": 2
+        },
+        {
+          "year": 2020,
+          "value": 6
+        },
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        },
+        {
+          "year": 2025,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Ijin TPS Limbah B3",
+      "type": "integer",
+      "years": {
+        "total": 8,
+        "min": 2018,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2018,
+          "value": 3
+        },
+        {
+          "year": 2019,
+          "value": 4
+        },
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 4
+        },
+        {
+          "year": 2022,
+          "value": 1
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        },
+        {
+          "year": 2025,
+          "value": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "id": 154,
+  "title": "Ternak Unggas dan Kelinci",
+  "item_title": "Dinas Peternakan dan Perikanan",
+  "opd_id": 11,
+  "category": "livestock-fisheries",
+  "url": "https://dasatama.magetan.go.id/detail/154",
+  "scraped_at": "2026-05-07T13:18:06",
+  "metadata": {
+    "concept": "Unggas; Kelinci",
+    "classification": "Jenis Unggas; Kelinci",
+    "measure": "Jumlah",
+    "unit": "Ekor",
+    "period": "Tahunan",
+    "created_at": "2023-12-20 10:42:45",
+    "updated_at": ""
+  },
+  "total_data": 8,
+  "data": [
+    {
+      "name": "Ayam Buras",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 613865
+        },
+        {
+          "year": 2023,
+          "value": 677157
+        },
+        {
+          "year": 2024,
+          "value": 696637
+        }
+      ]
+    },
+    {
+      "name": "Ayam Petelur",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 3226353
+        },
+        {
+          "year": 2023,
+          "value": 2403550
+        },
+        {
+          "year": 2024,
+          "value": 2450550
+        }
+      ]
+    },
+    {
+      "name": "Ayam Pedaging",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 21421963
+        },
+        {
+          "year": 2023,
+          "value": 22200000
+        },
+        {
+          "year": 2024,
+          "value": 22539000
+        }
+      ]
+    },
+    {
+      "name": "Itik",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 120048
+        },
+        {
+          "year": 2023,
+          "value": 85350
+        },
+        {
+          "year": 2024,
+          "value": 85550
+        }
+      ]
+    },
+    {
+      "name": "Entok",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "20152"
+        },
+        {
+          "year": 2023,
+          "value": "6253"
+        },
+        {
+          "year": 2024,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "B Puyuh",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "116143"
+        },
+        {
+          "year": 2023,
+          "value": "99132"
+        },
+        {
+          "year": 2024,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "B Dara",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "11713"
+        },
+        {
+          "year": 2023,
+          "value": "0"
+        },
+        {
+          "year": 2024,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "Kelinci",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "25640"
+        },
+        {
+          "year": 2023,
+          "value": "0"
+        },
+        {
+          "year": 2024,
+          "value": "-"
+        }
+      ]
+    }
+  ]
+}

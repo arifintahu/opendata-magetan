@@ -1,0 +1,59 @@
+{
+  "id": 28,
+  "title": "Kunjungan Rumah Sakit",
+  "item_title": "RSUD Sayidiman",
+  "opd_id": 25,
+  "category": "health",
+  "url": "https://dasatama.magetan.go.id/detail/28",
+  "scraped_at": "2026-05-07T13:19:48",
+  "metadata": {
+    "concept": "Kunjungan Rumah Sakit",
+    "classification": "Jenis Perawatan",
+    "measure": "Jumlah",
+    "unit": "Orang",
+    "period": "Tahunan",
+    "created_at": "2023-08-14 10:42:11",
+    "updated_at": ""
+  },
+  "total_data": 2,
+  "data": [
+    {
+      "name": "Rawat Inap",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2021,
+        "max": 2023
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 11589
+        },
+        {
+          "year": 2023,
+          "value": 17318
+        }
+      ]
+    },
+    {
+      "name": "Rawat Jalan",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2021,
+        "max": 2023
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 91905
+        },
+        {
+          "year": 2023,
+          "value": 130082
+        }
+      ]
+    }
+  ]
+}

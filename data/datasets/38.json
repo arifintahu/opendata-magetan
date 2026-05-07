@@ -1,0 +1,59 @@
+{
+  "id": 38,
+  "title": "Penilaian SPBE, Kepuasan Masyarakat",
+  "item_title": "Dinas Komunikasi dan Informatika",
+  "opd_id": 22,
+  "category": "governance",
+  "url": "https://dasatama.magetan.go.id/detail/38",
+  "scraped_at": "2026-05-07T13:19:23",
+  "metadata": {
+    "concept": "Sistem Pemerintahan Berbasis Elektronik;Pelayanan publik",
+    "classification": "Jenis Evaluasi",
+    "measure": "",
+    "unit": "Indeks/Nilai",
+    "period": "Tahunan",
+    "created_at": "2023-08-14 11:57:40",
+    "updated_at": ""
+  },
+  "total_data": 2,
+  "data": [
+    {
+      "name": "SPBE",
+      "type": "number",
+      "years": {
+        "total": 2,
+        "min": 2023,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 2.76
+        },
+        {
+          "year": 2024,
+          "value": 2.92
+        }
+      ]
+    },
+    {
+      "name": "Kepuasan Masyarakat",
+      "type": "number",
+      "years": {
+        "total": 2,
+        "min": 2023,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 84.62
+        },
+        {
+          "year": 2024,
+          "value": 87.62
+        }
+      ]
+    }
+  ]
+}

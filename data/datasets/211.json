@@ -1,0 +1,527 @@
+{
+  "id": 211,
+  "title": "Jumlah Rawat Jalan Berdasar 10 Besar Penyakit",
+  "item_title": "RSUD Sayidiman",
+  "opd_id": 25,
+  "category": "health",
+  "url": "https://dasatama.magetan.go.id/detail/211",
+  "scraped_at": "2026-05-07T13:19:49",
+  "metadata": {
+    "concept": "Rawat Jalan",
+    "classification": "Jenis Penyakit",
+    "measure": "Jumlah",
+    "unit": "Pasien",
+    "period": "Tahunan",
+    "created_at": "2024-01-15 11:33:23",
+    "updated_at": "2025-05-16 11:37:59"
+  },
+  "total_data": 22,
+  "data": [
+    {
+      "name": "Essential (primary) Hypertension",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 865
+        },
+        {
+          "year": 2023,
+          "value": 15799
+        },
+        {
+          "year": 2024,
+          "value": 8285
+        }
+      ]
+    },
+    {
+      "name": "Other and Unspecified Abdominal Pain",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "844"
+        },
+        {
+          "year": 2023,
+          "value": "-"
+        },
+        {
+          "year": 2024,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "Dyspepsia",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "0"
+        },
+        {
+          "year": 2023,
+          "value": "3079"
+        },
+        {
+          "year": 2024,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "Other Examination for Admission to Residential Institutions",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "545"
+        },
+        {
+          "year": 2023,
+          "value": "-"
+        },
+        {
+          "year": 2024,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "Examination For Admission to Residential Institutions",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "496"
+        },
+        {
+          "year": 2023,
+          "value": "-"
+        },
+        {
+          "year": 2024,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "Myopia",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "463"
+        },
+        {
+          "year": 2023,
+          "value": "-"
+        },
+        {
+          "year": 2024,
+          "value": "1006"
+        }
+      ]
+    },
+    {
+      "name": "Observation For Other Suspected Diseases and Conditions",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "451"
+        },
+        {
+          "year": 2023,
+          "value": "-"
+        },
+        {
+          "year": 2024,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "Care and Examination Immediately After Delivery",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "401"
+        },
+        {
+          "year": 2023,
+          "value": "-"
+        },
+        {
+          "year": 2024,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "Diabetic Polyneuropathy",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "385"
+        },
+        {
+          "year": 2023,
+          "value": "-"
+        },
+        {
+          "year": 2024,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "Presbyopia",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "366"
+        },
+        {
+          "year": 2023,
+          "value": "-"
+        },
+        {
+          "year": 2024,
+          "value": "820"
+        }
+      ]
+    },
+    {
+      "name": "Non-insulin-dependent diabetes mellitus without complications",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "0"
+        },
+        {
+          "year": 2023,
+          "value": "7887"
+        },
+        {
+          "year": 2024,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "Low back pain",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 6786
+        },
+        {
+          "year": 2024,
+          "value": 3659
+        }
+      ]
+    },
+    {
+      "name": "Sequelae of stroke, not specified as haemorrhage or infarction",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 6182
+        },
+        {
+          "year": 2024,
+          "value": 2919
+        }
+      ]
+    },
+    {
+      "name": "Chronic ischaemic heart disease, unspecified",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "0"
+        },
+        {
+          "year": 2023,
+          "value": "5944"
+        },
+        {
+          "year": 2024,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "General medical examination",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "0"
+        },
+        {
+          "year": 2023,
+          "value": "5295"
+        },
+        {
+          "year": 2024,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "Extracorporeal dialysis",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "0"
+        },
+        {
+          "year": 2023,
+          "value": "4460"
+        },
+        {
+          "year": 2024,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "Heart failure, unspecified",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "0"
+        },
+        {
+          "year": 2023,
+          "value": "3920"
+        },
+        {
+          "year": 2024,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "Other examinations for administrative purposes",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "0"
+        },
+        {
+          "year": 2023,
+          "value": "3137"
+        },
+        {
+          "year": 2024,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "Chronic obstructive pulmonary disease, unspecified",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 3099
+        }
+      ]
+    },
+    {
+      "name": "Asthma, unspecified",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 1304
+        }
+      ]
+    },
+    {
+      "name": "Retarded development following proteinenergy malnutrition",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 2902
+        }
+      ]
+    },
+    {
+      "name": "Astigmatism",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 661
+        }
+      ]
+    }
+  ]
+}

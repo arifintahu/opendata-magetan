@@ -1,0 +1,345 @@
+{
+  "id": 25,
+  "title": "Jumlah Acara yang Diamankan",
+  "item_title": "Satuan Polisi Pamong Praja dan Pemadam Kebakaran",
+  "opd_id": 26,
+  "category": "disaster-security",
+  "url": "https://dasatama.magetan.go.id/detail/25",
+  "scraped_at": "2026-05-07T13:19:54",
+  "metadata": {
+    "concept": "acara",
+    "classification": "",
+    "measure": "Jumlah",
+    "unit": "Acara",
+    "period": "Bulanan",
+    "created_at": "2023-08-14 10:32:22",
+    "updated_at": "2026-03-05 08:30:47"
+  },
+  "total_data": 12,
+  "data": [
+    {
+      "name": "Januari",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 21
+        },
+        {
+          "year": 2023,
+          "value": 34
+        },
+        {
+          "year": 2024,
+          "value": 42
+        },
+        {
+          "year": 2025,
+          "value": 25
+        }
+      ]
+    },
+    {
+      "name": "Februari",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 22
+        },
+        {
+          "year": 2023,
+          "value": 31
+        },
+        {
+          "year": 2024,
+          "value": 47
+        },
+        {
+          "year": 2025,
+          "value": 20
+        }
+      ]
+    },
+    {
+      "name": "Maret",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 43
+        },
+        {
+          "year": 2023,
+          "value": 35
+        },
+        {
+          "year": 2024,
+          "value": 50
+        },
+        {
+          "year": 2025,
+          "value": 23
+        }
+      ]
+    },
+    {
+      "name": "April",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 24
+        },
+        {
+          "year": 2023,
+          "value": 27
+        },
+        {
+          "year": 2024,
+          "value": 54
+        },
+        {
+          "year": 2025,
+          "value": 27
+        }
+      ]
+    },
+    {
+      "name": "Mei",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 66
+        },
+        {
+          "year": 2023,
+          "value": 34
+        },
+        {
+          "year": 2024,
+          "value": 48
+        },
+        {
+          "year": 2025,
+          "value": 26
+        }
+      ]
+    },
+    {
+      "name": "Juni",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 38
+        },
+        {
+          "year": 2023,
+          "value": 31
+        },
+        {
+          "year": 2024,
+          "value": 47
+        },
+        {
+          "year": 2025,
+          "value": 30
+        }
+      ]
+    },
+    {
+      "name": "Juli",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 61
+        },
+        {
+          "year": 2023,
+          "value": 29
+        },
+        {
+          "year": 2024,
+          "value": 54
+        },
+        {
+          "year": 2025,
+          "value": 25
+        }
+      ]
+    },
+    {
+      "name": "Agustus",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 68
+        },
+        {
+          "year": 2023,
+          "value": 30
+        },
+        {
+          "year": 2024,
+          "value": 41
+        },
+        {
+          "year": 2025,
+          "value": 30
+        }
+      ]
+    },
+    {
+      "name": "September",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 40
+        },
+        {
+          "year": 2023,
+          "value": 46
+        },
+        {
+          "year": 2024,
+          "value": 31
+        },
+        {
+          "year": 2025,
+          "value": 27
+        }
+      ]
+    },
+    {
+      "name": "Oktober",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 36
+        },
+        {
+          "year": 2023,
+          "value": 32
+        },
+        {
+          "year": 2024,
+          "value": 41
+        },
+        {
+          "year": 2025,
+          "value": 40
+        }
+      ]
+    },
+    {
+      "name": "November",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 21
+        },
+        {
+          "year": 2023,
+          "value": 45
+        },
+        {
+          "year": 2024,
+          "value": 44
+        },
+        {
+          "year": 2025,
+          "value": 30
+        }
+      ]
+    },
+    {
+      "name": "Desember",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 60
+        },
+        {
+          "year": 2023,
+          "value": 40
+        },
+        {
+          "year": 2024,
+          "value": 39
+        },
+        {
+          "year": 2025,
+          "value": 35
+        }
+      ]
+    }
+  ]
+}

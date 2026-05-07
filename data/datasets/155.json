@@ -1,0 +1,205 @@
+{
+  "id": 155,
+  "title": "Produksi Daging Ternak",
+  "item_title": "Dinas Peternakan dan Perikanan",
+  "opd_id": 11,
+  "category": "livestock-fisheries",
+  "url": "https://dasatama.magetan.go.id/detail/155",
+  "scraped_at": "2026-05-07T13:18:07",
+  "metadata": {
+    "concept": "Daging Ternak",
+    "classification": "Jenis daging ternak",
+    "measure": "Jumlah",
+    "unit": "Kg",
+    "period": "Tahunan",
+    "created_at": "2023-12-20 10:45:12",
+    "updated_at": ""
+  },
+  "total_data": 8,
+  "data": [
+    {
+      "name": "Sapi Potong",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 233946
+        },
+        {
+          "year": 2023,
+          "value": 1923919
+        },
+        {
+          "year": 2024,
+          "value": 2314758
+        }
+      ]
+    },
+    {
+      "name": "Sapi Perah",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "0"
+        },
+        {
+          "year": 2023,
+          "value": "0"
+        },
+        {
+          "year": 2024,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "Kerbau",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "0"
+        },
+        {
+          "year": 2023,
+          "value": "0"
+        },
+        {
+          "year": 2024,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "Kuda",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "0"
+        },
+        {
+          "year": 2023,
+          "value": "0"
+        },
+        {
+          "year": 2024,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "Kambing",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 276437
+        },
+        {
+          "year": 2023,
+          "value": 312388
+        },
+        {
+          "year": 2024,
+          "value": 303826
+        }
+      ]
+    },
+    {
+      "name": "Domba",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 301267
+        },
+        {
+          "year": 2023,
+          "value": 100199
+        },
+        {
+          "year": 2024,
+          "value": 92246
+        }
+      ]
+    },
+    {
+      "name": "Babi",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "0"
+        },
+        {
+          "year": 2023,
+          "value": "0"
+        },
+        {
+          "year": 2024,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "Kelinci",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 11156
+        },
+        {
+          "year": 2023,
+          "value": 2741
+        },
+        {
+          "year": 2024,
+          "value": 2742
+        }
+      ]
+    }
+  ]
+}

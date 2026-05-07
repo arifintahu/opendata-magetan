@@ -1,0 +1,83 @@
+{
+  "id": 64,
+  "title": "Kepemilikan Akta Kelahiran",
+  "item_title": "Dinas Kependudukan dan Pencatatan Sipil",
+  "opd_id": 14,
+  "category": "demographics",
+  "url": "https://dasatama.magetan.go.id/detail/64",
+  "scraped_at": "2026-05-07T13:18:22",
+  "metadata": {
+    "concept": "Akta Kelahiran",
+    "classification": "Status Kepemilikan",
+    "measure": "Jumlah",
+    "unit": "Jiwa",
+    "period": "Tahunan",
+    "created_at": "2023-08-15 13:41:42",
+    "updated_at": ""
+  },
+  "total_data": 2,
+  "data": [
+    {
+      "name": "Memiliki Akta Kelahiran",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2020,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 275264
+        },
+        {
+          "year": 2021,
+          "value": 292884
+        },
+        {
+          "year": 2022,
+          "value": 311082
+        },
+        {
+          "year": 2023,
+          "value": 325861
+        },
+        {
+          "year": 2024,
+          "value": 339202
+        }
+      ]
+    },
+    {
+      "name": "Belum Memiliki Akta Kelahiran",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2020,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 413757
+        },
+        {
+          "year": 2021,
+          "value": 396496
+        },
+        {
+          "year": 2022,
+          "value": 379163
+        },
+        {
+          "year": 2023,
+          "value": 366692
+        },
+        {
+          "year": 2024,
+          "value": 353598
+        }
+      ]
+    }
+  ]
+}

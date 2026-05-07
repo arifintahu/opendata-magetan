@@ -1,0 +1,269 @@
+{
+  "id": 57,
+  "title": "Kondisi Jembatan Kabupaten (Unit)",
+  "item_title": "Dinas Pekerjaan Umum dan Penataan Ruang",
+  "opd_id": 20,
+  "category": "infrastructure",
+  "url": "https://dasatama.magetan.go.id/detail/57",
+  "scraped_at": "2026-05-07T13:19:04",
+  "metadata": {
+    "concept": "Jembatan",
+    "classification": "Kategori Kondisi",
+    "measure": "Jumlah",
+    "unit": "Unit/ Buah",
+    "period": "Tahunan",
+    "created_at": "2023-08-15 10:48:41",
+    "updated_at": "2026-02-24 09:18:09"
+  },
+  "total_data": 8,
+  "data": [
+    {
+      "name": "Panjang Jembatan Kabupaten Total (Km)",
+      "type": "number",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 2800.2
+        },
+        {
+          "year": 2022,
+          "value": 2800.2
+        },
+        {
+          "year": 2023,
+          "value": 2800.2
+        },
+        {
+          "year": 2024,
+          "value": 3541.1
+        },
+        {
+          "year": 2025,
+          "value": 3541.1
+        }
+      ]
+    },
+    {
+      "name": "Jumlah Jembatan",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 323
+        },
+        {
+          "year": 2022,
+          "value": 323
+        },
+        {
+          "year": 2023,
+          "value": 323
+        },
+        {
+          "year": 2024,
+          "value": 415
+        },
+        {
+          "year": 2025,
+          "value": 415
+        }
+      ]
+    },
+    {
+      "name": "Baik",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 256
+        },
+        {
+          "year": 2022,
+          "value": 264
+        },
+        {
+          "year": 2023,
+          "value": 267
+        },
+        {
+          "year": 2024,
+          "value": 0
+        },
+        {
+          "year": 2025,
+          "value": 5
+        }
+      ]
+    },
+    {
+      "name": "Rusak Ringan, memerlukan pemeliharaan rutin",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 30
+        },
+        {
+          "year": 2022,
+          "value": 22
+        },
+        {
+          "year": 2023,
+          "value": 22
+        },
+        {
+          "year": 2024,
+          "value": 174
+        },
+        {
+          "year": 2025,
+          "value": 173
+        }
+      ]
+    },
+    {
+      "name": "Rusak, memerlukan perbaikan berkala",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 25
+        },
+        {
+          "year": 2022,
+          "value": 29
+        },
+        {
+          "year": 2023,
+          "value": 28
+        },
+        {
+          "year": 2024,
+          "value": 203
+        },
+        {
+          "year": 2025,
+          "value": 201
+        }
+      ]
+    },
+    {
+      "name": "Rusak berat, memerlukan perbaikan secepatnya dalam kurun waktu 1 tahun",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 11
+        },
+        {
+          "year": 2022,
+          "value": 8
+        },
+        {
+          "year": 2023,
+          "value": 6
+        },
+        {
+          "year": 2024,
+          "value": 38
+        },
+        {
+          "year": 2025,
+          "value": 36
+        }
+      ]
+    },
+    {
+      "name": "Kritis, memerlukan penanganan segera",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 1
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        },
+        {
+          "year": 2025,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Jembatan runtuh",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        },
+        {
+          "year": 2025,
+          "value": 0
+        }
+      ]
+    }
+  ]
+}

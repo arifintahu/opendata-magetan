@@ -1,0 +1,363 @@
+{
+  "id": 423,
+  "title": "Layanan Penyelamatan dan Evakuasi Korban Bencana (SPM)",
+  "item_title": "Pelaksana Badan Penanggulangan Bencana Daerah",
+  "opd_id": 4,
+  "category": "disaster-security",
+  "url": "https://dasatama.magetan.go.id/detail/423",
+  "scraped_at": "2026-05-07T13:16:37",
+  "metadata": {
+    "concept": "Korban Bencana",
+    "classification": "Wilayah (Kecamatan)",
+    "measure": "Persentase",
+    "unit": "Persen",
+    "period": "Tahunan",
+    "created_at": "2025-08-27 12:45:55",
+    "updated_at": "2026-02-05 09:23:50"
+  },
+  "total_data": 18,
+  "data": [
+    {
+      "name": "Barat",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2024,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 100
+        },
+        {
+          "year": 2025,
+          "value": 100
+        }
+      ]
+    },
+    {
+      "name": "Bendo",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2024,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 100
+        },
+        {
+          "year": 2025,
+          "value": 100
+        }
+      ]
+    },
+    {
+      "name": "Karangrejo",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2024,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 100
+        },
+        {
+          "year": 2025,
+          "value": 100
+        }
+      ]
+    },
+    {
+      "name": "Karas",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2024,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 100
+        },
+        {
+          "year": 2025,
+          "value": 100
+        }
+      ]
+    },
+    {
+      "name": "Kartohorjo",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2024,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 100
+        },
+        {
+          "year": 2025,
+          "value": 100
+        }
+      ]
+    },
+    {
+      "name": "Kawedanan",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2024,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 100
+        },
+        {
+          "year": 2025,
+          "value": 100
+        }
+      ]
+    },
+    {
+      "name": "Lembeyan",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2024,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 100
+        },
+        {
+          "year": 2025,
+          "value": 100
+        }
+      ]
+    },
+    {
+      "name": "Magetan",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2024,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 100
+        },
+        {
+          "year": 2025,
+          "value": 100
+        }
+      ]
+    },
+    {
+      "name": "Maospati",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2024,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 100
+        },
+        {
+          "year": 2025,
+          "value": 100
+        }
+      ]
+    },
+    {
+      "name": "Ngariboyo",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2024,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 100
+        },
+        {
+          "year": 2025,
+          "value": 100
+        }
+      ]
+    },
+    {
+      "name": "Nguntoronadi",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2024,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 100
+        },
+        {
+          "year": 2025,
+          "value": 100
+        }
+      ]
+    },
+    {
+      "name": "Panekan",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2024,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 100
+        },
+        {
+          "year": 2025,
+          "value": 100
+        }
+      ]
+    },
+    {
+      "name": "Parang",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2024,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 100
+        },
+        {
+          "year": 2025,
+          "value": 100
+        }
+      ]
+    },
+    {
+      "name": "Plaosan",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2024,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 100
+        },
+        {
+          "year": 2025,
+          "value": 100
+        }
+      ]
+    },
+    {
+      "name": "Poncol",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2024,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 100
+        },
+        {
+          "year": 2025,
+          "value": 100
+        }
+      ]
+    },
+    {
+      "name": "Sidorejo",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2024,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 100
+        },
+        {
+          "year": 2025,
+          "value": 100
+        }
+      ]
+    },
+    {
+      "name": "Sukomoro",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2024,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 100
+        },
+        {
+          "year": 2025,
+          "value": 100
+        }
+      ]
+    },
+    {
+      "name": "Takeran",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2024,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 100
+        },
+        {
+          "year": 2025,
+          "value": 100
+        }
+      ]
+    }
+  ]
+}

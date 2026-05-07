@@ -1,0 +1,207 @@
+{
+  "id": 259,
+  "title": "Bentuk Perusahaan OSS",
+  "item_title": "Dinas Penanaman Modal dan Pelayanan Satu Pintu",
+  "opd_id": 18,
+  "category": "investment-sme",
+  "url": "https://dasatama.magetan.go.id/detail/259",
+  "scraped_at": "2026-05-07T13:18:55",
+  "metadata": {
+    "concept": "Badan/Perusahaan",
+    "classification": "Jenis Perusahaan berdasarkan bentuk",
+    "measure": "Jumlah",
+    "unit": "Unit",
+    "period": "Tahunan",
+    "created_at": "2024-02-27 10:47:12",
+    "updated_at": "2026-02-24 09:07:52"
+  },
+  "total_data": 6,
+  "data": [
+    {
+      "name": "PT/PT Perseorangan",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 75
+        },
+        {
+          "year": 2022,
+          "value": 109
+        },
+        {
+          "year": 2023,
+          "value": 113
+        },
+        {
+          "year": 2024,
+          "value": 109
+        },
+        {
+          "year": 2025,
+          "value": 74
+        }
+      ]
+    },
+    {
+      "name": "Firma",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        },
+        {
+          "year": 2025,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "CV",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 176
+        },
+        {
+          "year": 2022,
+          "value": 144
+        },
+        {
+          "year": 2023,
+          "value": 159
+        },
+        {
+          "year": 2024,
+          "value": 87
+        },
+        {
+          "year": 2025,
+          "value": 99
+        }
+      ]
+    },
+    {
+      "name": "Koperasi",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 7
+        },
+        {
+          "year": 2022,
+          "value": 45
+        },
+        {
+          "year": 2023,
+          "value": 16
+        },
+        {
+          "year": 2024,
+          "value": 29
+        },
+        {
+          "year": 2025,
+          "value": 247
+        }
+      ]
+    },
+    {
+      "name": "Perorangan",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 1214
+        },
+        {
+          "year": 2022,
+          "value": 2888
+        },
+        {
+          "year": 2023,
+          "value": 13172
+        },
+        {
+          "year": 2024,
+          "value": 5823
+        },
+        {
+          "year": 2025,
+          "value": 3894
+        }
+      ]
+    },
+    {
+      "name": "Lainnya",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 20
+        },
+        {
+          "year": 2022,
+          "value": 56
+        },
+        {
+          "year": 2023,
+          "value": 43
+        },
+        {
+          "year": 2024,
+          "value": 38
+        },
+        {
+          "year": 2025,
+          "value": 76
+        }
+      ]
+    }
+  ]
+}

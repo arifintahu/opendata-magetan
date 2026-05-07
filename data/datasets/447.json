@@ -1,0 +1,126 @@
+{
+  "id": 447,
+  "title": "Pelayanan Kesehatan Balita",
+  "item_title": "Dinas Kesehatan",
+  "opd_id": 7,
+  "category": "health",
+  "url": "https://dasatama.magetan.go.id/detail/447",
+  "scraped_at": "2026-05-07T13:17:35",
+  "metadata": {
+    "concept": "Balita",
+    "classification": "Jenis Pelayanan",
+    "measure": "Jumlah",
+    "unit": "Balita",
+    "period": "Tahunan",
+    "created_at": "2025-09-24 15:21:06",
+    "updated_at": ""
+  },
+  "total_data": 7,
+  "data": [
+    {
+      "name": "Sasaran Balita (0-59 bulan)",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 45239
+        }
+      ]
+    },
+    {
+      "name": "Sasaran Anak (12-59 bulan)",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 36014
+        }
+      ]
+    },
+    {
+      "name": "Memiliki Buku KIA",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 32340
+        }
+      ]
+    },
+    {
+      "name": "Dipantau Tumbuh Kembang",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 21667
+        }
+      ]
+    },
+    {
+      "name": "Dilayani SDIDTK",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 25797
+        }
+      ]
+    },
+    {
+      "name": "Balita Sakit",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 33341
+        }
+      ]
+    },
+    {
+      "name": "Balita Dilayani MTBS",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 29264
+        }
+      ]
+    }
+  ]
+}

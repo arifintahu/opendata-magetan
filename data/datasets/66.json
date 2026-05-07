@@ -1,0 +1,114 @@
+{
+  "id": 66,
+  "title": "Industri dan Tenaga Kerja",
+  "item_title": "Dinas Perindustrian dan Perdagangan",
+  "opd_id": 15,
+  "category": "investment-sme",
+  "url": "https://dasatama.magetan.go.id/detail/66",
+  "scraped_at": "2026-05-07T13:18:32",
+  "metadata": {
+    "concept": "Perusahaan; Tenaga Kerja",
+    "classification": "",
+    "measure": "Jumlah",
+    "unit": "Perusahaan; Orang",
+    "period": "Tahunan",
+    "created_at": "2023-08-15 13:49:57",
+    "updated_at": "2025-10-03 07:45:48"
+  },
+  "total_data": 3,
+  "data": [
+    {
+      "name": "Perusahaan",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2020,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 15998
+        },
+        {
+          "year": 2021,
+          "value": 15998
+        },
+        {
+          "year": 2022,
+          "value": 16043
+        },
+        {
+          "year": 2023,
+          "value": 16043
+        },
+        {
+          "year": 2024,
+          "value": 16084
+        }
+      ]
+    },
+    {
+      "name": "Tenaga Kerja",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2020,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 43661
+        },
+        {
+          "year": 2021,
+          "value": 43661
+        },
+        {
+          "year": 2022,
+          "value": 43861
+        },
+        {
+          "year": 2023,
+          "value": 43861
+        },
+        {
+          "year": 2024,
+          "value": 44056
+        }
+      ]
+    },
+    {
+      "name": "Nilai Produksi (Juta)",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2020,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 719617
+        },
+        {
+          "year": 2022,
+          "value": 719693
+        },
+        {
+          "year": 2023,
+          "value": 719693
+        },
+        {
+          "year": 2024,
+          "value": 813878
+        }
+      ]
+    }
+  ]
+}

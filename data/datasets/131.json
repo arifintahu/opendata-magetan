@@ -1,0 +1,40 @@
+{
+  "id": 131,
+  "title": "Pameran UMKM",
+  "item_title": "Dinas Koperasi dan Usaha Mikro",
+  "opd_id": 8,
+  "category": "investment-sme",
+  "url": "https://dasatama.magetan.go.id/detail/131",
+  "scraped_at": "2026-05-07T13:17:43",
+  "metadata": {
+    "concept": "UMKM",
+    "classification": "",
+    "measure": "Jumlah",
+    "unit": "UMKM",
+    "period": "Tahunan",
+    "created_at": "2023-12-20 08:15:34",
+    "updated_at": ""
+  },
+  "total_data": 1,
+  "data": [
+    {
+      "name": "Peserta dari UM",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2022,
+        "max": 2023
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 49
+        },
+        {
+          "year": 2023,
+          "value": 107
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "id": 113,
+  "title": "Data Kasus Medis",
+  "item_title": "Dinas Kesehatan",
+  "opd_id": 7,
+  "category": "health",
+  "url": "https://dasatama.magetan.go.id/detail/113",
+  "scraped_at": "2026-05-07T13:17:23",
+  "metadata": {
+    "concept": "Kasus Medis",
+    "classification": "Jenis Kasus Medis",
+    "measure": "Jumlah",
+    "unit": "Kasus",
+    "period": "Tahunan",
+    "created_at": "2023-12-19 13:48:38",
+    "updated_at": ""
+  },
+  "total_data": 13,
+  "data": [
+    {
+      "name": "AFP (Non Polio)",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 5
+        },
+        {
+          "year": 2023,
+          "value": 5857
+        },
+        {
+          "year": 2024,
+          "value": 10
+        }
+      ]
+    },
+    {
+      "name": "Polio",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Campak",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 63
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 30
+        }
+      ]
+    },
+    {
+      "name": "Difteri",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 7
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "TB",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 110
+        },
+        {
+          "year": 2023,
+          "value": 1616
+        },
+        {
+          "year": 2024,
+          "value": 928
+        }
+      ]
+    },
+    {
+      "name": "HIV/AIDS",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 70
+        },
+        {
+          "year": 2023,
+          "value": 4
+        },
+        {
+          "year": 2024,
+          "value": 100
+        }
+      ]
+    },
+    {
+      "name": "DBD",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 316
+        },
+        {
+          "year": 2023,
+          "value": 3
+        },
+        {
+          "year": 2024,
+          "value": 599
+        }
+      ]
+    },
+    {
+      "name": "Malaria",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 133
+        },
+        {
+          "year": 2024,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "ISPA Pneoumonia",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 1409
+        },
+        {
+          "year": 2023,
+          "value": 112
+        },
+        {
+          "year": 2024,
+          "value": 773
+        }
+      ]
+    },
+    {
+      "name": "Thypoid",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 735
+        },
+        {
+          "year": 2024,
+          "value": 721
+        }
+      ]
+    },
+    {
+      "name": "Diare",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 7716
+        },
+        {
+          "year": 2023,
+          "value": 5
+        },
+        {
+          "year": 2024,
+          "value": 5205
+        }
+      ]
+    },
+    {
+      "name": "Filariasis",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 3
+        },
+        {
+          "year": 2023,
+          "value": 17
+        },
+        {
+          "year": 2024,
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Leptospirosis",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        }
+      ]
+    }
+  ]
+}

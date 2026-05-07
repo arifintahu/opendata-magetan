@@ -1,0 +1,44 @@
+{
+  "id": 379,
+  "title": "Indeks Inovasi Daerah",
+  "item_title": "Badan Perencanaan Pembangaunan, Penelitian dan Pengembangan Daerah",
+  "opd_id": 34,
+  "category": "governance",
+  "url": "https://dasatama.magetan.go.id/detail/379",
+  "scraped_at": "2026-05-07T13:20:24",
+  "metadata": {
+    "concept": "Indeks Inovasi Daerah",
+    "classification": "Wilayah",
+    "measure": "Indeks",
+    "unit": "",
+    "period": "Tahunan",
+    "created_at": "2025-03-11 09:24:02",
+    "updated_at": ""
+  },
+  "total_data": 1,
+  "data": [
+    {
+      "name": "Indeks Inovasi Daerah",
+      "type": "number",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 56.53
+        },
+        {
+          "year": 2023,
+          "value": 43.14
+        },
+        {
+          "year": 2024,
+          "value": 49.73
+        }
+      ]
+    }
+  ]
+}

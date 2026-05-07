@@ -1,0 +1,113 @@
+{
+  "id": 172,
+  "title": "Jumlah Penduduk - Status Perkawinan",
+  "item_title": "Dinas Kependudukan dan Pencatatan Sipil",
+  "opd_id": 14,
+  "category": "demographics",
+  "url": "https://dasatama.magetan.go.id/detail/172",
+  "scraped_at": "2026-05-07T13:18:25",
+  "metadata": {
+    "concept": "Penduduk",
+    "classification": "Status Perkawinan",
+    "measure": "Jumlah",
+    "unit": "Jiwa",
+    "period": "Tahunan",
+    "created_at": "2023-12-20 14:53:42",
+    "updated_at": ""
+  },
+  "total_data": 4,
+  "data": [
+    {
+      "name": "Belum Kawin",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 260528
+        },
+        {
+          "year": 2023,
+          "value": 261072
+        },
+        {
+          "year": 2024,
+          "value": 261036
+        }
+      ]
+    },
+    {
+      "name": "Kawin",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 362671
+        },
+        {
+          "year": 2023,
+          "value": 361015
+        },
+        {
+          "year": 2024,
+          "value": 358185
+        }
+      ]
+    },
+    {
+      "name": "Cerai Hidup",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 13131
+        },
+        {
+          "year": 2023,
+          "value": 13844
+        },
+        {
+          "year": 2024,
+          "value": 14514
+        }
+      ]
+    },
+    {
+      "name": "Cerai Mati",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 53915
+        },
+        {
+          "year": 2023,
+          "value": 56622
+        },
+        {
+          "year": 2024,
+          "value": 59065
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "id": 96,
+  "title": "Sarana dan Prasarana SMP",
+  "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga",
+  "opd_id": 6,
+  "category": "education",
+  "url": "https://dasatama.magetan.go.id/detail/96",
+  "scraped_at": "2026-05-07T13:16:46",
+  "metadata": {
+    "concept": "Sarana Prasarana",
+    "classification": "Sarana Prasarana",
+    "measure": "Jumlah",
+    "unit": "Unit",
+    "period": "Tahunan",
+    "created_at": "2023-12-19 12:11:09",
+    "updated_at": "2025-11-26 10:53:14"
+  },
+  "total_data": 10,
+  "data": [
+    {
+      "name": "Ruang Kelas",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 789
+        },
+        {
+          "year": 2022,
+          "value": 782
+        },
+        {
+          "year": 2023,
+          "value": 807
+        },
+        {
+          "year": 2024,
+          "value": 789
+        },
+        {
+          "year": 2025,
+          "value": 789
+        }
+      ]
+    },
+    {
+      "name": "Perpustakaan",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 40
+        },
+        {
+          "year": 2022,
+          "value": 50
+        },
+        {
+          "year": 2023,
+          "value": 52
+        },
+        {
+          "year": 2024,
+          "value": 49
+        },
+        {
+          "year": 2025,
+          "value": 49
+        }
+      ]
+    },
+    {
+      "name": "UKS",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 47
+        },
+        {
+          "year": 2022,
+          "value": 47
+        },
+        {
+          "year": 2023,
+          "value": 46
+        },
+        {
+          "year": 2024,
+          "value": 46
+        },
+        {
+          "year": 2025,
+          "value": 46
+        }
+      ]
+    },
+    {
+      "name": "Ruang Komputer",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 80
+        },
+        {
+          "year": 2022,
+          "value": 85
+        },
+        {
+          "year": 2023,
+          "value": 86
+        },
+        {
+          "year": 2024,
+          "value": 88
+        },
+        {
+          "year": 2025,
+          "value": 88
+        }
+      ]
+    },
+    {
+      "name": "Tempat Olahraga",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 12
+        },
+        {
+          "year": 2022,
+          "value": 10
+        },
+        {
+          "year": 2023,
+          "value": 12
+        },
+        {
+          "year": 2024,
+          "value": 11
+        },
+        {
+          "year": 2025,
+          "value": 11
+        }
+      ]
+    },
+    {
+      "name": "Lab IPA",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 54
+        },
+        {
+          "year": 2022,
+          "value": 51
+        },
+        {
+          "year": 2023,
+          "value": 52
+        },
+        {
+          "year": 2024,
+          "value": 83
+        },
+        {
+          "year": 2025,
+          "value": 92
+        }
+      ]
+    },
+    {
+      "name": "Lab Multimedia",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 17
+        },
+        {
+          "year": 2022,
+          "value": 17
+        },
+        {
+          "year": 2023,
+          "value": 17
+        },
+        {
+          "year": 2024,
+          "value": 14
+        },
+        {
+          "year": 2025,
+          "value": 14
+        }
+      ]
+    },
+    {
+      "name": "Toilet",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 746
+        },
+        {
+          "year": 2022,
+          "value": 735
+        },
+        {
+          "year": 2023,
+          "value": 722
+        },
+        {
+          "year": 2024,
+          "value": 804
+        },
+        {
+          "year": 2025,
+          "value": 804
+        }
+      ]
+    },
+    {
+      "name": "Air Bersih",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 57
+        },
+        {
+          "year": 2022,
+          "value": 56
+        },
+        {
+          "year": 2023,
+          "value": 56
+        },
+        {
+          "year": 2024,
+          "value": 56
+        },
+        {
+          "year": 2025,
+          "value": 56
+        }
+      ]
+    },
+    {
+      "name": "Listrik",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 57
+        },
+        {
+          "year": 2022,
+          "value": 56
+        },
+        {
+          "year": 2023,
+          "value": 56
+        },
+        {
+          "year": 2024,
+          "value": 56
+        },
+        {
+          "year": 2025,
+          "value": 56
+        }
+      ]
+    }
+  ]
+}

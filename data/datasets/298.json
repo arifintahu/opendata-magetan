@@ -1,0 +1,83 @@
+{
+  "id": 298,
+  "title": "Data Jumlah Pengaduan dan Penanganan Pengaduan Akibat Dugaan Pencemaran dan/atau Perusakan Lingkungan",
+  "item_title": "Dinas Lingkungan Hidup dan Pangan",
+  "opd_id": 16,
+  "category": "environment",
+  "url": "https://dasatama.magetan.go.id/detail/298",
+  "scraped_at": "2026-05-07T13:18:43",
+  "metadata": {
+    "concept": "Lingkungan",
+    "classification": "",
+    "measure": "Jumlah",
+    "unit": "Pengaduan",
+    "period": "Tahunan",
+    "created_at": "2024-04-26 09:16:09",
+    "updated_at": "2026-02-18 14:29:55"
+  },
+  "total_data": 2,
+  "data": [
+    {
+      "name": "Pengaduan yang Masuk",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 18
+        },
+        {
+          "year": 2022,
+          "value": 8
+        },
+        {
+          "year": 2023,
+          "value": 14
+        },
+        {
+          "year": 2024,
+          "value": 9
+        },
+        {
+          "year": 2025,
+          "value": 20
+        }
+      ]
+    },
+    {
+      "name": "Pengaduan yang Terselesaikan",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 18
+        },
+        {
+          "year": 2022,
+          "value": 8
+        },
+        {
+          "year": 2023,
+          "value": 14
+        },
+        {
+          "year": 2024,
+          "value": 9
+        },
+        {
+          "year": 2025,
+          "value": 20
+        }
+      ]
+    }
+  ]
+}

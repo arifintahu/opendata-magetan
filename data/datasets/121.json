@@ -1,0 +1,159 @@
+{
+  "id": 121,
+  "title": "KK Dengan Akses Jamban Sehat",
+  "item_title": "Dinas Kesehatan",
+  "opd_id": 7,
+  "category": "health",
+  "url": "https://dasatama.magetan.go.id/detail/121",
+  "scraped_at": "2026-05-07T13:17:27",
+  "metadata": {
+    "concept": "Jamban Sehat",
+    "classification": "Kategori kelayakan jamban",
+    "measure": "Jumlah",
+    "unit": "Keluarga",
+    "period": "Tahunan",
+    "created_at": "2023-12-19 14:54:53",
+    "updated_at": ""
+  },
+  "total_data": 6,
+  "data": [
+    {
+      "name": "Sanitasi Aman",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 29
+        },
+        {
+          "year": 2023,
+          "value": 9238
+        },
+        {
+          "year": 2024,
+          "value": 415
+        }
+      ]
+    },
+    {
+      "name": "Sanitasi Layak Sendiri",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 199359
+        },
+        {
+          "year": 2023,
+          "value": 210075
+        },
+        {
+          "year": 2024,
+          "value": 224936
+        }
+      ]
+    },
+    {
+      "name": "Layak Bersama",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 17254
+        },
+        {
+          "year": 2023,
+          "value": 5040
+        },
+        {
+          "year": 2024,
+          "value": 6220
+        }
+      ]
+    },
+    {
+      "name": "Belum Layak",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 1132
+        },
+        {
+          "year": 2023,
+          "value": 2742
+        },
+        {
+          "year": 2024,
+          "value": 1385
+        }
+      ]
+    },
+    {
+      "name": "BABS Tertutup",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "BABS Terbuka",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        }
+      ]
+    }
+  ]
+}

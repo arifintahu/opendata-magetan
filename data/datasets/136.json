@@ -1,0 +1,78 @@
+{
+  "id": 136,
+  "title": "KDRT, WRSE, dan Wanita Tuna Sosial",
+  "item_title": "Dinas Sosial",
+  "opd_id": 9,
+  "category": "social-labor",
+  "url": "https://dasatama.magetan.go.id/detail/136",
+  "scraped_at": "2026-05-07T13:17:50",
+  "metadata": {
+    "concept": "Kesejahteraan Sosial",
+    "classification": "",
+    "measure": "Jumlah",
+    "unit": "Kasus",
+    "period": "Tahunan",
+    "created_at": "2023-12-20 08:56:47",
+    "updated_at": "2023-12-20 09:01:44"
+  },
+  "total_data": 3,
+  "data": [
+    {
+      "name": "KDRT",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 22
+        },
+        {
+          "year": 2024,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "WRSE",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 6971
+        }
+      ]
+    },
+    {
+      "name": "WTS",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 480,
+  "title": "Garis Kemiskinan",
+  "item_title": "BPS Kabupaten Magetan",
+  "opd_id": 41,
+  "category": "macro-economy",
+  "url": "https://dasatama.magetan.go.id/detail/480",
+  "scraped_at": "2026-05-07T13:20:32",
+  "metadata": {
+    "concept": "Kemiskinan",
+    "classification": "Wilayah",
+    "measure": "Nilai",
+    "unit": "Rupiah",
+    "period": "Tahunan",
+    "created_at": "2026-03-06 08:46:01",
+    "updated_at": "2026-03-06 08:48:38"
+  },
+  "total_data": 1,
+  "data": [
+    {
+      "name": "Garis Kemiskinan Kabupaten Magetan",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2020,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 354936
+        },
+        {
+          "year": 2021,
+          "value": 371182
+        },
+        {
+          "year": 2022,
+          "value": 396696
+        },
+        {
+          "year": 2023,
+          "value": 431203
+        },
+        {
+          "year": 2024,
+          "value": 455119
+        }
+      ]
+    }
+  ]
+}

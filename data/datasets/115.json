@@ -1,0 +1,67 @@
+{
+  "id": 115,
+  "title": "Pemberian Vit A pada Bayi (%)",
+  "item_title": "Dinas Kesehatan",
+  "opd_id": 7,
+  "category": "health",
+  "url": "https://dasatama.magetan.go.id/detail/115",
+  "scraped_at": "2026-05-07T13:17:24",
+  "metadata": {
+    "concept": "Vitamin",
+    "classification": "Usia",
+    "measure": "Persentase",
+    "unit": "Persen",
+    "period": "Tahunan",
+    "created_at": "2023-12-19 14:14:41",
+    "updated_at": ""
+  },
+  "total_data": 2,
+  "data": [
+    {
+      "name": "Bayi (6-11 bln)",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 95
+        },
+        {
+          "year": 2023,
+          "value": 97
+        },
+        {
+          "year": 2024,
+          "value": 96
+        }
+      ]
+    },
+    {
+      "name": "Bayi (12-59 bln)",
+      "type": "number",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 96.0
+        },
+        {
+          "year": 2023,
+          "value": 97.0
+        },
+        {
+          "year": 2024,
+          "value": 74.1
+        }
+      ]
+    }
+  ]
+}

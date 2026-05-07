@@ -1,0 +1,642 @@
+{
+  "id": 269,
+  "title": "Jumlah Bidang Usaha/KBLI Per Sektor",
+  "item_title": "Dinas Penanaman Modal dan Pelayanan Satu Pintu",
+  "opd_id": 18,
+  "category": "investment-sme",
+  "url": "https://dasatama.magetan.go.id/detail/269",
+  "scraped_at": "2026-05-07T13:18:57",
+  "metadata": {
+    "concept": "Bidang Usaha / Kbli",
+    "classification": "Sektor",
+    "measure": "Jumlah",
+    "unit": "Bidang Usaha / KBLI",
+    "period": "Tahunan",
+    "created_at": "2024-02-28 09:04:29",
+    "updated_at": "2026-02-25 09:01:34"
+  },
+  "total_data": 27,
+  "data": [
+    {
+      "name": "Kementerian Agama",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2023,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 9
+        },
+        {
+          "year": 2024,
+          "value": 15
+        },
+        {
+          "year": 2025,
+          "value": 10
+        }
+      ]
+    },
+    {
+      "name": "Kementerian Energi dan Sumber Daya Mineral",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2023,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 696
+        },
+        {
+          "year": 2024,
+          "value": 498
+        },
+        {
+          "year": 2025,
+          "value": 382
+        }
+      ]
+    },
+    {
+      "name": "Kementerian Perindustrian",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2023,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 7943
+        },
+        {
+          "year": 2024,
+          "value": 10771
+        },
+        {
+          "year": 2025,
+          "value": 2192
+        }
+      ]
+    },
+    {
+      "name": "Kementerian Pertahanan",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2023,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 8
+        },
+        {
+          "year": 2024,
+          "value": 7
+        },
+        {
+          "year": 2025,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Kementerian Kelautan dan Perikanan",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2023,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 212
+        },
+        {
+          "year": 2024,
+          "value": 297
+        },
+        {
+          "year": 2025,
+          "value": 120
+        }
+      ]
+    },
+    {
+      "name": "Kementerian Kesehatan",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2023,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 121
+        },
+        {
+          "year": 2024,
+          "value": 185
+        },
+        {
+          "year": 2025,
+          "value": 112
+        }
+      ]
+    },
+    {
+      "name": "Kementerian Ketenagakerjaan",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2023,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 77
+        },
+        {
+          "year": 2024,
+          "value": 277
+        },
+        {
+          "year": 2025,
+          "value": 134
+        }
+      ]
+    },
+    {
+      "name": "Kementerian Keuangan",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2023,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 29
+        },
+        {
+          "year": 2024,
+          "value": 28
+        },
+        {
+          "year": 2025,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Kementerian Komunikasi dan Digital",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2023,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 92
+        },
+        {
+          "year": 2024,
+          "value": 117
+        },
+        {
+          "year": 2025,
+          "value": 55
+        }
+      ]
+    },
+    {
+      "name": "Kementerian Koperasi dan UKM",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2023,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 13
+        },
+        {
+          "year": 2024,
+          "value": 34
+        },
+        {
+          "year": 2025,
+          "value": 54
+        }
+      ]
+    },
+    {
+      "name": "Kementerian Lingkungan Hidup",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2023,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 25
+        },
+        {
+          "year": 2024,
+          "value": 54
+        },
+        {
+          "year": 2025,
+          "value": 5
+        }
+      ]
+    },
+    {
+      "name": "Kementerian Pariwisata",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2023,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 1963
+        },
+        {
+          "year": 2024,
+          "value": 2779
+        },
+        {
+          "year": 2025,
+          "value": 1448
+        }
+      ]
+    },
+    {
+      "name": "Kementerian Pekerjaan Umum",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2023,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 281
+        },
+        {
+          "year": 2024,
+          "value": 1028
+        },
+        {
+          "year": 2025,
+          "value": 486
+        }
+      ]
+    },
+    {
+      "name": "Kementerian Pendidikan Dasar dan Menengah",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2023,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 45
+        },
+        {
+          "year": 2024,
+          "value": 113
+        },
+        {
+          "year": 2025,
+          "value": 62
+        }
+      ]
+    },
+    {
+      "name": "Kementerian Perdagangan",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2023,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 3568
+        },
+        {
+          "year": 2024,
+          "value": 5192
+        },
+        {
+          "year": 2025,
+          "value": 2988
+        }
+      ]
+    },
+    {
+      "name": "Kementerian Perhubungan",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2023,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 51
+        },
+        {
+          "year": 2024,
+          "value": 108
+        },
+        {
+          "year": 2025,
+          "value": 42
+        }
+      ]
+    },
+    {
+      "name": "Kementerian Pertanian",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2023,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 670
+        },
+        {
+          "year": 2024,
+          "value": 690
+        },
+        {
+          "year": 2025,
+          "value": 445
+        }
+      ]
+    },
+    {
+      "name": "Bank Indonesia",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2023,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        },
+        {
+          "year": 2025,
+          "value": 11
+        }
+      ]
+    },
+    {
+      "name": "Kementerian Ekonomi Kreatif",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2023,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        },
+        {
+          "year": 2025,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "name": "Kementerian Investasi dan Hilirisasi",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2023,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        },
+        {
+          "year": 2025,
+          "value": 17
+        }
+      ]
+    },
+    {
+      "name": "Kementerian Kebudayaan",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2023,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        },
+        {
+          "year": 2025,
+          "value": 3
+        }
+      ]
+    },
+    {
+      "name": "Kementerian Kehutanan",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2023,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        },
+        {
+          "year": 2025,
+          "value": 5
+        }
+      ]
+    },
+    {
+      "name": "Kementerian Perlindungan Pekerja Migran Indonesia",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2023,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        },
+        {
+          "year": 2025,
+          "value": 5
+        }
+      ]
+    },
+    {
+      "name": "Kementerian Pendidikan Tinggi, Sains dan Teknologi",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2023,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        },
+        {
+          "year": 2025,
+          "value": 14
+        }
+      ]
+    },
+    {
+      "name": "Kementerian Perumahan dan Kawasan Pemukiman",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2023,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        },
+        {
+          "year": 2025,
+          "value": 18
+        }
+      ]
+    },
+    {
+      "name": "Kepolisian Negara Republik Indonesia",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2023,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        },
+        {
+          "year": 2025,
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Otoritas Jasa Keuangan",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2023,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        },
+        {
+          "year": 2025,
+          "value": 8
+        }
+      ]
+    }
+  ]
+}

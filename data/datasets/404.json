@@ -1,0 +1,66 @@
+{
+  "id": 404,
+  "title": "Rehabilitasi Disabilitas",
+  "item_title": "Dinas Sosial",
+  "opd_id": 9,
+  "category": "social-labor",
+  "url": "https://dasatama.magetan.go.id/detail/404",
+  "scraped_at": "2026-05-07T13:18:01",
+  "metadata": {
+    "concept": "Disabilitas",
+    "classification": "",
+    "measure": "Jumlah; Persentase",
+    "unit": "Orang; Persen",
+    "period": "Tahunan",
+    "created_at": "2025-05-08 10:47:14",
+    "updated_at": ""
+  },
+  "total_data": 3,
+  "data": [
+    {
+      "name": "Jumlah Disabilitas Terlantar",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 3320
+        }
+      ]
+    },
+    {
+      "name": "Disabilitas Terlantar Direhabilitasi di Luar Panti",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 510
+        }
+      ]
+    },
+    {
+      "name": "Persentase Disabilitas Terlantar Direhabilitasi di Luar Panti",
+      "type": "number",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 15.36
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 469,
+  "title": "Persentase Tindaklanjut Rekomendasi BPK Tahun Anggaran N-1",
+  "item_title": "Inspektorat",
+  "opd_id": 39,
+  "category": "governance",
+  "url": "https://dasatama.magetan.go.id/detail/469",
+  "scraped_at": "2026-05-07T13:20:26",
+  "metadata": {
+    "concept": "Persentase TL Rekomendasi BPK",
+    "classification": "",
+    "measure": "Persentase",
+    "unit": "",
+    "period": "Tahunan",
+    "created_at": "2026-03-01 12:55:38",
+    "updated_at": "2026-03-01 13:04:47"
+  },
+  "total_data": 1,
+  "data": [
+    {
+      "name": "Persentase TL Rekomendasi BPK",
+      "type": "number",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 94.85
+        },
+        {
+          "year": 2022,
+          "value": 92.0
+        },
+        {
+          "year": 2023,
+          "value": 92.73
+        },
+        {
+          "year": 2024,
+          "value": 96.39
+        },
+        {
+          "year": 2025,
+          "value": 94.08
+        }
+      ]
+    }
+  ]
+}

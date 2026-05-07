@@ -1,0 +1,205 @@
+{
+  "id": 116,
+  "title": "Peserta KB Aktif",
+  "item_title": "Dinas Kesehatan",
+  "opd_id": 7,
+  "category": "health",
+  "url": "https://dasatama.magetan.go.id/detail/116",
+  "scraped_at": "2026-05-07T13:17:25",
+  "metadata": {
+    "concept": "Keluarga Berencana",
+    "classification": "Jenis KB",
+    "measure": "Jumlah",
+    "unit": "Orang",
+    "period": "Tahunan",
+    "created_at": "2023-12-19 14:18:43",
+    "updated_at": ""
+  },
+  "total_data": 8,
+  "data": [
+    {
+      "name": "Kondom",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 3383
+        },
+        {
+          "year": 2023,
+          "value": 3836
+        },
+        {
+          "year": 2024,
+          "value": 3731
+        }
+      ]
+    },
+    {
+      "name": "Suntik",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 46439
+        },
+        {
+          "year": 2023,
+          "value": 44741
+        },
+        {
+          "year": 2024,
+          "value": 44389
+        }
+      ]
+    },
+    {
+      "name": "Pil",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 5213
+        },
+        {
+          "year": 2023,
+          "value": 5610
+        },
+        {
+          "year": 2024,
+          "value": 5625
+        }
+      ]
+    },
+    {
+      "name": "AKDR",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 16618
+        },
+        {
+          "year": 2023,
+          "value": 17184
+        },
+        {
+          "year": 2024,
+          "value": 15361
+        }
+      ]
+    },
+    {
+      "name": "MOP",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 254
+        },
+        {
+          "year": 2023,
+          "value": 275
+        },
+        {
+          "year": 2024,
+          "value": 288
+        }
+      ]
+    },
+    {
+      "name": "MOW",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 5479
+        },
+        {
+          "year": 2023,
+          "value": 5473
+        },
+        {
+          "year": 2024,
+          "value": 5078
+        }
+      ]
+    },
+    {
+      "name": "Implan",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 7361
+        },
+        {
+          "year": 2023,
+          "value": 7979
+        },
+        {
+          "year": 2024,
+          "value": 7846
+        }
+      ]
+    },
+    {
+      "name": "MAL",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 18
+        },
+        {
+          "year": 2023,
+          "value": 21
+        },
+        {
+          "year": 2024,
+          "value": 24
+        }
+      ]
+    }
+  ]
+}

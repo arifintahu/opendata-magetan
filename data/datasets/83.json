@@ -1,0 +1,91 @@
+{
+  "id": 83,
+  "title": "Jumlah PNS Mutasi",
+  "item_title": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia",
+  "opd_id": 3,
+  "category": "governance",
+  "url": "https://dasatama.magetan.go.id/detail/83",
+  "scraped_at": "2026-05-07T13:16:28",
+  "metadata": {
+    "concept": "Mutasi",
+    "classification": "Jenis Mutasi",
+    "measure": "Jumlah",
+    "unit": "Orang",
+    "period": "Tahunan",
+    "created_at": "2023-10-17 08:41:49",
+    "updated_at": "2026-01-25 11:51:16"
+  },
+  "total_data": 2,
+  "data": [
+    {
+      "name": "Mutasi Keluar",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 11
+        },
+        {
+          "year": 2022,
+          "value": 4
+        },
+        {
+          "year": 2023,
+          "value": 3
+        },
+        {
+          "year": 2024,
+          "value": 8
+        },
+        {
+          "year": 2025,
+          "value": 14
+        }
+      ]
+    },
+    {
+      "name": "Mutasi Masuk",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 14
+        },
+        {
+          "year": 2022,
+          "value": 34
+        },
+        {
+          "year": 2023,
+          "value": 15
+        },
+        {
+          "year": 2024,
+          "value": 19
+        },
+        {
+          "year": 2025,
+          "value": 12
+        }
+      ]
+    }
+  ]
+}

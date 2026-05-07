@@ -1,0 +1,20 @@
+{
+  "id": 357,
+  "title": "Jumlah gedung olahraga per 10.000 penduduk",
+  "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga",
+  "opd_id": 6,
+  "category": "education",
+  "url": "https://dasatama.magetan.go.id/detail/357",
+  "scraped_at": "2026-05-07T13:17:09",
+  "metadata": {
+    "concept": "Gedung Olahraga",
+    "classification": "",
+    "measure": "Jumlah",
+    "unit": "Unit",
+    "period": "Tahunan",
+    "created_at": "2025-02-19 13:58:15",
+    "updated_at": ""
+  },
+  "total_data": 0,
+  "data": []
+}

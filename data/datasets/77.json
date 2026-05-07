@@ -1,0 +1,102 @@
+{
+  "id": 77,
+  "title": "Jumlah Arsip",
+  "item_title": "Dinas Kearsip dan Perpustakaan",
+  "opd_id": 1,
+  "category": "governance",
+  "url": "https://dasatama.magetan.go.id/detail/77",
+  "scraped_at": "2026-05-07T13:16:19",
+  "metadata": {
+    "concept": "Arsip",
+    "classification": "Jenis Arsip",
+    "measure": "Jumlah",
+    "unit": "Dokumen",
+    "period": "Tahunan",
+    "created_at": "2023-10-10 08:03:46",
+    "updated_at": "2026-02-24 13:50:14"
+  },
+  "total_data": 3,
+  "data": [
+    {
+      "name": "Arsip Dinamis (Aktif)",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 3081
+        },
+        {
+          "year": 2023,
+          "value": 11822
+        },
+        {
+          "year": 2024,
+          "value": 5081
+        },
+        {
+          "year": 2025,
+          "value": 29112
+        }
+      ]
+    },
+    {
+      "name": "Arsip Dinamis (Inaktif)",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 11478
+        },
+        {
+          "year": 2023,
+          "value": 11545
+        },
+        {
+          "year": 2024,
+          "value": 13545
+        },
+        {
+          "year": 2025,
+          "value": 51879
+        }
+      ]
+    },
+    {
+      "name": "Arsip Statis",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 50
+        },
+        {
+          "year": 2023,
+          "value": 507
+        },
+        {
+          "year": 2024,
+          "value": 746
+        },
+        {
+          "year": 2025,
+          "value": 798
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 360,
+  "title": "Persentase Organisasi Pemuda yang Aktif",
+  "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga",
+  "opd_id": 6,
+  "category": "education",
+  "url": "https://dasatama.magetan.go.id/detail/360",
+  "scraped_at": "2026-05-07T13:17:11",
+  "metadata": {
+    "concept": "Organisasi Pemuda",
+    "classification": "",
+    "measure": "Persentase",
+    "unit": "Persen",
+    "period": "Tahunan",
+    "created_at": "2025-02-19 14:01:32",
+    "updated_at": ""
+  },
+  "total_data": 1,
+  "data": [
+    {
+      "name": "Persentase Organisasi Pemuda yang Aktif",
+      "type": "number",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 95.65
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "id": 199,
+  "title": "HIV",
+  "item_title": "Dinas Pengendalian Penduduk, Keluarga Berencana, Pemberdayaan Perempuan, dan Perlindungan Anak",
+  "opd_id": 21,
+  "category": "health",
+  "url": "https://dasatama.magetan.go.id/detail/199",
+  "scraped_at": "2026-05-07T13:19:19",
+  "metadata": {
+    "concept": "Kasus infeksi Human Immunodeficiency Virus (HIV) yang terdeteksi pada penduduk berdasarkan hasil pemeriksaan laboratorium dan tercatat pada sistem surveilans kesehatan",
+    "classification": "Wilayah administrasi kecamatan",
+    "measure": "Jumlah",
+    "unit": "Orang",
+    "period": "Tahunan",
+    "created_at": "2024-01-15 10:29:23",
+    "updated_at": ""
+  },
+  "total_data": 18,
+  "data": [
+    {
+      "name": "Poncol",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2022,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 144
+        }
+      ]
+    },
+    {
+      "name": "Parang",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2022,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 61
+        }
+      ]
+    },
+    {
+      "name": "Lembeyan",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2022,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 92
+        }
+      ]
+    },
+    {
+      "name": "Takeran",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2022,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 62
+        }
+      ]
+    },
+    {
+      "name": "Kawedanan",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2022,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 106
+        }
+      ]
+    },
+    {
+      "name": "Magetan",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2022,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 93
+        }
+      ]
+    },
+    {
+      "name": "Plaosan",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2022,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 90
+        }
+      ]
+    },
+    {
+      "name": "Panekan",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2022,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 152
+        }
+      ]
+    },
+    {
+      "name": "Sukomoro",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2022,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 66
+        }
+      ]
+    },
+    {
+      "name": "Bendo",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2022,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 72
+        }
+      ]
+    },
+    {
+      "name": "Maospati",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2022,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 64
+        }
+      ]
+    },
+    {
+      "name": "Barat",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2022,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 76
+        }
+      ]
+    },
+    {
+      "name": "Karangrejo",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2022,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 45
+        }
+      ]
+    },
+    {
+      "name": "Karas",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2022,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 105
+        }
+      ]
+    },
+    {
+      "name": "Kartoharjo",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2022,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 61
+        }
+      ]
+    },
+    {
+      "name": "Ngariboyo",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2022,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 139
+        }
+      ]
+    },
+    {
+      "name": "Nguntoronadi",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2022,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 41
+        }
+      ]
+    },
+    {
+      "name": "Sidorejo",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2022,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 38
+        }
+      ]
+    }
+  ]
+}

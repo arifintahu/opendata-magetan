@@ -1,0 +1,156 @@
+{
+  "id": 50,
+  "title": "Penempatan Tenaga Kerja",
+  "item_title": "Dinas Tenaga Kerja",
+  "opd_id": 12,
+  "category": "social-labor",
+  "url": "https://dasatama.magetan.go.id/detail/50",
+  "scraped_at": "2026-05-07T13:18:14",
+  "metadata": {
+    "concept": "Tenaga Kerja",
+    "classification": "Jenis Penempatan Kerja",
+    "measure": "Jumlah",
+    "unit": "Orang; Lowongan; Bursa",
+    "period": "Tahunan",
+    "created_at": "2023-08-15 08:58:17",
+    "updated_at": "2023-12-20 11:17:10"
+  },
+  "total_data": 5,
+  "data": [
+    {
+      "name": "Pencari Kerja",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 4696
+        },
+        {
+          "year": 2022,
+          "value": 3095
+        },
+        {
+          "year": 2023,
+          "value": 2931
+        },
+        {
+          "year": 2024,
+          "value": 3560
+        }
+      ]
+    },
+    {
+      "name": "Lowongan Kerja",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 3824
+        },
+        {
+          "year": 2023,
+          "value": 3757
+        },
+        {
+          "year": 2024,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Penempatan Tenaga Kerja",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 2275
+        },
+        {
+          "year": 2022,
+          "value": 2088
+        },
+        {
+          "year": 2023,
+          "value": 2086
+        },
+        {
+          "year": 2024,
+          "value": 2741
+        }
+      ]
+    },
+    {
+      "name": "Calon Pekerja Migran",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 1737
+        },
+        {
+          "year": 2023,
+          "value": 1457
+        },
+        {
+          "year": 2024,
+          "value": 1321
+        }
+      ]
+    },
+    {
+      "name": "Bursa Kerja Khusus",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 28
+        },
+        {
+          "year": 2023,
+          "value": 31
+        },
+        {
+          "year": 2024,
+          "value": 31
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "id": 234,
+  "title": "Realisasi Pembiayaan",
+  "item_title": "Badan Pengelolaan Keuangan dan Pendapatan Daerah",
+  "opd_id": 5,
+  "category": "governance",
+  "url": "https://dasatama.magetan.go.id/detail/234",
+  "scraped_at": "2026-05-07T13:16:40",
+  "metadata": {
+    "concept": "Pembiayaan Daerah",
+    "classification": "Jenis Pembiayaan",
+    "measure": "Jumlah",
+    "unit": "Rupiah",
+    "period": "Tahunan",
+    "created_at": "2024-02-22 11:20:44",
+    "updated_at": ""
+  },
+  "total_data": 4,
+  "data": [
+    {
+      "name": "Penerimaan Pembiayaan",
+      "type": "number",
+      "years": {
+        "total": 7,
+        "min": 2018,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2018,
+          "value": 186718201090.0
+        },
+        {
+          "year": 2019,
+          "value": 292380712253.11
+        },
+        {
+          "year": 2020,
+          "value": 243872559095.72
+        },
+        {
+          "year": 2021,
+          "value": 245006096527.76
+        },
+        {
+          "year": 2022,
+          "value": 363156025966.26
+        },
+        {
+          "year": 2023,
+          "value": 241432905643.98
+        },
+        {
+          "year": 2024,
+          "value": 162744150144.24
+        }
+      ]
+    },
+    {
+      "name": "Pengeluaran Pembiayaan",
+      "type": "number",
+      "years": {
+        "total": 7,
+        "min": 2018,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2018,
+          "value": 7377000000.0
+        },
+        {
+          "year": 2019,
+          "value": 5591000000.0
+        },
+        {
+          "year": 2020,
+          "value": 10354583334.0
+        },
+        {
+          "year": 2021,
+          "value": 5000000000.0
+        },
+        {
+          "year": 2022,
+          "value": 16000000000.0
+        },
+        {
+          "year": 2023,
+          "value": 9000000000.0
+        },
+        {
+          "year": 2024,
+          "value": 1500000000.0
+        }
+      ]
+    },
+    {
+      "name": "Pembiayaan Netto",
+      "type": "number",
+      "years": {
+        "total": 7,
+        "min": 2018,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2018,
+          "value": 179341201090.0
+        },
+        {
+          "year": 2019,
+          "value": 286789712253.11
+        },
+        {
+          "year": 2020,
+          "value": 233517975761.72
+        },
+        {
+          "year": 2021,
+          "value": 240006096527.76
+        },
+        {
+          "year": 2022,
+          "value": 347156025966.26
+        },
+        {
+          "year": 2023,
+          "value": 232432905643.98
+        },
+        {
+          "year": 2024,
+          "value": 161244150144.24
+        }
+      ]
+    },
+    {
+      "name": "Keterangan",
+      "type": "string",
+      "years": {
+        "total": 7,
+        "min": 2018,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2018,
+          "value": "audited"
+        },
+        {
+          "year": 2019,
+          "value": "audited"
+        },
+        {
+          "year": 2020,
+          "value": "audited"
+        },
+        {
+          "year": 2021,
+          "value": "audited"
+        },
+        {
+          "year": 2022,
+          "value": "audited"
+        },
+        {
+          "year": 2023,
+          "value": "audited"
+        },
+        {
+          "year": 2024,
+          "value": "unaudited"
+        }
+      ]
+    }
+  ]
+}

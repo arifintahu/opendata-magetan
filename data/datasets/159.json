@@ -1,0 +1,297 @@
+{
+  "id": 159,
+  "title": "Inseminasi Buatan",
+  "item_title": "Dinas Peternakan dan Perikanan",
+  "opd_id": 11,
+  "category": "livestock-fisheries",
+  "url": "https://dasatama.magetan.go.id/detail/159",
+  "scraped_at": "2026-05-07T13:18:09",
+  "metadata": {
+    "concept": "Inseminasi Buatan",
+    "classification": "",
+    "measure": "Jumlah",
+    "unit": "Ekor",
+    "period": "Bulanan",
+    "created_at": "2023-12-20 10:53:30",
+    "updated_at": ""
+  },
+  "total_data": 12,
+  "data": [
+    {
+      "name": "Januari",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 3583
+        },
+        {
+          "year": 2023,
+          "value": 288
+        },
+        {
+          "year": 2024,
+          "value": 1447
+        }
+      ]
+    },
+    {
+      "name": "Ferbruari",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 3581
+        },
+        {
+          "year": 2023,
+          "value": 1740
+        },
+        {
+          "year": 2024,
+          "value": 1446
+        }
+      ]
+    },
+    {
+      "name": "Maret",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 3472
+        },
+        {
+          "year": 2023,
+          "value": 3622
+        },
+        {
+          "year": 2024,
+          "value": 1446
+        }
+      ]
+    },
+    {
+      "name": "April",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 3230
+        },
+        {
+          "year": 2023,
+          "value": 3486
+        },
+        {
+          "year": 2024,
+          "value": 1448
+        }
+      ]
+    },
+    {
+      "name": "Mei",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 3183
+        },
+        {
+          "year": 2023,
+          "value": 3334
+        },
+        {
+          "year": 2024,
+          "value": 1446
+        }
+      ]
+    },
+    {
+      "name": "Juni",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 3342
+        },
+        {
+          "year": 2023,
+          "value": 3046
+        },
+        {
+          "year": 2024,
+          "value": 1446
+        }
+      ]
+    },
+    {
+      "name": "Juli",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 415
+        },
+        {
+          "year": 2023,
+          "value": 2711
+        },
+        {
+          "year": 2024,
+          "value": 1448
+        }
+      ]
+    },
+    {
+      "name": "Agustus",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 2690
+        },
+        {
+          "year": 2023,
+          "value": 2672
+        },
+        {
+          "year": 2024,
+          "value": 1446
+        }
+      ]
+    },
+    {
+      "name": "September",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 2423
+        },
+        {
+          "year": 2023,
+          "value": 2798
+        },
+        {
+          "year": 2024,
+          "value": 1447
+        }
+      ]
+    },
+    {
+      "name": "Oktober",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 1819
+        },
+        {
+          "year": 2023,
+          "value": 3370
+        },
+        {
+          "year": 2024,
+          "value": 1446
+        }
+      ]
+    },
+    {
+      "name": "November",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 437
+        },
+        {
+          "year": 2023,
+          "value": 4254
+        },
+        {
+          "year": 2024,
+          "value": 1446
+        }
+      ]
+    },
+    {
+      "name": "Desember",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 326
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 1446
+        }
+      ]
+    }
+  ]
+}

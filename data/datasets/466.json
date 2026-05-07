@@ -1,0 +1,75 @@
+{
+  "id": 466,
+  "title": "Nilai Maturitas Penyelenggaraan SPIP",
+  "item_title": "Inspektorat",
+  "opd_id": 39,
+  "category": "governance",
+  "url": "https://dasatama.magetan.go.id/detail/466",
+  "scraped_at": "2026-05-07T13:20:24",
+  "metadata": {
+    "concept": "Nilai Maturitas Penyelenggaraan SPIP",
+    "classification": "",
+    "measure": "Nilai",
+    "unit": "",
+    "period": "Tahunan",
+    "created_at": "2026-02-27 08:34:05",
+    "updated_at": "2026-02-27 09:14:40"
+  },
+  "total_data": 2,
+  "data": [
+    {
+      "name": "Nilai Maturitas Penyelenggaraan SPIP",
+      "type": "number",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 3.0
+        },
+        {
+          "year": 2022,
+          "value": 3.202
+        },
+        {
+          "year": 2023,
+          "value": 3.203
+        },
+        {
+          "year": 2024,
+          "value": 3.236
+        }
+      ]
+    },
+    {
+      "name": "Tingkat Maturitas (Level)",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 3
+        },
+        {
+          "year": 2022,
+          "value": 3
+        },
+        {
+          "year": 2023,
+          "value": 3
+        },
+        {
+          "year": 2024,
+          "value": 3
+        }
+      ]
+    }
+  ]
+}

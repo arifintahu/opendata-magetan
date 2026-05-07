@@ -1,0 +1,40 @@
+{
+  "id": 440,
+  "title": "Indeks Inklusivitas SMP (SPM)",
+  "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga",
+  "opd_id": 6,
+  "category": "education",
+  "url": "https://dasatama.magetan.go.id/detail/440",
+  "scraped_at": "2026-05-07T13:17:17",
+  "metadata": {
+    "concept": "Indeks Inklusivitas",
+    "classification": "",
+    "measure": "Indeks",
+    "unit": "",
+    "period": "Tahunan",
+    "created_at": "2025-09-18 12:49:14",
+    "updated_at": ""
+  },
+  "total_data": 1,
+  "data": [
+    {
+      "name": "Indeks Inklusivitas SMP (SPM)",
+      "type": "number",
+      "years": {
+        "total": 2,
+        "min": 2024,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 57.99
+        },
+        {
+          "year": 2025,
+          "value": 60.1
+        }
+      ]
+    }
+  ]
+}

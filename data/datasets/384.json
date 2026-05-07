@@ -1,0 +1,126 @@
+{
+  "id": 384,
+  "title": "ALOS/BOR/BTO/GDR/NDR/TOI/Infeksi Nosokomial RSUD dr. Sayidiman Magetan",
+  "item_title": "RSUD Sayidiman",
+  "opd_id": 25,
+  "category": "health",
+  "url": "https://dasatama.magetan.go.id/detail/384",
+  "scraped_at": "2026-05-07T13:19:53",
+  "metadata": {
+    "concept": "ALOS; BOR; BTO; GDR; NDR; TOI; Infeksi Nosokomial",
+    "classification": "-",
+    "measure": "Rata-rata; Persentase",
+    "unit": "Indeks; Persen",
+    "period": "Tahunan",
+    "created_at": "2025-03-14 10:47:38",
+    "updated_at": ""
+  },
+  "total_data": 7,
+  "data": [
+    {
+      "name": "ALOS (Average Length of Stay)",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 32
+        }
+      ]
+    },
+    {
+      "name": "BOR (Bed Occupancy Ratio)",
+      "type": "string",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": "88,9%"
+        }
+      ]
+    },
+    {
+      "name": "BTO (Bed Turn Over)",
+      "type": "string",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": "77,3%"
+        }
+      ]
+    },
+    {
+      "name": "GDR (Gross Death Rate)",
+      "type": "string",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": "39,1%"
+        }
+      ]
+    },
+    {
+      "name": "NDR (Net Death Rate)",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 184
+        }
+      ]
+    },
+    {
+      "name": "TOI (Turn Over Interval)",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 5
+        }
+      ]
+    },
+    {
+      "name": "Infeksi Nosokomial",
+      "type": "string",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": "-"
+        }
+      ]
+    }
+  ]
+}

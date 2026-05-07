@@ -1,0 +1,177 @@
+{
+  "id": 344,
+  "title": "Penetapan Cagar Budaya",
+  "item_title": "Dinas Pariwisata dan Kebudayaan",
+  "opd_id": 13,
+  "category": "tourism-culture",
+  "url": "https://dasatama.magetan.go.id/detail/344",
+  "scraped_at": "2026-05-07T13:18:20",
+  "metadata": {
+    "concept": "Cagar Budaya",
+    "classification": "Jenis Cagar Budaya",
+    "measure": "Jumlah",
+    "unit": "Cagar Budaya",
+    "period": "Tahunan",
+    "created_at": "2025-02-12 15:52:36",
+    "updated_at": "2026-02-26 14:00:44"
+  },
+  "total_data": 4,
+  "data": [
+    {
+      "name": "Benda Cagar Budaya",
+      "type": "integer",
+      "years": {
+        "total": 7,
+        "min": 2020,
+        "max": 2026
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 8
+        },
+        {
+          "year": 2025,
+          "value": 0
+        },
+        {
+          "year": 2026,
+          "value": 2
+        }
+      ]
+    },
+    {
+      "name": "Situs Cagar Budaya",
+      "type": "integer",
+      "years": {
+        "total": 7,
+        "min": 2020,
+        "max": 2026
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 2
+        },
+        {
+          "year": 2025,
+          "value": 0
+        },
+        {
+          "year": 2026,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Struktur Cagar Budaya",
+      "type": "integer",
+      "years": {
+        "total": 7,
+        "min": 2020,
+        "max": 2026
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 1
+        },
+        {
+          "year": 2025,
+          "value": 0
+        },
+        {
+          "year": 2026,
+          "value": 2
+        }
+      ]
+    },
+    {
+      "name": "Bangunan Cagar Budaya",
+      "type": "integer",
+      "years": {
+        "total": 7,
+        "min": 2020,
+        "max": 2026
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        },
+        {
+          "year": 2025,
+          "value": 0
+        },
+        {
+          "year": 2026,
+          "value": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": 387,
+  "title": "Indeks Reformasi Birokrasi",
+  "item_title": "Bagian Organisasi",
+  "opd_id": 33,
+  "category": "governance",
+  "url": "https://dasatama.magetan.go.id/detail/387",
+  "scraped_at": "2026-05-07T13:20:19",
+  "metadata": {
+    "concept": "Indeks reformasi Birokarsi",
+    "classification": "Klasifikasi berdasarkan analisis atau sesuai kebutuhan",
+    "measure": "Indeks",
+    "unit": "Indeks",
+    "period": "Tahunan",
+    "created_at": "2025-03-20 09:49:02",
+    "updated_at": ""
+  },
+  "total_data": 2,
+  "data": [
+    {
+      "name": "Nilai",
+      "type": "number",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 61.56
+        },
+        {
+          "year": 2022,
+          "value": 64.05
+        },
+        {
+          "year": 2023,
+          "value": 80.86
+        },
+        {
+          "year": 2024,
+          "value": 87.33
+        }
+      ]
+    },
+    {
+      "name": "Predikat",
+      "type": "string",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": "C"
+        },
+        {
+          "year": 2022,
+          "value": "C"
+        },
+        {
+          "year": 2023,
+          "value": "A-"
+        },
+        {
+          "year": 2024,
+          "value": "A-"
+        }
+      ]
+    }
+  ]
+}

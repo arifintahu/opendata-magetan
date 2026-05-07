@@ -1,0 +1,102 @@
+{
+  "id": 367,
+  "title": "Rasio Panjang Jalan per Jumlah Kendaraan",
+  "item_title": "Dinas Pekerjaan Umum dan Penataan Ruang",
+  "opd_id": 20,
+  "category": "infrastructure",
+  "url": "https://dasatama.magetan.go.id/detail/367",
+  "scraped_at": "2026-05-07T13:19:13",
+  "metadata": {
+    "concept": "Jalan kendaraan",
+    "classification": "",
+    "measure": "Rasio",
+    "unit": "",
+    "period": "Tahunan",
+    "created_at": "2025-03-03 07:40:04",
+    "updated_at": ""
+  },
+  "total_data": 3,
+  "data": [
+    {
+      "name": "Jumlah Kendaraan",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 309686
+        },
+        {
+          "year": 2022,
+          "value": 309467
+        },
+        {
+          "year": 2023,
+          "value": 309414
+        },
+        {
+          "year": 2024,
+          "value": 309648
+        }
+      ]
+    },
+    {
+      "name": "Panjang Jalan (km)",
+      "type": "number",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 630.25
+        },
+        {
+          "year": 2022,
+          "value": 630.25
+        },
+        {
+          "year": 2023,
+          "value": 630.25
+        },
+        {
+          "year": 2024,
+          "value": 683.61
+        }
+      ]
+    },
+    {
+      "name": "Rasio (jumlah kendaraan/km)",
+      "type": "number",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 491.37
+        },
+        {
+          "year": 2022,
+          "value": 491.02
+        },
+        {
+          "year": 2023,
+          "value": 490.94
+        },
+        {
+          "year": 2024,
+          "value": 452.96
+        }
+      ]
+    }
+  ]
+}

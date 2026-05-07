@@ -1,0 +1,67 @@
+{
+  "id": 111,
+  "title": "Imunisasi Komulatif TT WUS dan Bumil (%)",
+  "item_title": "Dinas Kesehatan",
+  "opd_id": 7,
+  "category": "health",
+  "url": "https://dasatama.magetan.go.id/detail/111",
+  "scraped_at": "2026-05-07T13:17:22",
+  "metadata": {
+    "concept": "Imunisasi",
+    "classification": "Kategori Penerima",
+    "measure": "Persentase",
+    "unit": "Persen",
+    "period": "Tahunan",
+    "created_at": "2023-12-19 13:33:05",
+    "updated_at": ""
+  },
+  "total_data": 2,
+  "data": [
+    {
+      "name": "WUS",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 90
+        },
+        {
+          "year": 2023,
+          "value": 96
+        },
+        {
+          "year": 2024,
+          "value": 64
+        }
+      ]
+    },
+    {
+      "name": "Bumil",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 94
+        },
+        {
+          "year": 2023,
+          "value": 80
+        },
+        {
+          "year": 2024,
+          "value": 66
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "id": 79,
+  "title": "Jumlah Pegawai berdasarkan Jabatan",
+  "item_title": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia",
+  "opd_id": 3,
+  "category": "governance",
+  "url": "https://dasatama.magetan.go.id/detail/79",
+  "scraped_at": "2026-05-07T13:16:26",
+  "metadata": {
+    "concept": "Jabatan",
+    "classification": "Jenis Jabatan",
+    "measure": "Jumlah",
+    "unit": "Orang",
+    "period": "Tahunan",
+    "created_at": "2023-10-17 08:19:08",
+    "updated_at": "2026-01-25 11:39:58"
+  },
+  "total_data": 6,
+  "data": [
+    {
+      "name": "Struktural",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 702
+        },
+        {
+          "year": 2021,
+          "value": 521
+        },
+        {
+          "year": 2022,
+          "value": 508
+        },
+        {
+          "year": 2023,
+          "value": 542
+        },
+        {
+          "year": 2024,
+          "value": 515
+        },
+        {
+          "year": 2025,
+          "value": 454
+        }
+      ]
+    },
+    {
+      "name": "Fungsional (Guru)",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 3752
+        },
+        {
+          "year": 2021,
+          "value": 3502
+        },
+        {
+          "year": 2022,
+          "value": 3621
+        },
+        {
+          "year": 2023,
+          "value": 3672
+        },
+        {
+          "year": 2024,
+          "value": 4505
+        },
+        {
+          "year": 2025,
+          "value": 4539
+        }
+      ]
+    },
+    {
+      "name": "Fungsional (Kesehatan)",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 1096
+        },
+        {
+          "year": 2021,
+          "value": 1106
+        },
+        {
+          "year": 2022,
+          "value": 1349
+        },
+        {
+          "year": 2023,
+          "value": 1598
+        },
+        {
+          "year": 2024,
+          "value": 1786
+        },
+        {
+          "year": 2025,
+          "value": 1868
+        }
+      ]
+    },
+    {
+      "name": "Fungsional (Khusus)",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 174
+        },
+        {
+          "year": 2021,
+          "value": 376
+        },
+        {
+          "year": 2022,
+          "value": 453
+        },
+        {
+          "year": 2023,
+          "value": 440
+        },
+        {
+          "year": 2024,
+          "value": 987
+        },
+        {
+          "year": 2025,
+          "value": 533
+        }
+      ]
+    },
+    {
+      "name": "Fungsional Umum Staf",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 1488
+        },
+        {
+          "year": 2021,
+          "value": 1501
+        },
+        {
+          "year": 2022,
+          "value": 1274
+        },
+        {
+          "year": 2023,
+          "value": 1078
+        },
+        {
+          "year": 2024,
+          "value": 1786
+        },
+        {
+          "year": 2025,
+          "value": 1669
+        }
+      ]
+    },
+    {
+      "name": "Total",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 7212
+        },
+        {
+          "year": 2021,
+          "value": 7006
+        },
+        {
+          "year": 2022,
+          "value": 7205
+        },
+        {
+          "year": 2023,
+          "value": 7330
+        },
+        {
+          "year": 2024,
+          "value": 9579
+        },
+        {
+          "year": 2025,
+          "value": 9063
+        }
+      ]
+    }
+  ]
+}

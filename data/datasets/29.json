@@ -1,0 +1,266 @@
+{
+  "id": 29,
+  "title": "Jumlah Pegawai berdasarkan Eselon",
+  "item_title": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia",
+  "opd_id": 3,
+  "category": "governance",
+  "url": "https://dasatama.magetan.go.id/detail/29",
+  "scraped_at": "2026-05-07T13:16:25",
+  "metadata": {
+    "concept": "Pegawai Negeri Sipil",
+    "classification": "Jenis Eselon",
+    "measure": "Jumlah",
+    "unit": "Orang",
+    "period": "Tahun",
+    "created_at": "2023-08-14 10:50:51",
+    "updated_at": "2026-01-25 11:34:00"
+  },
+  "total_data": 7,
+  "data": [
+    {
+      "name": "Eselon IIa",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 1
+        },
+        {
+          "year": 2021,
+          "value": 1
+        },
+        {
+          "year": 2022,
+          "value": 1
+        },
+        {
+          "year": 2023,
+          "value": 1
+        },
+        {
+          "year": 2024,
+          "value": 0
+        },
+        {
+          "year": 2025,
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Eselon IIb",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 22
+        },
+        {
+          "year": 2021,
+          "value": 30
+        },
+        {
+          "year": 2022,
+          "value": 29
+        },
+        {
+          "year": 2023,
+          "value": 31
+        },
+        {
+          "year": 2024,
+          "value": 31
+        },
+        {
+          "year": 2025,
+          "value": 28
+        }
+      ]
+    },
+    {
+      "name": "Eselon IIIa",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 50
+        },
+        {
+          "year": 2021,
+          "value": 55
+        },
+        {
+          "year": 2022,
+          "value": 62
+        },
+        {
+          "year": 2023,
+          "value": 60
+        },
+        {
+          "year": 2024,
+          "value": 47
+        },
+        {
+          "year": 2025,
+          "value": 39
+        }
+      ]
+    },
+    {
+      "name": "Eselon IIIb",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 99
+        },
+        {
+          "year": 2021,
+          "value": 101
+        },
+        {
+          "year": 2022,
+          "value": 99
+        },
+        {
+          "year": 2023,
+          "value": 103
+        },
+        {
+          "year": 2024,
+          "value": 100
+        },
+        {
+          "year": 2025,
+          "value": 95
+        }
+      ]
+    },
+    {
+      "name": "Eselon IVa",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 396
+        },
+        {
+          "year": 2021,
+          "value": 204
+        },
+        {
+          "year": 2022,
+          "value": 181
+        },
+        {
+          "year": 2023,
+          "value": 198
+        },
+        {
+          "year": 2024,
+          "value": 187
+        },
+        {
+          "year": 2025,
+          "value": 171
+        }
+      ]
+    },
+    {
+      "name": "Eselon IVb",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 134
+        },
+        {
+          "year": 2021,
+          "value": 131
+        },
+        {
+          "year": 2022,
+          "value": 136
+        },
+        {
+          "year": 2023,
+          "value": 140
+        },
+        {
+          "year": 2024,
+          "value": 135
+        },
+        {
+          "year": 2025,
+          "value": 120
+        }
+      ]
+    },
+    {
+      "name": "Total",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 702
+        },
+        {
+          "year": 2021,
+          "value": 522
+        },
+        {
+          "year": 2022,
+          "value": 508
+        },
+        {
+          "year": 2023,
+          "value": 533
+        },
+        {
+          "year": 2024,
+          "value": 500
+        },
+        {
+          "year": 2025,
+          "value": 454
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "id": 55,
+  "title": "Realisasi Belanja Daerah",
+  "item_title": "Badan Pengelolaan Keuangan dan Pendapatan Daerah",
+  "opd_id": 5,
+  "category": "governance",
+  "url": "https://dasatama.magetan.go.id/detail/55",
+  "scraped_at": "2026-05-07T13:16:39",
+  "metadata": {
+    "concept": "Belanja Daerah",
+    "classification": "Jenis Belanja",
+    "measure": "Jumlah",
+    "unit": "Rupiah",
+    "period": "Tahunan",
+    "created_at": "2023-08-15 10:41:15",
+    "updated_at": ""
+  },
+  "total_data": 6,
+  "data": [
+    {
+      "name": "Belanja Operasi",
+      "type": "number",
+      "years": {
+        "total": 7,
+        "min": 2018,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2018,
+          "value": 1261462889234.4
+        },
+        {
+          "year": 2019,
+          "value": 1320666015641.0
+        },
+        {
+          "year": 2020,
+          "value": 1233234009264.7
+        },
+        {
+          "year": 2021,
+          "value": 1286873187384.9
+        },
+        {
+          "year": 2022,
+          "value": 1433413607517.2
+        },
+        {
+          "year": 2023,
+          "value": 1413236998375.64
+        },
+        {
+          "year": 2024,
+          "value": 1511544971724.5
+        }
+      ]
+    },
+    {
+      "name": "Belanja Modal",
+      "type": "number",
+      "years": {
+        "total": 7,
+        "min": 2018,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2018,
+          "value": 194944111688.41
+        },
+        {
+          "year": 2019,
+          "value": 349500872689.75
+        },
+        {
+          "year": 2020,
+          "value": 237214475379.53
+        },
+        {
+          "year": 2021,
+          "value": 157745505910.0
+        },
+        {
+          "year": 2022,
+          "value": 217757007674.63
+        },
+        {
+          "year": 2023,
+          "value": 221294683859.07
+        },
+        {
+          "year": 2024,
+          "value": 199139647223.33
+        }
+      ]
+    },
+    {
+      "name": "Belanja Tak Terduga",
+      "type": "number",
+      "years": {
+        "total": 7,
+        "min": 2018,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2018,
+          "value": 0.0
+        },
+        {
+          "year": 2019,
+          "value": 10654026083.0
+        },
+        {
+          "year": 2020,
+          "value": 29702232490.0
+        },
+        {
+          "year": 2021,
+          "value": 32268218143.0
+        },
+        {
+          "year": 2022,
+          "value": 4011448806.0
+        },
+        {
+          "year": 2023,
+          "value": 3281617140.0
+        },
+        {
+          "year": 2024,
+          "value": 2955008863.0
+        }
+      ]
+    },
+    {
+      "name": "Belanja Transfer",
+      "type": "number",
+      "years": {
+        "total": 7,
+        "min": 2018,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2018,
+          "value": 259719359324.0
+        },
+        {
+          "year": 2019,
+          "value": 303822543974.0
+        },
+        {
+          "year": 2020,
+          "value": 290220978454.0
+        },
+        {
+          "year": 2021,
+          "value": 296171394654.0
+        },
+        {
+          "year": 2022,
+          "value": 316043981200.0
+        },
+        {
+          "year": 2023,
+          "value": 345033888521.0
+        },
+        {
+          "year": 2024,
+          "value": 362250572031.0
+        }
+      ]
+    },
+    {
+      "name": "Jumlah Belanja Daerah",
+      "type": "number",
+      "years": {
+        "total": 7,
+        "min": 2018,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2018,
+          "value": 1716126360246.9
+        },
+        {
+          "year": 2019,
+          "value": 1984643458387.8
+        },
+        {
+          "year": 2020,
+          "value": 1790371695588.2
+        },
+        {
+          "year": 2021,
+          "value": 1773058306092.0
+        },
+        {
+          "year": 2022,
+          "value": 1971226045197.9
+        },
+        {
+          "year": 2023,
+          "value": 1982847187895.71
+        },
+        {
+          "year": 2024,
+          "value": 2075890199841.83
+        }
+      ]
+    },
+    {
+      "name": "Keterangan",
+      "type": "string",
+      "years": {
+        "total": 7,
+        "min": 2018,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2018,
+          "value": "audited"
+        },
+        {
+          "year": 2019,
+          "value": "audited"
+        },
+        {
+          "year": 2020,
+          "value": "audited"
+        },
+        {
+          "year": 2021,
+          "value": "audited"
+        },
+        {
+          "year": 2022,
+          "value": "audited"
+        },
+        {
+          "year": 2023,
+          "value": "audited"
+        },
+        {
+          "year": 2024,
+          "value": "unaudited"
+        }
+      ]
+    }
+  ]
+}

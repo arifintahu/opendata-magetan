@@ -1,0 +1,67 @@
+{
+  "id": 143,
+  "title": "Tagana (L/P)",
+  "item_title": "Dinas Sosial",
+  "opd_id": 9,
+  "category": "social-labor",
+  "url": "https://dasatama.magetan.go.id/detail/143",
+  "scraped_at": "2026-05-07T13:17:54",
+  "metadata": {
+    "concept": "Taruna Siaga Bencana (Tagana)",
+    "classification": "Jenis Kelamin",
+    "measure": "Jumlah",
+    "unit": "Orang",
+    "period": "Tahunan",
+    "created_at": "2023-12-20 09:23:19",
+    "updated_at": ""
+  },
+  "total_data": 2,
+  "data": [
+    {
+      "name": "Laki - Laki",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 33
+        },
+        {
+          "year": 2023,
+          "value": 29
+        },
+        {
+          "year": 2024,
+          "value": 35
+        }
+      ]
+    },
+    {
+      "name": "Perempuan",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 9
+        },
+        {
+          "year": 2023,
+          "value": 16
+        },
+        {
+          "year": 2024,
+          "value": 10
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": 163,
+  "title": "Jumlah Pembudidaya Kolam",
+  "item_title": "Dinas Peternakan dan Perikanan",
+  "opd_id": 11,
+  "category": "livestock-fisheries",
+  "url": "https://dasatama.magetan.go.id/detail/163",
+  "scraped_at": "2026-05-07T13:18:12",
+  "metadata": {
+    "concept": "Kolam Budidaya",
+    "classification": "",
+    "measure": "Jumlah",
+    "unit": "Kolam; Desa",
+    "period": "Tahunan",
+    "created_at": "2023-12-20 11:02:15",
+    "updated_at": ""
+  },
+  "total_data": 2,
+  "data": [
+    {
+      "name": "Pemilik",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 3987
+        },
+        {
+          "year": 2023,
+          "value": 2536
+        },
+        {
+          "year": 2024,
+          "value": 2536
+        }
+      ]
+    },
+    {
+      "name": "Desa",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 225
+        },
+        {
+          "year": 2023,
+          "value": 225
+        },
+        {
+          "year": 2024,
+          "value": 225
+        }
+      ]
+    }
+  ]
+}

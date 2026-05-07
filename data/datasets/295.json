@@ -1,0 +1,182 @@
+{
+  "id": 295,
+  "title": "Data Jumlah Armada Pengelolaan Sampah",
+  "item_title": "Dinas Lingkungan Hidup dan Pangan",
+  "opd_id": 16,
+  "category": "environment",
+  "url": "https://dasatama.magetan.go.id/detail/295",
+  "scraped_at": "2026-05-07T13:18:41",
+  "metadata": {
+    "concept": "Armada Pengelolaan Sampah",
+    "classification": "Jenis Armada",
+    "measure": "Jumlah",
+    "unit": "Unit",
+    "period": "Tahunan",
+    "created_at": "2024-04-26 08:39:34",
+    "updated_at": "2026-02-18 15:05:49"
+  },
+  "total_data": 7,
+  "data": [
+    {
+      "name": "Roda 3",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2023,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 7
+        },
+        {
+          "year": 2024,
+          "value": 7
+        },
+        {
+          "year": 2025,
+          "value": 7
+        }
+      ]
+    },
+    {
+      "name": "Roda 4",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2023,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 5
+        },
+        {
+          "year": 2024,
+          "value": 7
+        },
+        {
+          "year": 2025,
+          "value": 6
+        }
+      ]
+    },
+    {
+      "name": "Roda 6",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2023,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 14
+        },
+        {
+          "year": 2024,
+          "value": 16
+        },
+        {
+          "year": 2025,
+          "value": 14
+        }
+      ]
+    },
+    {
+      "name": "Alat Berat",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2023,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 5
+        },
+        {
+          "year": 2024,
+          "value": 5
+        },
+        {
+          "year": 2025,
+          "value": 5
+        }
+      ]
+    },
+    {
+      "name": "Kondisi Baik",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2023,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 33
+        },
+        {
+          "year": 2024,
+          "value": 33
+        },
+        {
+          "year": 2025,
+          "value": 25
+        }
+      ]
+    },
+    {
+      "name": "Dalam Perbaikan",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2023,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 3
+        },
+        {
+          "year": 2024,
+          "value": 1
+        },
+        {
+          "year": 2025,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Rusak Ringan",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2023,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 2
+        },
+        {
+          "year": 2024,
+          "value": 0
+        },
+        {
+          "year": 2025,
+          "value": 0
+        }
+      ]
+    }
+  ]
+}

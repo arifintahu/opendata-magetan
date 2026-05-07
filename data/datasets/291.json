@@ -1,0 +1,126 @@
+{
+  "id": 291,
+  "title": "Neraca Pengelolaan Sampah",
+  "item_title": "Dinas Lingkungan Hidup dan Pangan",
+  "opd_id": 16,
+  "category": "environment",
+  "url": "https://dasatama.magetan.go.id/detail/291",
+  "scraped_at": "2026-05-07T13:18:37",
+  "metadata": {
+    "concept": "Nerasa Pengelolaan Sampah",
+    "classification": "",
+    "measure": "Jumlah",
+    "unit": "Ton",
+    "period": "Tahunan",
+    "created_at": "2024-04-25 17:01:06",
+    "updated_at": "2026-02-19 09:00:47"
+  },
+  "total_data": 3,
+  "data": [
+    {
+      "name": "Penanganan Sampah (ton)",
+      "type": "number",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 16103.44
+        },
+        {
+          "year": 2021,
+          "value": 13505.87
+        },
+        {
+          "year": 2022,
+          "value": 17979.17
+        },
+        {
+          "year": 2023,
+          "value": 19212.72
+        },
+        {
+          "year": 2024,
+          "value": 19657.29
+        },
+        {
+          "year": 2025,
+          "value": 77931.44
+        }
+      ]
+    },
+    {
+      "name": "Pengurangan Sampah (ton)",
+      "type": "number",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 20049.66
+        },
+        {
+          "year": 2021,
+          "value": 17602.76
+        },
+        {
+          "year": 2022,
+          "value": 39461.4
+        },
+        {
+          "year": 2023,
+          "value": 52634.08
+        },
+        {
+          "year": 2024,
+          "value": 55769.5
+        },
+        {
+          "year": 2025,
+          "value": 849.09
+        }
+      ]
+    },
+    {
+      "name": "Pengelolaan Sampah (ton)",
+      "type": "number",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 36153.1
+        },
+        {
+          "year": 2021,
+          "value": 31108.63
+        },
+        {
+          "year": 2022,
+          "value": 57440.57
+        },
+        {
+          "year": 2023,
+          "value": 71846.8
+        },
+        {
+          "year": 2024,
+          "value": 75426.79
+        },
+        {
+          "year": 2025,
+          "value": 78780.53
+        }
+      ]
+    }
+  ]
+}

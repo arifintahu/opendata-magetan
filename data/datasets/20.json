@@ -1,0 +1,210 @@
+{
+  "id": 20,
+  "title": "Hasil Produksi Palawija (Kw)",
+  "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan",
+  "opd_id": 27,
+  "category": "agriculture-food",
+  "url": "https://dasatama.magetan.go.id/detail/20",
+  "scraped_at": "2026-05-07T13:19:58",
+  "metadata": {
+    "concept": "Hasil Produksi",
+    "classification": "Jenis Palawija",
+    "measure": "Berat",
+    "unit": "Kwintal (Kw)",
+    "period": "Tahunan",
+    "created_at": "2023-08-14 10:12:45",
+    "updated_at": "2026-03-13 09:38:20"
+  },
+  "total_data": 7,
+  "data": [
+    {
+      "name": "Padi",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 3972781
+        },
+        {
+          "year": 2023,
+          "value": 4035718
+        },
+        {
+          "year": 2024,
+          "value": 3814135
+        },
+        {
+          "year": 2025,
+          "value": 3929198
+        }
+      ]
+    },
+    {
+      "name": "Jagung",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 1623133
+        },
+        {
+          "year": 2023,
+          "value": 1394950
+        },
+        {
+          "year": 2024,
+          "value": 1620372
+        },
+        {
+          "year": 2025,
+          "value": 1621179
+        }
+      ]
+    },
+    {
+      "name": "Kedelai",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 14710
+        },
+        {
+          "year": 2023,
+          "value": 9355
+        },
+        {
+          "year": 2024,
+          "value": 1792
+        },
+        {
+          "year": 2025,
+          "value": 3777
+        }
+      ]
+    },
+    {
+      "name": "Kacang Tanah",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 52683
+        },
+        {
+          "year": 2023,
+          "value": 53913
+        },
+        {
+          "year": 2024,
+          "value": 30139
+        },
+        {
+          "year": 2025,
+          "value": 17552
+        }
+      ]
+    },
+    {
+      "name": "Ubi Kayu",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 447319
+        },
+        {
+          "year": 2023,
+          "value": 605005
+        },
+        {
+          "year": 2024,
+          "value": 831578
+        },
+        {
+          "year": 2025,
+          "value": 766027
+        }
+      ]
+    },
+    {
+      "name": "Ubi Jalar",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 647870
+        },
+        {
+          "year": 2023,
+          "value": 555859
+        },
+        {
+          "year": 2024,
+          "value": 627704
+        },
+        {
+          "year": 2025,
+          "value": 602397
+        }
+      ]
+    },
+    {
+      "name": "Kacang Hijau",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 5094
+        },
+        {
+          "year": 2023,
+          "value": 3567
+        },
+        {
+          "year": 2024,
+          "value": 3319
+        },
+        {
+          "year": 2025,
+          "value": 8310
+        }
+      ]
+    }
+  ]
+}

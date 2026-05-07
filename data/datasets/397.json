@@ -1,0 +1,40 @@
+{
+  "id": 397,
+  "title": "Rerata Kemampuan Literasi SD berdasarkan Asesmen Nasional (SPM)",
+  "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga",
+  "opd_id": 6,
+  "category": "education",
+  "url": "https://dasatama.magetan.go.id/detail/397",
+  "scraped_at": "2026-05-07T13:17:12",
+  "metadata": {
+    "concept": "Literasi",
+    "classification": "",
+    "measure": "Rata-rata",
+    "unit": "",
+    "period": "Tahunan",
+    "created_at": "2025-04-15 10:34:32",
+    "updated_at": "2026-04-30 10:05:21"
+  },
+  "total_data": 1,
+  "data": [
+    {
+      "name": "Rerata Kemampuan Literasi SD berdasarkan Asesmen Nasional (SPM)",
+      "type": "number",
+      "years": {
+        "total": 2,
+        "min": 2024,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 87.04
+        },
+        {
+          "year": 2025,
+          "value": 8815.0
+        }
+      ]
+    }
+  ]
+}

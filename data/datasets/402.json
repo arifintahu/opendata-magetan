@@ -1,0 +1,81 @@
+{
+  "id": 402,
+  "title": "Lansia Terlantar Dalam Panti",
+  "item_title": "Dinas Sosial",
+  "opd_id": 9,
+  "category": "social-labor",
+  "url": "https://dasatama.magetan.go.id/detail/402",
+  "scraped_at": "2026-05-07T13:18:00",
+  "metadata": {
+    "concept": "Lansia Terlantar",
+    "classification": "Kondisi Lansia",
+    "measure": "Jumlah",
+    "unit": "Lansia",
+    "period": "Tahunan",
+    "created_at": "2025-05-08 10:37:46",
+    "updated_at": ""
+  },
+  "total_data": 4,
+  "data": [
+    {
+      "name": "Lansia di Dalam Panti",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 8
+        }
+      ]
+    },
+    {
+      "name": "Lansia di Luar Panti",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 35
+        }
+      ]
+    },
+    {
+      "name": "Lansia di Luar Panti yang Direhabilitasi",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 43
+        }
+      ]
+    },
+    {
+      "name": "Persentase Lansia di Luar Panti yang Direhabilitasi",
+      "type": "number",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 122.85
+        }
+      ]
+    }
+  ]
+}

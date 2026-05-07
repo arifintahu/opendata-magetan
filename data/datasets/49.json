@@ -1,0 +1,129 @@
+{
+  "id": 49,
+  "title": "Daftar Lembaga Pelatihan Kerja dan Instruktur",
+  "item_title": "Dinas Tenaga Kerja",
+  "opd_id": 12,
+  "category": "social-labor",
+  "url": "https://dasatama.magetan.go.id/detail/49",
+  "scraped_at": "2026-05-07T13:18:13",
+  "metadata": {
+    "concept": "Lembaga Pelatihan Kerja",
+    "classification": "Jenis Lembaga pelatihan",
+    "measure": "Jumlah",
+    "unit": "Lembaga; Instruktur",
+    "period": "Tahunan",
+    "created_at": "2023-08-15 08:43:03",
+    "updated_at": ""
+  },
+  "total_data": 4,
+  "data": [
+    {
+      "name": "Lembaga Pelatihan Kerja Terdaftar",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 40
+        },
+        {
+          "year": 2022,
+          "value": 40
+        },
+        {
+          "year": 2023,
+          "value": 34
+        },
+        {
+          "year": 2024,
+          "value": 37
+        }
+      ]
+    },
+    {
+      "name": "Lembaga Pelatihan Kerja Terakreditasi",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 7
+        },
+        {
+          "year": 2022,
+          "value": 7
+        },
+        {
+          "year": 2023,
+          "value": 8
+        },
+        {
+          "year": 2024,
+          "value": 6
+        }
+      ]
+    },
+    {
+      "name": "Instruktur",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 88
+        },
+        {
+          "year": 2022,
+          "value": 14
+        },
+        {
+          "year": 2023,
+          "value": 106
+        },
+        {
+          "year": 2024,
+          "value": 106
+        }
+      ]
+    },
+    {
+      "name": "Instruktur Bersertifikat Kompetensi",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 8
+        },
+        {
+          "year": 2023,
+          "value": 51
+        },
+        {
+          "year": 2024,
+          "value": 54
+        }
+      ]
+    }
+  ]
+}

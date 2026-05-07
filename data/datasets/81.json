@@ -1,0 +1,126 @@
+{
+  "id": 81,
+  "title": "Jumlah ASN Baru",
+  "item_title": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia",
+  "opd_id": 3,
+  "category": "governance",
+  "url": "https://dasatama.magetan.go.id/detail/81",
+  "scraped_at": "2026-05-07T13:16:27",
+  "metadata": {
+    "concept": "ASN",
+    "classification": "Jenis ASN",
+    "measure": "Jumlah",
+    "unit": "Orang",
+    "period": "Tahunan",
+    "created_at": "2023-10-17 08:34:38",
+    "updated_at": "2026-01-25 11:46:27"
+  },
+  "total_data": 3,
+  "data": [
+    {
+      "name": "CPNS",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 390
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        },
+        {
+          "year": 2025,
+          "value": 230
+        }
+      ]
+    },
+    {
+      "name": "P3K Guru",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 93
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 464
+        },
+        {
+          "year": 2024,
+          "value": 1128
+        },
+        {
+          "year": 2025,
+          "value": 309
+        }
+      ]
+    },
+    {
+      "name": "P3K Non Guru",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 66
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 272
+        },
+        {
+          "year": 2024,
+          "value": 299
+        },
+        {
+          "year": 2025,
+          "value": 984
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": 10,
+  "title": "Jumlah Desa/Kelurahan (Stop BABS)",
+  "item_title": "Dinas Kesehatan",
+  "opd_id": 7,
+  "category": "health",
+  "url": "https://dasatama.magetan.go.id/detail/10",
+  "scraped_at": "2026-05-07T13:17:18",
+  "metadata": {
+    "concept": "",
+    "classification": "",
+    "measure": "",
+    "unit": "desa / kelurahan",
+    "period": "Tahunan",
+    "created_at": "2023-06-22 09:09:21",
+    "updated_at": "2023-06-22 09:13:28"
+  },
+  "total_data": 2,
+  "data": [
+    {
+      "name": "Jumlah Desa/Kelurahan",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 235
+        },
+        {
+          "year": 2023,
+          "value": 235
+        },
+        {
+          "year": 2024,
+          "value": 235
+        }
+      ]
+    },
+    {
+      "name": "Desa/Kelurahan (Stop BABS)",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 235
+        },
+        {
+          "year": 2023,
+          "value": 235
+        },
+        {
+          "year": 2024,
+          "value": 235
+        }
+      ]
+    }
+  ]
+}

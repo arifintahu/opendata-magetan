@@ -1,0 +1,615 @@
+{
+  "id": 253,
+  "title": "Banyaknya Hari Hujan Menurut Lokasi Penangkar Hujan",
+  "item_title": "Dinas Pekerjaan Umum dan Penataan Ruang",
+  "opd_id": 20,
+  "category": "infrastructure",
+  "url": "https://dasatama.magetan.go.id/detail/253",
+  "scraped_at": "2026-05-07T13:19:08",
+  "metadata": {
+    "concept": "Hari Hujan",
+    "classification": "Wilayah (Lokasi Penakar Hujan)",
+    "measure": "Jumlah",
+    "unit": "Hari",
+    "period": "Tahunan",
+    "created_at": "2024-02-27 07:24:17",
+    "updated_at": "2026-01-20 08:56:12"
+  },
+  "total_data": 22,
+  "data": [
+    {
+      "name": "Kantor Barat",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 156
+        },
+        {
+          "year": 2023,
+          "value": 99
+        },
+        {
+          "year": 2024,
+          "value": 252
+        },
+        {
+          "year": 2025,
+          "value": 146
+        }
+      ]
+    },
+    {
+      "name": "DPUPR Magetan",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 103
+        },
+        {
+          "year": 2024,
+          "value": 192
+        },
+        {
+          "year": 2025,
+          "value": 176
+        }
+      ]
+    },
+    {
+      "name": "Karangmojo",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 143
+        },
+        {
+          "year": 2023,
+          "value": 97
+        },
+        {
+          "year": 2024,
+          "value": 132
+        },
+        {
+          "year": 2025,
+          "value": 138
+        }
+      ]
+    },
+    {
+      "name": "Lemi",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 127
+        },
+        {
+          "year": 2023,
+          "value": 75
+        },
+        {
+          "year": 2024,
+          "value": 215
+        },
+        {
+          "year": 2025,
+          "value": 146
+        }
+      ]
+    },
+    {
+      "name": "Purwodadi",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 168
+        },
+        {
+          "year": 2023,
+          "value": 96
+        },
+        {
+          "year": 2024,
+          "value": 227
+        },
+        {
+          "year": 2025,
+          "value": 164
+        }
+      ]
+    },
+    {
+      "name": "Jungke",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 178
+        },
+        {
+          "year": 2023,
+          "value": 97
+        },
+        {
+          "year": 2024,
+          "value": 158
+        },
+        {
+          "year": 2025,
+          "value": 161
+        }
+      ]
+    },
+    {
+      "name": "Taji",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 157
+        },
+        {
+          "year": 2023,
+          "value": 91
+        },
+        {
+          "year": 2024,
+          "value": 147
+        },
+        {
+          "year": 2025,
+          "value": 147
+        }
+      ]
+    },
+    {
+      "name": "Tinap",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 155
+        },
+        {
+          "year": 2023,
+          "value": 106
+        },
+        {
+          "year": 2024,
+          "value": 144
+        },
+        {
+          "year": 2025,
+          "value": 145
+        }
+      ]
+    },
+    {
+      "name": "Bendo",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 149
+        },
+        {
+          "year": 2023,
+          "value": 88
+        },
+        {
+          "year": 2024,
+          "value": 187
+        },
+        {
+          "year": 2025,
+          "value": 145
+        }
+      ]
+    },
+    {
+      "name": "Bogem",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 135
+        },
+        {
+          "year": 2023,
+          "value": 92
+        },
+        {
+          "year": 2024,
+          "value": 56
+        },
+        {
+          "year": 2025,
+          "value": 121
+        }
+      ]
+    },
+    {
+      "name": "Kawedanan",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 133
+        },
+        {
+          "year": 2023,
+          "value": 73
+        },
+        {
+          "year": 2024,
+          "value": 83
+        },
+        {
+          "year": 2025,
+          "value": 125
+        }
+      ]
+    },
+    {
+      "name": "Jati",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 145
+        },
+        {
+          "year": 2023,
+          "value": 84
+        },
+        {
+          "year": 2024,
+          "value": 29
+        },
+        {
+          "year": 2025,
+          "value": 127
+        }
+      ]
+    },
+    {
+      "name": "Giripurno",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 93
+        },
+        {
+          "year": 2024,
+          "value": 187
+        },
+        {
+          "year": 2025,
+          "value": 134
+        }
+      ]
+    },
+    {
+      "name": "Lembeyan",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 151
+        },
+        {
+          "year": 2023,
+          "value": 87
+        },
+        {
+          "year": 2024,
+          "value": 137
+        },
+        {
+          "year": 2025,
+          "value": 142
+        }
+      ]
+    },
+    {
+      "name": "Parang",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 108
+        },
+        {
+          "year": 2023,
+          "value": 55
+        },
+        {
+          "year": 2024,
+          "value": 132
+        },
+        {
+          "year": 2025,
+          "value": 115
+        }
+      ]
+    },
+    {
+      "name": "Poncol",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 118
+        },
+        {
+          "year": 2023,
+          "value": 82
+        },
+        {
+          "year": 2024,
+          "value": 159
+        },
+        {
+          "year": 2025,
+          "value": 169
+        }
+      ]
+    },
+    {
+      "name": "Sarangan",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 179
+        },
+        {
+          "year": 2023,
+          "value": 90
+        },
+        {
+          "year": 2024,
+          "value": 248
+        },
+        {
+          "year": 2025,
+          "value": 171
+        }
+      ]
+    },
+    {
+      "name": "Slagreng",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 184
+        },
+        {
+          "year": 2023,
+          "value": 110
+        },
+        {
+          "year": 2024,
+          "value": 132
+        },
+        {
+          "year": 2025,
+          "value": 179
+        }
+      ]
+    },
+    {
+      "name": "Jejeruk",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 155
+        },
+        {
+          "year": 2023,
+          "value": 106
+        },
+        {
+          "year": 2024,
+          "value": 156
+        },
+        {
+          "year": 2025,
+          "value": 153
+        }
+      ]
+    },
+    {
+      "name": "Gandong Kerik",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 146
+        },
+        {
+          "year": 2023,
+          "value": 98
+        },
+        {
+          "year": 2024,
+          "value": 156
+        },
+        {
+          "year": 2025,
+          "value": 119
+        }
+      ]
+    },
+    {
+      "name": "Nitikan",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 145
+        },
+        {
+          "year": 2023,
+          "value": 99
+        },
+        {
+          "year": 2024,
+          "value": 228
+        },
+        {
+          "year": 2025,
+          "value": 154
+        }
+      ]
+    },
+    {
+      "name": "Sbr Dodol",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 163
+        },
+        {
+          "year": 2023,
+          "value": 76
+        },
+        {
+          "year": 2024,
+          "value": 16
+        },
+        {
+          "year": 2025,
+          "value": 166
+        }
+      ]
+    }
+  ]
+}

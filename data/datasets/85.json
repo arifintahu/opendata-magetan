@@ -1,0 +1,196 @@
+{
+  "id": 85,
+  "title": "Desa/Kelurahan Tangguh Bencana (Jenis Ancaman)",
+  "item_title": "Pelaksana Badan Penanggulangan Bencana Daerah",
+  "opd_id": 4,
+  "category": "disaster-security",
+  "url": "https://dasatama.magetan.go.id/detail/85",
+  "scraped_at": "2026-05-07T13:16:32",
+  "metadata": {
+    "concept": "Destana",
+    "classification": "Jenis Ancaman Bencana",
+    "measure": "Jumlah",
+    "unit": "Desa/ Kelurahan",
+    "period": "Tahunan",
+    "created_at": "2023-10-17 09:01:13",
+    "updated_at": "2026-02-05 15:01:54"
+  },
+  "total_data": 5,
+  "data": [
+    {
+      "name": "Longsor",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 11
+        },
+        {
+          "year": 2021,
+          "value": 12
+        },
+        {
+          "year": 2022,
+          "value": 15
+        },
+        {
+          "year": 2023,
+          "value": 15
+        },
+        {
+          "year": 2024,
+          "value": 15
+        },
+        {
+          "year": 2025,
+          "value": 20
+        }
+      ]
+    },
+    {
+      "name": "Banjir",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 4
+        },
+        {
+          "year": 2021,
+          "value": 6
+        },
+        {
+          "year": 2022,
+          "value": 7
+        },
+        {
+          "year": 2023,
+          "value": 6
+        },
+        {
+          "year": 2024,
+          "value": 6
+        },
+        {
+          "year": 2025,
+          "value": 6
+        }
+      ]
+    },
+    {
+      "name": "Angin Kencang",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 5
+        },
+        {
+          "year": 2021,
+          "value": 5
+        },
+        {
+          "year": 2022,
+          "value": 5
+        },
+        {
+          "year": 2023,
+          "value": 5
+        },
+        {
+          "year": 2024,
+          "value": 5
+        },
+        {
+          "year": 2025,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "name": "Kekeringan",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 1
+        },
+        {
+          "year": 2021,
+          "value": 1
+        },
+        {
+          "year": 2022,
+          "value": 1
+        },
+        {
+          "year": 2023,
+          "value": 1
+        },
+        {
+          "year": 2024,
+          "value": 1
+        },
+        {
+          "year": 2025,
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Kebakaran Hutan dan Lahan",
+      "type": "integer",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        },
+        {
+          "year": 2025,
+          "value": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": 448,
+  "title": "Layanan Kesehatan Calon Pengantin (Catin)",
+  "item_title": "Dinas Kesehatan",
+  "opd_id": 7,
+  "category": "health",
+  "url": "https://dasatama.magetan.go.id/detail/448",
+  "scraped_at": "2026-05-07T13:17:35",
+  "metadata": {
+    "concept": "Pasangan Calon Pengantin",
+    "classification": "Jenis Pelayanan Kesehatan Catin",
+    "measure": "Jumlah",
+    "unit": "Orang",
+    "period": "Tahunan",
+    "created_at": "2025-09-24 15:29:26",
+    "updated_at": ""
+  },
+  "total_data": 5,
+  "data": [
+    {
+      "name": "Jumlah PasanganTerdaftar Di Kua Atau Lembaga Agama",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 3607
+        }
+      ]
+    },
+    {
+      "name": "Catin Mendapatkan Layanan Kesehatan (Laki-Laki)",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 2717
+        }
+      ]
+    },
+    {
+      "name": "Catin Mendapatkan Layanan Kesehatan (Perempuan)",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 3347
+        }
+      ]
+    },
+    {
+      "name": "Catin Perempuan Animea",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 316
+        }
+      ]
+    },
+    {
+      "name": "Catin Perempuan Gizi Kurang",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 380
+        }
+      ]
+    }
+  ]
+}

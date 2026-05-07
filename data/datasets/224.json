@@ -1,0 +1,183 @@
+{
+  "id": 224,
+  "title": "Hasil Produksi Sayur Buah Semusim (Kw)",
+  "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan",
+  "opd_id": 27,
+  "category": "agriculture-food",
+  "url": "https://dasatama.magetan.go.id/detail/224",
+  "scraped_at": "2026-05-07T13:20:02",
+  "metadata": {
+    "concept": "Tanaman Semusim",
+    "classification": "Jenis Tanaman Semusim",
+    "measure": "Berat",
+    "unit": "Kwintal (Kw)",
+    "period": "Tahunan",
+    "created_at": "2024-01-15 14:30:45",
+    "updated_at": "2026-03-13 10:36:26"
+  },
+  "total_data": 6,
+  "data": [
+    {
+      "name": "Bawang Daun",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 127484
+        },
+        {
+          "year": 2023,
+          "value": 112186
+        },
+        {
+          "year": 2024,
+          "value": 85755
+        },
+        {
+          "year": 2025,
+          "value": 79143
+        }
+      ]
+    },
+    {
+      "name": "Wortel",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 304475
+        },
+        {
+          "year": 2023,
+          "value": 268221
+        },
+        {
+          "year": 2024,
+          "value": 247184
+        },
+        {
+          "year": 2025,
+          "value": 211163
+        }
+      ]
+    },
+    {
+      "name": "Petsai/Sawi",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 91035
+        },
+        {
+          "year": 2023,
+          "value": 55685
+        },
+        {
+          "year": 2024,
+          "value": 65622
+        },
+        {
+          "year": 2025,
+          "value": 56841
+        }
+      ]
+    },
+    {
+      "name": "Bawang Merah",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 35618
+        },
+        {
+          "year": 2023,
+          "value": 19641
+        },
+        {
+          "year": 2024,
+          "value": 20315
+        },
+        {
+          "year": 2025,
+          "value": 28652
+        }
+      ]
+    },
+    {
+      "name": "Kubis",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 181532
+        },
+        {
+          "year": 2023,
+          "value": 118700
+        },
+        {
+          "year": 2024,
+          "value": 135926
+        },
+        {
+          "year": 2025,
+          "value": 129591
+        }
+      ]
+    },
+    {
+      "name": "Cabai Keriting",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 20664
+        },
+        {
+          "year": 2023,
+          "value": 29737
+        },
+        {
+          "year": 2024,
+          "value": 24606
+        },
+        {
+          "year": 2025,
+          "value": 45963
+        }
+      ]
+    }
+  ]
+}

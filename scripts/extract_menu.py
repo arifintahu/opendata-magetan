@@ -123,7 +123,7 @@ def parse_menu(sidebar) -> list[dict]:
                 sub_url = normalize_url(sub_href)
                 if sub_url and "/detail/" in sub_url:
                     m = re.search(r"/detail/(\d+)", sub_url)
-                    sub_id = m.group(1) if m else ""
+                    sub_id = int(m.group(1)) if m else None
                     sub_items.append({"id": sub_id, "title": sub_title, "url": sub_url})
 
         if sub_items:

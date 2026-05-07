@@ -1,0 +1,40 @@
+{
+  "id": 377,
+  "title": "Indeks Infrastruktur",
+  "item_title": "Badan Perencanaan Pembangaunan, Penelitian dan Pengembangan Daerah",
+  "opd_id": 34,
+  "category": "governance",
+  "url": "https://dasatama.magetan.go.id/detail/377",
+  "scraped_at": "2026-05-07T13:20:22",
+  "metadata": {
+    "concept": "Indeks Infrastruktur",
+    "classification": "Wilayah",
+    "measure": "Indeks",
+    "unit": "",
+    "period": "Tahunan",
+    "created_at": "2025-03-11 09:07:41",
+    "updated_at": ""
+  },
+  "total_data": 1,
+  "data": [
+    {
+      "name": "Indeks Infrastruktur",
+      "type": "number",
+      "years": {
+        "total": 2,
+        "min": 2023,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 88.36
+        },
+        {
+          "year": 2024,
+          "value": 88.51
+        }
+      ]
+    }
+  ]
+}

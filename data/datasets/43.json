@@ -1,0 +1,129 @@
+{
+  "id": 43,
+  "title": "Anak Terlantar",
+  "item_title": "Dinas Sosial",
+  "opd_id": 9,
+  "category": "social-labor",
+  "url": "https://dasatama.magetan.go.id/detail/43",
+  "scraped_at": "2026-05-07T13:17:49",
+  "metadata": {
+    "concept": "Anak Terlantar",
+    "classification": "Lokasi Keberadaan",
+    "measure": "Jumlah; Persentase",
+    "unit": "Anak; Persen",
+    "period": "Tahunan",
+    "created_at": "2023-08-14 13:22:13",
+    "updated_at": "2025-05-08 10:24:10"
+  },
+  "total_data": 4,
+  "data": [
+    {
+      "name": "Dalam Panti",
+      "type": "string",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": "1052"
+        },
+        {
+          "year": 2022,
+          "value": "1097"
+        },
+        {
+          "year": 2023,
+          "value": "-"
+        },
+        {
+          "year": 2024,
+          "value": "15"
+        }
+      ]
+    },
+    {
+      "name": "Luar Panti",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 127
+        },
+        {
+          "year": 2022,
+          "value": 298
+        },
+        {
+          "year": 2023,
+          "value": 68
+        },
+        {
+          "year": 2024,
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Luar Panti Dihabilitasi",
+      "type": "string",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": "-"
+        },
+        {
+          "year": 2022,
+          "value": "-"
+        },
+        {
+          "year": 2023,
+          "value": "-"
+        },
+        {
+          "year": 2024,
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "name": "Persentase Luar Panti Dihabilitasi",
+      "type": "string",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": "-"
+        },
+        {
+          "year": 2022,
+          "value": "-"
+        },
+        {
+          "year": 2023,
+          "value": "-"
+        },
+        {
+          "year": 2024,
+          "value": "100"
+        }
+      ]
+    }
+  ]
+}

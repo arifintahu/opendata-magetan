@@ -1,0 +1,141 @@
+{
+  "id": 456,
+  "title": "Kasus ODGJ",
+  "item_title": "Dinas Kesehatan",
+  "opd_id": 7,
+  "category": "health",
+  "url": "https://dasatama.magetan.go.id/detail/456",
+  "scraped_at": "2026-05-07T13:17:40",
+  "metadata": {
+    "concept": "",
+    "classification": "",
+    "measure": "",
+    "unit": "orang",
+    "period": "Tahunan",
+    "created_at": "2025-09-25 14:11:15",
+    "updated_at": "2025-09-25 14:12:07"
+  },
+  "total_data": 8,
+  "data": [
+    {
+      "name": "ODGJ Berat",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 1302
+        }
+      ]
+    },
+    {
+      "name": "Skizofrenia (0-14 th)",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Skizofrenia (15-59 th)",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 1336
+        }
+      ]
+    },
+    {
+      "name": "Skizofrenia (>= 60 th)",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 140
+        }
+      ]
+    },
+    {
+      "name": "Psikotik Akut (0-14 th)",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Psikotik Akut (15-59 th)",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 20
+        }
+      ]
+    },
+    {
+      "name": "Psikotik Akut (>= 60 th)",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Mendapat Pelayanan Kesehatan",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 1496
+        }
+      ]
+    }
+  ]
+}

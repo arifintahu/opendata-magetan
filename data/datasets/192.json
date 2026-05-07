@@ -1,0 +1,136 @@
+{
+  "id": 192,
+  "title": "Lembaga Kemasyarakatan",
+  "item_title": "Dinas Pemberdayaan Masyarakat dan Desa",
+  "opd_id": 17,
+  "category": "governance",
+  "url": "https://dasatama.magetan.go.id/detail/192",
+  "scraped_at": "2026-05-07T13:18:49",
+  "metadata": {
+    "concept": "Masyarakat",
+    "classification": "Jenis Lembaga Kemasyarakatan",
+    "measure": "Jumlah",
+    "unit": "Lembaga",
+    "period": "Tahunan",
+    "created_at": "2023-12-29 08:39:09",
+    "updated_at": ""
+  },
+  "total_data": 5,
+  "data": [
+    {
+      "name": "RT",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 4094
+        },
+        {
+          "year": 2023,
+          "value": 4094
+        },
+        {
+          "year": 2024,
+          "value": 4094
+        }
+      ]
+    },
+    {
+      "name": "RW",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 892
+        },
+        {
+          "year": 2023,
+          "value": 892
+        },
+        {
+          "year": 2024,
+          "value": 892
+        }
+      ]
+    },
+    {
+      "name": "PKK",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 207
+        },
+        {
+          "year": 2023,
+          "value": 207
+        },
+        {
+          "year": 2024,
+          "value": 207
+        }
+      ]
+    },
+    {
+      "name": "LPM",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 207
+        },
+        {
+          "year": 2023,
+          "value": 207
+        },
+        {
+          "year": 2024,
+          "value": 207
+        }
+      ]
+    },
+    {
+      "name": "Lembaga Adat",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 5
+        },
+        {
+          "year": 2024,
+          "value": 5
+        }
+      ]
+    }
+  ]
+}

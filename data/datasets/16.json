@@ -1,0 +1,138 @@
+{
+  "id": 16,
+  "title": "Koleksi Buku Perpustakaan",
+  "item_title": "Dinas Kearsip dan Perpustakaan",
+  "opd_id": 1,
+  "category": "education",
+  "url": "https://dasatama.magetan.go.id/detail/16",
+  "scraped_at": "2026-05-07T13:16:17",
+  "metadata": {
+    "concept": "Buku",
+    "classification": "Jenis Buku",
+    "measure": "Jumlah",
+    "unit": "Judul; Eksemplar",
+    "period": "Tahunan",
+    "created_at": "2023-08-14 09:54:30",
+    "updated_at": "2026-02-24 13:54:18"
+  },
+  "total_data": 3,
+  "data": [
+    {
+      "name": "Judul Text-Book",
+      "type": "integer",
+      "years": {
+        "total": 7,
+        "min": 2019,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2019,
+          "value": 298
+        },
+        {
+          "year": 2020,
+          "value": 1064
+        },
+        {
+          "year": 2021,
+          "value": 1392
+        },
+        {
+          "year": 2022,
+          "value": 702
+        },
+        {
+          "year": 2023,
+          "value": 1876
+        },
+        {
+          "year": 2024,
+          "value": 1374
+        },
+        {
+          "year": 2025,
+          "value": 1143
+        }
+      ]
+    },
+    {
+      "name": "Judul E-Book",
+      "type": "integer",
+      "years": {
+        "total": 7,
+        "min": 2019,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2019,
+          "value": 337
+        },
+        {
+          "year": 2020,
+          "value": 114
+        },
+        {
+          "year": 2021,
+          "value": 458
+        },
+        {
+          "year": 2022,
+          "value": 294
+        },
+        {
+          "year": 2023,
+          "value": 543
+        },
+        {
+          "year": 2024,
+          "value": 699
+        },
+        {
+          "year": 2025,
+          "value": 405
+        }
+      ]
+    },
+    {
+      "name": "Jumlah Text-Book (Eks)",
+      "type": "integer",
+      "years": {
+        "total": 7,
+        "min": 2019,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2019,
+          "value": 413
+        },
+        {
+          "year": 2020,
+          "value": 3688
+        },
+        {
+          "year": 2021,
+          "value": 2337
+        },
+        {
+          "year": 2022,
+          "value": 1447
+        },
+        {
+          "year": 2023,
+          "value": 4100
+        },
+        {
+          "year": 2024,
+          "value": 3810
+        },
+        {
+          "year": 2025,
+          "value": 2639
+        }
+      ]
+    }
+  ]
+}

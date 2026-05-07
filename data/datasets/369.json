@@ -1,0 +1,56 @@
+{
+  "id": 369,
+  "title": "Luas Wilayah Perkotaan",
+  "item_title": "Dinas Pekerjaan Umum dan Penataan Ruang",
+  "opd_id": 20,
+  "category": "infrastructure",
+  "url": "https://dasatama.magetan.go.id/detail/369",
+  "scraped_at": "2026-05-07T13:19:14",
+  "metadata": {
+    "concept": "Daerah Perkotaan",
+    "classification": "",
+    "measure": "Luas",
+    "unit": "Ha",
+    "period": "Tahunan",
+    "created_at": "2025-03-03 07:42:25",
+    "updated_at": "2026-02-24 07:41:20"
+  },
+  "total_data": 1,
+  "data": [
+    {
+      "name": "Luas Wilayah Perkotaan (Ha)",
+      "type": "number",
+      "years": {
+        "total": 6,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0.0
+        },
+        {
+          "year": 2021,
+          "value": 0.0
+        },
+        {
+          "year": 2022,
+          "value": 0.0
+        },
+        {
+          "year": 2023,
+          "value": 0.0
+        },
+        {
+          "year": 2024,
+          "value": 15653.047
+        },
+        {
+          "year": 2025,
+          "value": 15653.047
+        }
+      ]
+    }
+  ]
+}

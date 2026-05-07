@@ -6,42 +6,42 @@
       "total_sub_items": 8,
       "sub_items": [
         {
-          "id": "16",
+          "id": 16,
           "title": "Koleksi Buku Perpustakaan",
           "url": "https://dasatama.magetan.go.id/detail/16"
         },
         {
-          "id": "17",
+          "id": 17,
           "title": "Jumlah Anggota Perpustakaan",
           "url": "https://dasatama.magetan.go.id/detail/17"
         },
         {
-          "id": "18",
+          "id": 18,
           "title": "Jumlah Pengunjung Perpustakaan",
           "url": "https://dasatama.magetan.go.id/detail/18"
         },
         {
-          "id": "77",
+          "id": 77,
           "title": "Jumlah Arsip",
           "url": "https://dasatama.magetan.go.id/detail/77"
         },
         {
-          "id": "348",
+          "id": 348,
           "title": "Indeks Literasi",
           "url": "https://dasatama.magetan.go.id/detail/348"
         },
         {
-          "id": "363",
+          "id": 363,
           "title": "Persentase Perangkat Daerah Yang Mengelola Arsip Elektronik",
           "url": "https://dasatama.magetan.go.id/detail/363"
         },
         {
-          "id": "457",
+          "id": 457,
           "title": "Indeks Minat Baca",
           "url": "https://dasatama.magetan.go.id/detail/457"
         },
         {
-          "id": "458",
+          "id": 458,
           "title": "Persentase Perangkat Daerah Yang Menerapkan Tata Kelola Kearsipan Yang Baik",
           "url": "https://dasatama.magetan.go.id/detail/458"
         }
@@ -52,22 +52,22 @@
       "total_sub_items": 4,
       "sub_items": [
         {
-          "id": "21",
+          "id": 21,
           "title": "Rekapitulasi Ijin KKN/ Survei / Penelitian",
           "url": "https://dasatama.magetan.go.id/detail/21"
         },
         {
-          "id": "22",
+          "id": 22,
           "title": "Rekapitulasi Ormas Binaan Berdasarkan Bentuk Organisasi",
           "url": "https://dasatama.magetan.go.id/detail/22"
         },
         {
-          "id": "76",
+          "id": 76,
           "title": "Rekapitulasi Ormas  Berdasarkan Jenis Kegiatan / Bidangnya",
           "url": "https://dasatama.magetan.go.id/detail/76"
         },
         {
-          "id": "78",
+          "id": 78,
           "title": "Rekapitulasi Ormas Berdasarkan Kecamatan",
           "url": "https://dasatama.magetan.go.id/detail/78"
         }
@@ -78,57 +78,57 @@
       "total_sub_items": 11,
       "sub_items": [
         {
-          "id": "26",
+          "id": 26,
           "title": "Jumlah Pegawai berdasarkan Golongan",
           "url": "https://dasatama.magetan.go.id/detail/26"
         },
         {
-          "id": "29",
+          "id": 29,
           "title": "Jumlah Pegawai berdasarkan Eselon",
           "url": "https://dasatama.magetan.go.id/detail/29"
         },
         {
-          "id": "30",
+          "id": 30,
           "title": "Jumlah Peserta DIKLATPIM",
           "url": "https://dasatama.magetan.go.id/detail/30"
         },
         {
-          "id": "79",
+          "id": 79,
           "title": "Jumlah Pegawai berdasarkan Jabatan",
           "url": "https://dasatama.magetan.go.id/detail/79"
         },
         {
-          "id": "80",
+          "id": 80,
           "title": "Jumlah Pegawai berdasarkan Pendidikan",
           "url": "https://dasatama.magetan.go.id/detail/80"
         },
         {
-          "id": "81",
+          "id": 81,
           "title": "Jumlah ASN Baru",
           "url": "https://dasatama.magetan.go.id/detail/81"
         },
         {
-          "id": "82",
+          "id": 82,
           "title": "Jumlah ASN Pensiun",
           "url": "https://dasatama.magetan.go.id/detail/82"
         },
         {
-          "id": "83",
+          "id": 83,
           "title": "Jumlah PNS Mutasi",
           "url": "https://dasatama.magetan.go.id/detail/83"
         },
         {
-          "id": "84",
+          "id": 84,
           "title": "Jumlah ASN Berdasar Jenis Kelamin",
           "url": "https://dasatama.magetan.go.id/detail/84"
         },
         {
-          "id": "391",
+          "id": 391,
           "title": "Indeks Profesionalitas ASN",
           "url": "https://dasatama.magetan.go.id/detail/391"
         },
         {
-          "id": "392",
+          "id": 392,
           "title": "Indeks Sistem Merit",
           "url": "https://dasatama.magetan.go.id/detail/392"
         }
@@ -139,72 +139,72 @@
       "total_sub_items": 14,
       "sub_items": [
         {
-          "id": "33",
+          "id": 33,
           "title": "Desa/Kelurahan Tangguh Bencana (Tingkatan)",
           "url": "https://dasatama.magetan.go.id/detail/33"
         },
         {
-          "id": "85",
+          "id": 85,
           "title": "Desa/Kelurahan Tangguh Bencana (Jenis Ancaman)",
           "url": "https://dasatama.magetan.go.id/detail/85"
         },
         {
-          "id": "86",
+          "id": 86,
           "title": "Satuan Pendidikan Aman Bencana (Jenis Ancaman)",
           "url": "https://dasatama.magetan.go.id/detail/86"
         },
         {
-          "id": "87",
+          "id": 87,
           "title": "Desa/Kelurahan Rawan Bencana (Tingkat Ancaman)",
           "url": "https://dasatama.magetan.go.id/detail/87"
         },
         {
-          "id": "88",
+          "id": 88,
           "title": "Desa/Kelurahan Rawan Bencana (Jenis Ancaman)",
           "url": "https://dasatama.magetan.go.id/detail/88"
         },
         {
-          "id": "89",
+          "id": 89,
           "title": "Potensi Relawan",
           "url": "https://dasatama.magetan.go.id/detail/89"
         },
         {
-          "id": "90",
+          "id": 90,
           "title": "Jumlah Kejadian/Bencana",
           "url": "https://dasatama.magetan.go.id/detail/90"
         },
         {
-          "id": "327",
+          "id": 327,
           "title": "Rumah Terkena Bencana Alam (Kec)",
           "url": "https://dasatama.magetan.go.id/detail/327"
         },
         {
-          "id": "421",
+          "id": 421,
           "title": "Layanan Informasi Rawan Bencana (SPM)",
           "url": "https://dasatama.magetan.go.id/detail/421"
         },
         {
-          "id": "422",
+          "id": 422,
           "title": "Layanan Pencegahan dan Kesiapsiagaan Bencana (SPM)",
           "url": "https://dasatama.magetan.go.id/detail/422"
         },
         {
-          "id": "423",
+          "id": 423,
           "title": "Layanan Penyelamatan dan Evakuasi Korban Bencana (SPM)",
           "url": "https://dasatama.magetan.go.id/detail/423"
         },
         {
-          "id": "424",
+          "id": 424,
           "title": "Indeks Risiko Bencana",
           "url": "https://dasatama.magetan.go.id/detail/424"
         },
         {
-          "id": "426",
+          "id": 426,
           "title": "Penanganan Dampak Kekeringan",
           "url": "https://dasatama.magetan.go.id/detail/426"
         },
         {
-          "id": "427",
+          "id": 427,
           "title": "Indeks Ketahanan Daerah",
           "url": "https://dasatama.magetan.go.id/detail/427"
         }
@@ -215,27 +215,27 @@
       "total_sub_items": 5,
       "sub_items": [
         {
-          "id": "52",
+          "id": 52,
           "title": "Realisasi Pendapatan Daerah",
           "url": "https://dasatama.magetan.go.id/detail/52"
         },
         {
-          "id": "55",
+          "id": 55,
           "title": "Realisasi Belanja Daerah",
           "url": "https://dasatama.magetan.go.id/detail/55"
         },
         {
-          "id": "234",
+          "id": 234,
           "title": "Realisasi Pembiayaan",
           "url": "https://dasatama.magetan.go.id/detail/234"
         },
         {
-          "id": "235",
+          "id": 235,
           "title": "Realisasi PBB Daerah",
           "url": "https://dasatama.magetan.go.id/detail/235"
         },
         {
-          "id": "276",
+          "id": 276,
           "title": "Rekap Laporan Realisasi Anggaran (LRA)",
           "url": "https://dasatama.magetan.go.id/detail/276"
         }
@@ -246,312 +246,312 @@
       "total_sub_items": 62,
       "sub_items": [
         {
-          "id": "5",
+          "id": 5,
           "title": "Guru TK (Pendidikan Terakhir)",
           "url": "https://dasatama.magetan.go.id/detail/5"
         },
         {
-          "id": "6",
+          "id": 6,
           "title": "Guru SD (Pendidikan Terakhir)",
           "url": "https://dasatama.magetan.go.id/detail/6"
         },
         {
-          "id": "7",
+          "id": 7,
           "title": "Guru SMP (Pendidikan Terakhir)",
           "url": "https://dasatama.magetan.go.id/detail/7"
         },
         {
-          "id": "8",
+          "id": 8,
           "title": "Guru Pendidikan Kesetaraan (Pendidikan Terakhir)",
           "url": "https://dasatama.magetan.go.id/detail/8"
         },
         {
-          "id": "92",
+          "id": 92,
           "title": "Data Satuan TK (Negeri/Swasta)",
           "url": "https://dasatama.magetan.go.id/detail/92"
         },
         {
-          "id": "93",
+          "id": 93,
           "title": "Jumlah Siswa TK (L/P)",
           "url": "https://dasatama.magetan.go.id/detail/93"
         },
         {
-          "id": "94",
+          "id": 94,
           "title": "Status Akreditasi TK",
           "url": "https://dasatama.magetan.go.id/detail/94"
         },
         {
-          "id": "95",
+          "id": 95,
           "title": "Sarana dan Prasarana SD",
           "url": "https://dasatama.magetan.go.id/detail/95"
         },
         {
-          "id": "96",
+          "id": 96,
           "title": "Sarana dan Prasarana SMP",
           "url": "https://dasatama.magetan.go.id/detail/96"
         },
         {
-          "id": "97",
+          "id": 97,
           "title": "Status Akreditasi Pendidikan Kesetaraan",
           "url": "https://dasatama.magetan.go.id/detail/97"
         },
         {
-          "id": "99",
+          "id": 99,
           "title": "Jumlah Siswa SD (L/P)",
           "url": "https://dasatama.magetan.go.id/detail/99"
         },
         {
-          "id": "100",
+          "id": 100,
           "title": "Jumlah Siswa SMP (L/P)",
           "url": "https://dasatama.magetan.go.id/detail/100"
         },
         {
-          "id": "101",
+          "id": 101,
           "title": "Jumlah Siswa Pendidikan Kesetaraan (L/P)",
           "url": "https://dasatama.magetan.go.id/detail/101"
         },
         {
-          "id": "302",
+          "id": 302,
           "title": "Data Satuan SD (Negeri/Swasta)",
           "url": "https://dasatama.magetan.go.id/detail/302"
         },
         {
-          "id": "303",
+          "id": 303,
           "title": "Data Satuan SMP (Negeri/Swasta)",
           "url": "https://dasatama.magetan.go.id/detail/303"
         },
         {
-          "id": "304",
+          "id": 304,
           "title": "Status Akreditasi SD",
           "url": "https://dasatama.magetan.go.id/detail/304"
         },
         {
-          "id": "305",
+          "id": 305,
           "title": "Status Akreditasi SMP",
           "url": "https://dasatama.magetan.go.id/detail/305"
         },
         {
-          "id": "306",
+          "id": 306,
           "title": "Jumlah Guru TK berdasarkan Kecamatan",
           "url": "https://dasatama.magetan.go.id/detail/306"
         },
         {
-          "id": "307",
+          "id": 307,
           "title": "Jumlah Guru SD Berdasarkan Kecamatan",
           "url": "https://dasatama.magetan.go.id/detail/307"
         },
         {
-          "id": "308",
+          "id": 308,
           "title": "Jumlah Guru SMP Berdasarkan Kecamatan",
           "url": "https://dasatama.magetan.go.id/detail/308"
         },
         {
-          "id": "309",
+          "id": 309,
           "title": "Jumlah Guru Pendidikan Kesetaraan Berdasarkan Kecamatan",
           "url": "https://dasatama.magetan.go.id/detail/309"
         },
         {
-          "id": "310",
+          "id": 310,
           "title": "Jumlah Siswa TK berdasarkan Kecamatan",
           "url": "https://dasatama.magetan.go.id/detail/310"
         },
         {
-          "id": "311",
+          "id": 311,
           "title": "Jumlah Siswa SD Berdasarkan Kecamatan",
           "url": "https://dasatama.magetan.go.id/detail/311"
         },
         {
-          "id": "312",
+          "id": 312,
           "title": "Jumlah Siswa SMP Berdasarkan Kecamatan",
           "url": "https://dasatama.magetan.go.id/detail/312"
         },
         {
-          "id": "313",
+          "id": 313,
           "title": "Jumlah Siswa Pendidikan Kesetaraan Berdasarkan Kecamatan",
           "url": "https://dasatama.magetan.go.id/detail/313"
         },
         {
-          "id": "315",
+          "id": 315,
           "title": "Jumlah Sekolah TK  berdasarkan Kecamatan",
           "url": "https://dasatama.magetan.go.id/detail/315"
         },
         {
-          "id": "316",
+          "id": 316,
           "title": "Jumlah SD berdasarkan Kecamatan",
           "url": "https://dasatama.magetan.go.id/detail/316"
         },
         {
-          "id": "317",
+          "id": 317,
           "title": "Jumlah SMP berdasarkan Kecamatan",
           "url": "https://dasatama.magetan.go.id/detail/317"
         },
         {
-          "id": "319",
+          "id": 319,
           "title": "Jumlah Pendidikan Kesetaraan berdasarkan Kecamatan",
           "url": "https://dasatama.magetan.go.id/detail/319"
         },
         {
-          "id": "320",
+          "id": 320,
           "title": "Jumlah Siswa PKBM berdasarkan Kecamatan",
           "url": "https://dasatama.magetan.go.id/detail/320"
         },
         {
-          "id": "328",
+          "id": 328,
           "title": "Jumlah Siswa TK (Status SIswa)",
           "url": "https://dasatama.magetan.go.id/detail/328"
         },
         {
-          "id": "329",
+          "id": 329,
           "title": "Jumlah Siswa SD (Status SIswa)",
           "url": "https://dasatama.magetan.go.id/detail/329"
         },
         {
-          "id": "330",
+          "id": 330,
           "title": "Jumlah Siswa SMP (Status SIswa)",
           "url": "https://dasatama.magetan.go.id/detail/330"
         },
         {
-          "id": "331",
+          "id": 331,
           "title": "Jumlah Siswa Pendidikan Kesetaraan (Status SIswa)",
           "url": "https://dasatama.magetan.go.id/detail/331"
         },
         {
-          "id": "332",
+          "id": 332,
           "title": "Guru TK (L/P)",
           "url": "https://dasatama.magetan.go.id/detail/332"
         },
         {
-          "id": "333",
+          "id": 333,
           "title": "Guru SD (L/P)",
           "url": "https://dasatama.magetan.go.id/detail/333"
         },
         {
-          "id": "334",
+          "id": 334,
           "title": "Guru SMP (L/P)",
           "url": "https://dasatama.magetan.go.id/detail/334"
         },
         {
-          "id": "335",
+          "id": 335,
           "title": "Guru Pendidikan Kesetaraan (L/P)",
           "url": "https://dasatama.magetan.go.id/detail/335"
         },
         {
-          "id": "336",
+          "id": 336,
           "title": "Satuan Pendidikan Kesetaraan (Negeri/Swasta)",
           "url": "https://dasatama.magetan.go.id/detail/336"
         },
         {
-          "id": "337",
+          "id": 337,
           "title": "Jumlah Siswa SD (Agama)",
           "url": "https://dasatama.magetan.go.id/detail/337"
         },
         {
-          "id": "338",
+          "id": 338,
           "title": "Jumlah Siswa PAUD (Agama)",
           "url": "https://dasatama.magetan.go.id/detail/338"
         },
         {
-          "id": "339",
+          "id": 339,
           "title": "Jumlah Siswa SMP (Agama)",
           "url": "https://dasatama.magetan.go.id/detail/339"
         },
         {
-          "id": "340",
+          "id": 340,
           "title": "Jumlah Siswa Pendidikan Kesetaraan (Agama)",
           "url": "https://dasatama.magetan.go.id/detail/340"
         },
         {
-          "id": "353",
+          "id": 353,
           "title": "Angka Melek Huruf",
           "url": "https://dasatama.magetan.go.id/detail/353"
         },
         {
-          "id": "354",
+          "id": 354,
           "title": "Angka Partisipasi Kasar",
           "url": "https://dasatama.magetan.go.id/detail/354"
         },
         {
-          "id": "355",
+          "id": 355,
           "title": "Angka Partisipasi Murni",
           "url": "https://dasatama.magetan.go.id/detail/355"
         },
         {
-          "id": "356",
+          "id": 356,
           "title": "Angka Rata Rata Lama Sekolah",
           "url": "https://dasatama.magetan.go.id/detail/356"
         },
         {
-          "id": "357",
+          "id": 357,
           "title": "Jumlah gedung olahraga per 10.000 penduduk",
           "url": "https://dasatama.magetan.go.id/detail/357"
         },
         {
-          "id": "358",
+          "id": 358,
           "title": "Jumlah klub olahraga per 10.000 penduduk",
           "url": "https://dasatama.magetan.go.id/detail/358"
         },
         {
-          "id": "359",
+          "id": 359,
           "title": "Jumlah Atlet Berprestasi",
           "url": "https://dasatama.magetan.go.id/detail/359"
         },
         {
-          "id": "360",
+          "id": 360,
           "title": "Persentase Organisasi Pemuda yang Aktif",
           "url": "https://dasatama.magetan.go.id/detail/360"
         },
         {
-          "id": "361",
+          "id": 361,
           "title": "Indeks Pendidikan",
           "url": "https://dasatama.magetan.go.id/detail/361"
         },
         {
-          "id": "397",
+          "id": 397,
           "title": "Rerata Kemampuan Literasi SD berdasarkan Asesmen Nasional (SPM)",
           "url": "https://dasatama.magetan.go.id/detail/397"
         },
         {
-          "id": "398",
+          "id": 398,
           "title": "Rerata Kemampuan Numerasi SD berdasarkan Asesmen Nasional (SPM)",
           "url": "https://dasatama.magetan.go.id/detail/398"
         },
         {
-          "id": "399",
+          "id": 399,
           "title": "Rerata kompetensi Literasi SMP berdasarkan Asesmen Nasional",
           "url": "https://dasatama.magetan.go.id/detail/399"
         },
         {
-          "id": "400",
+          "id": 400,
           "title": "Rerata kompetensi Numerasi SMP berdasarkan Asesmen Nasional",
           "url": "https://dasatama.magetan.go.id/detail/400"
         },
         {
-          "id": "435",
+          "id": 435,
           "title": "Indeks Iklim Keamanan SD (SPM)",
           "url": "https://dasatama.magetan.go.id/detail/435"
         },
         {
-          "id": "436",
+          "id": 436,
           "title": "Indeks Iklim Kebinekaan SD (SPM)",
           "url": "https://dasatama.magetan.go.id/detail/436"
         },
         {
-          "id": "437",
+          "id": 437,
           "title": "Indeks Inklusivitas SD (SPM)",
           "url": "https://dasatama.magetan.go.id/detail/437"
         },
         {
-          "id": "438",
+          "id": 438,
           "title": "Indeks Iklim Keamanan SMP (SPM)",
           "url": "https://dasatama.magetan.go.id/detail/438"
         },
         {
-          "id": "439",
+          "id": 439,
           "title": "Indeks Iklim Kebinekaan SMP (SPM)",
           "url": "https://dasatama.magetan.go.id/detail/439"
         },
         {
-          "id": "440",
+          "id": 440,
           "title": "Indeks Inklusivitas SMP (SPM)",
           "url": "https://dasatama.magetan.go.id/detail/440"
         }
@@ -562,207 +562,207 @@
       "total_sub_items": 41,
       "sub_items": [
         {
-          "id": "9",
+          "id": 9,
           "title": "Jumlah Bayi Lahir BBLR",
           "url": "https://dasatama.magetan.go.id/detail/9"
         },
         {
-          "id": "10",
+          "id": 10,
           "title": "Jumlah Desa/Kelurahan (Stop BABS)",
           "url": "https://dasatama.magetan.go.id/detail/10"
         },
         {
-          "id": "105",
+          "id": 105,
           "title": "Kunjungan Pasien di Puskesmas",
           "url": "https://dasatama.magetan.go.id/detail/105"
         },
         {
-          "id": "106",
+          "id": 106,
           "title": "Kelengkapan Sarana, Prasarana, dan Alkes di Puskesmas (%)",
           "url": "https://dasatama.magetan.go.id/detail/106"
         },
         {
-          "id": "107",
+          "id": 107,
           "title": "Rumah Sakit",
           "url": "https://dasatama.magetan.go.id/detail/107"
         },
         {
-          "id": "108",
+          "id": 108,
           "title": "Fasilitas Kesehatan",
           "url": "https://dasatama.magetan.go.id/detail/108"
         },
         {
-          "id": "109",
+          "id": 109,
           "title": "Imunisasi Bayi (%)",
           "url": "https://dasatama.magetan.go.id/detail/109"
         },
         {
-          "id": "110",
+          "id": 110,
           "title": "Imunisasi Anak SD (%)",
           "url": "https://dasatama.magetan.go.id/detail/110"
         },
         {
-          "id": "111",
+          "id": 111,
           "title": "Imunisasi Komulatif TT WUS dan Bumil (%)",
           "url": "https://dasatama.magetan.go.id/detail/111"
         },
         {
-          "id": "112",
+          "id": 112,
           "title": "Surveylans Kasus PD3I",
           "url": "https://dasatama.magetan.go.id/detail/112"
         },
         {
-          "id": "113",
+          "id": 113,
           "title": "Data Kasus Medis",
           "url": "https://dasatama.magetan.go.id/detail/113"
         },
         {
-          "id": "114",
+          "id": 114,
           "title": "Pemberian ASI pada Bayi (%)",
           "url": "https://dasatama.magetan.go.id/detail/114"
         },
         {
-          "id": "115",
+          "id": 115,
           "title": "Pemberian Vit A pada Bayi (%)",
           "url": "https://dasatama.magetan.go.id/detail/115"
         },
         {
-          "id": "116",
+          "id": 116,
           "title": "Peserta KB Aktif",
           "url": "https://dasatama.magetan.go.id/detail/116"
         },
         {
-          "id": "117",
+          "id": 117,
           "title": "Pelayanan Kesehatan Ibu Hamil (%)",
           "url": "https://dasatama.magetan.go.id/detail/117"
         },
         {
-          "id": "118",
+          "id": 118,
           "title": "Pelayanan Kesehatan Ibu Bersalin (%)",
           "url": "https://dasatama.magetan.go.id/detail/118"
         },
         {
-          "id": "119",
+          "id": 119,
           "title": "Rumah Tangga ber-PHBS (%)",
           "url": "https://dasatama.magetan.go.id/detail/119"
         },
         {
-          "id": "120",
+          "id": 120,
           "title": "Jumlah Keluarga Sehat",
           "url": "https://dasatama.magetan.go.id/detail/120"
         },
         {
-          "id": "121",
+          "id": 121,
           "title": "KK Dengan Akses Jamban Sehat",
           "url": "https://dasatama.magetan.go.id/detail/121"
         },
         {
-          "id": "122",
+          "id": 122,
           "title": "Ketersediaan Air Minum",
           "url": "https://dasatama.magetan.go.id/detail/122"
         },
         {
-          "id": "123",
+          "id": 123,
           "title": "Tempat Pengelolaan Pangan (TPP) (%)",
           "url": "https://dasatama.magetan.go.id/detail/123"
         },
         {
-          "id": "124",
+          "id": 124,
           "title": "TFU dengan Pengawasan IKL (%)",
           "url": "https://dasatama.magetan.go.id/detail/124"
         },
         {
-          "id": "125",
+          "id": 125,
           "title": "Tenaga Medis - Dokter",
           "url": "https://dasatama.magetan.go.id/detail/125"
         },
         {
-          "id": "126",
+          "id": 126,
           "title": "Tenaga Kesehatan",
           "url": "https://dasatama.magetan.go.id/detail/126"
         },
         {
-          "id": "127",
+          "id": 127,
           "title": "Tenaga Teknik Medik",
           "url": "https://dasatama.magetan.go.id/detail/127"
         },
         {
-          "id": "128",
+          "id": 128,
           "title": "Tenaga Medis - Manajemen",
           "url": "https://dasatama.magetan.go.id/detail/128"
         },
         {
-          "id": "442",
+          "id": 442,
           "title": "Angka Kematian Bayi dan Balita (SDGs)",
           "url": "https://dasatama.magetan.go.id/detail/442"
         },
         {
-          "id": "443",
+          "id": 443,
           "title": "Desa/Kelurahan UCI dan Siaga",
           "url": "https://dasatama.magetan.go.id/detail/443"
         },
         {
-          "id": "444",
+          "id": 444,
           "title": "Angka Kematian Ibu",
           "url": "https://dasatama.magetan.go.id/detail/444"
         },
         {
-          "id": "445",
+          "id": 445,
           "title": "Status Gizi Balita",
           "url": "https://dasatama.magetan.go.id/detail/445"
         },
         {
-          "id": "446",
+          "id": 446,
           "title": "% Status Gizi",
           "url": "https://dasatama.magetan.go.id/detail/446"
         },
         {
-          "id": "447",
+          "id": 447,
           "title": "Pelayanan Kesehatan Balita",
           "url": "https://dasatama.magetan.go.id/detail/447"
         },
         {
-          "id": "448",
+          "id": 448,
           "title": "Layanan Kesehatan Calon Pengantin (Catin)",
           "url": "https://dasatama.magetan.go.id/detail/448"
         },
         {
-          "id": "449",
+          "id": 449,
           "title": "Pelayanan Kesehatan Usia Lanjut",
           "url": "https://dasatama.magetan.go.id/detail/449"
         },
         {
-          "id": "450",
+          "id": 450,
           "title": "Pelayanan Kesehatan Usia Pendidikan Dasar",
           "url": "https://dasatama.magetan.go.id/detail/450"
         },
         {
-          "id": "451",
+          "id": 451,
           "title": "Pelayanan Kesehatan Usia Produktif",
           "url": "https://dasatama.magetan.go.id/detail/451"
         },
         {
-          "id": "452",
+          "id": 452,
           "title": "Kasus Tuberkolosis",
           "url": "https://dasatama.magetan.go.id/detail/452"
         },
         {
-          "id": "453",
+          "id": 453,
           "title": "Kasus HIV",
           "url": "https://dasatama.magetan.go.id/detail/453"
         },
         {
-          "id": "454",
+          "id": 454,
           "title": "Kasus Hipertensi",
           "url": "https://dasatama.magetan.go.id/detail/454"
         },
         {
-          "id": "455",
+          "id": 455,
           "title": "Kasus Diabetes",
           "url": "https://dasatama.magetan.go.id/detail/455"
         },
         {
-          "id": "456",
+          "id": 456,
           "title": "Kasus ODGJ",
           "url": "https://dasatama.magetan.go.id/detail/456"
         }
@@ -773,72 +773,72 @@
       "total_sub_items": 14,
       "sub_items": [
         {
-          "id": "40",
+          "id": 40,
           "title": "Koperasi yang Mengikuti Pelatihan",
           "url": "https://dasatama.magetan.go.id/detail/40"
         },
         {
-          "id": "41",
+          "id": 41,
           "title": "Jumlah Koperasi",
           "url": "https://dasatama.magetan.go.id/detail/41"
         },
         {
-          "id": "129",
+          "id": 129,
           "title": "Koperasi Baru",
           "url": "https://dasatama.magetan.go.id/detail/129"
         },
         {
-          "id": "130",
+          "id": 130,
           "title": "UMKM ber-PIRT",
           "url": "https://dasatama.magetan.go.id/detail/130"
         },
         {
-          "id": "131",
+          "id": 131,
           "title": "Pameran UMKM",
           "url": "https://dasatama.magetan.go.id/detail/131"
         },
         {
-          "id": "132",
+          "id": 132,
           "title": "Wirausaha Baru",
           "url": "https://dasatama.magetan.go.id/detail/132"
         },
         {
-          "id": "133",
+          "id": 133,
           "title": "UMKM per- Kecamatan",
           "url": "https://dasatama.magetan.go.id/detail/133"
         },
         {
-          "id": "134",
+          "id": 134,
           "title": "Jumlah Koperasi Berdasar Jenis Koperasi",
           "url": "https://dasatama.magetan.go.id/detail/134"
         },
         {
-          "id": "393",
+          "id": 393,
           "title": "Nilai Omset Koperasi",
           "url": "https://dasatama.magetan.go.id/detail/393"
         },
         {
-          "id": "394",
+          "id": 394,
           "title": "Nilai Omset Usaha Mikro Yang Dibina",
           "url": "https://dasatama.magetan.go.id/detail/394"
         },
         {
-          "id": "395",
+          "id": 395,
           "title": "Persentase Koperasi Sehat",
           "url": "https://dasatama.magetan.go.id/detail/395"
         },
         {
-          "id": "396",
+          "id": 396,
           "title": "Jumlah Usaha Mikro Naik Kelas",
           "url": "https://dasatama.magetan.go.id/detail/396"
         },
         {
-          "id": "408",
+          "id": 408,
           "title": "UMKM Kabupaten Magetan yang memiliki NIB",
           "url": "https://dasatama.magetan.go.id/detail/408"
         },
         {
-          "id": "409",
+          "id": 409,
           "title": "Jumlah UMKM yang Mengikuti Sosialisasi dan Pelatihan",
           "url": "https://dasatama.magetan.go.id/detail/409"
         }
@@ -849,127 +849,127 @@
       "total_sub_items": 25,
       "sub_items": [
         {
-          "id": "43",
+          "id": 43,
           "title": "Anak Terlantar",
           "url": "https://dasatama.magetan.go.id/detail/43"
         },
         {
-          "id": "44",
+          "id": 44,
           "title": "Orang Dengan Gangguan Jiwa (ODGJ)",
           "url": "https://dasatama.magetan.go.id/detail/44"
         },
         {
-          "id": "135",
+          "id": 135,
           "title": "Lansia Terlantar (L/P)",
           "url": "https://dasatama.magetan.go.id/detail/135"
         },
         {
-          "id": "136",
+          "id": 136,
           "title": "KDRT, WRSE, dan Wanita Tuna Sosial",
           "url": "https://dasatama.magetan.go.id/detail/136"
         },
         {
-          "id": "137",
+          "id": 137,
           "title": "Data Orang Dipasung",
           "url": "https://dasatama.magetan.go.id/detail/137"
         },
         {
-          "id": "138",
+          "id": 138,
           "title": "Anak Terlantar di Luar Panti (L/P)",
           "url": "https://dasatama.magetan.go.id/detail/138"
         },
         {
-          "id": "139",
+          "id": 139,
           "title": "Disabilitas (L/P)",
           "url": "https://dasatama.magetan.go.id/detail/139"
         },
         {
-          "id": "140",
+          "id": 140,
           "title": "Gelandangan",
           "url": "https://dasatama.magetan.go.id/detail/140"
         },
         {
-          "id": "141",
+          "id": 141,
           "title": "Bencana Sosial",
           "url": "https://dasatama.magetan.go.id/detail/141"
         },
         {
-          "id": "142",
+          "id": 142,
           "title": "SDM Kesejahteraan/Pekerja Sosial",
           "url": "https://dasatama.magetan.go.id/detail/142"
         },
         {
-          "id": "143",
+          "id": 143,
           "title": "Tagana (L/P)",
           "url": "https://dasatama.magetan.go.id/detail/143"
         },
         {
-          "id": "144",
+          "id": 144,
           "title": "Pendamping PKH",
           "url": "https://dasatama.magetan.go.id/detail/144"
         },
         {
-          "id": "145",
+          "id": 145,
           "title": "Penerima Manfaat PKH",
           "url": "https://dasatama.magetan.go.id/detail/145"
         },
         {
-          "id": "146",
+          "id": 146,
           "title": "Lembaga Sosial Keagamaan Penerima Hibah",
           "url": "https://dasatama.magetan.go.id/detail/146"
         },
         {
-          "id": "147",
+          "id": 147,
           "title": "Karang Taruna (Kecamatan)",
           "url": "https://dasatama.magetan.go.id/detail/147"
         },
         {
-          "id": "148",
+          "id": 148,
           "title": "Lembaga Kesejahteraan Anak (LKSA)",
           "url": "https://dasatama.magetan.go.id/detail/148"
         },
         {
-          "id": "149",
+          "id": 149,
           "title": "Karang Werda",
           "url": "https://dasatama.magetan.go.id/detail/149"
         },
         {
-          "id": "150",
+          "id": 150,
           "title": "Penerima PBI",
           "url": "https://dasatama.magetan.go.id/detail/150"
         },
         {
-          "id": "151",
+          "id": 151,
           "title": "Data Kemiskinan/DTKS",
           "url": "https://dasatama.magetan.go.id/detail/151"
         },
         {
-          "id": "401",
+          "id": 401,
           "title": "Korban Bencana Alam Skala Kabupaten",
           "url": "https://dasatama.magetan.go.id/detail/401"
         },
         {
-          "id": "402",
+          "id": 402,
           "title": "Lansia Terlantar Dalam Panti",
           "url": "https://dasatama.magetan.go.id/detail/402"
         },
         {
-          "id": "403",
+          "id": 403,
           "title": "Penanganan PMKS",
           "url": "https://dasatama.magetan.go.id/detail/403"
         },
         {
-          "id": "404",
+          "id": 404,
           "title": "Rehabilitasi Disabilitas",
           "url": "https://dasatama.magetan.go.id/detail/404"
         },
         {
-          "id": "405",
+          "id": 405,
           "title": "Penanganan PSKS",
           "url": "https://dasatama.magetan.go.id/detail/405"
         },
         {
-          "id": "406",
+          "id": 406,
           "title": "Rehabilitasi Gelandangan dan Pengemis",
           "url": "https://dasatama.magetan.go.id/detail/406"
         }
@@ -980,22 +980,22 @@
       "total_sub_items": 4,
       "sub_items": [
         {
-          "id": "45",
+          "id": 45,
           "title": "Data Lalu Lintas",
           "url": "https://dasatama.magetan.go.id/detail/45"
         },
         {
-          "id": "46",
+          "id": 46,
           "title": "Data Angkutan Umum",
           "url": "https://dasatama.magetan.go.id/detail/46"
         },
         {
-          "id": "152",
+          "id": 152,
           "title": "Petugas Lalu Lintas",
           "url": "https://dasatama.magetan.go.id/detail/152"
         },
         {
-          "id": "153",
+          "id": 153,
           "title": "Uji Kendaraan",
           "url": "https://dasatama.magetan.go.id/detail/153"
         }
@@ -1006,72 +1006,72 @@
       "total_sub_items": 14,
       "sub_items": [
         {
-          "id": "47",
+          "id": 47,
           "title": "Populasi Ternak Besar",
           "url": "https://dasatama.magetan.go.id/detail/47"
         },
         {
-          "id": "48",
+          "id": 48,
           "title": "Populasi Ternak Kecil",
           "url": "https://dasatama.magetan.go.id/detail/48"
         },
         {
-          "id": "154",
+          "id": 154,
           "title": "Ternak Unggas dan Kelinci",
           "url": "https://dasatama.magetan.go.id/detail/154"
         },
         {
-          "id": "155",
+          "id": 155,
           "title": "Produksi Daging Ternak",
           "url": "https://dasatama.magetan.go.id/detail/155"
         },
         {
-          "id": "156",
+          "id": 156,
           "title": "Produksi Daging Unggas",
           "url": "https://dasatama.magetan.go.id/detail/156"
         },
         {
-          "id": "157",
+          "id": 157,
           "title": "Produksi Telur",
           "url": "https://dasatama.magetan.go.id/detail/157"
         },
         {
-          "id": "158",
+          "id": 158,
           "title": "Produksi Susu",
           "url": "https://dasatama.magetan.go.id/detail/158"
         },
         {
-          "id": "159",
+          "id": 159,
           "title": "Inseminasi Buatan",
           "url": "https://dasatama.magetan.go.id/detail/159"
         },
         {
-          "id": "160",
+          "id": 160,
           "title": "Ternak Terpotong di RPH",
           "url": "https://dasatama.magetan.go.id/detail/160"
         },
         {
-          "id": "161",
+          "id": 161,
           "title": "Pengiriman Ternak Keluar Magetan",
           "url": "https://dasatama.magetan.go.id/detail/161"
         },
         {
-          "id": "162",
+          "id": 162,
           "title": "Luas Kolam",
           "url": "https://dasatama.magetan.go.id/detail/162"
         },
         {
-          "id": "163",
+          "id": 163,
           "title": "Jumlah Pembudidaya Kolam",
           "url": "https://dasatama.magetan.go.id/detail/163"
         },
         {
-          "id": "164",
+          "id": 164,
           "title": "Produksi Ikan - Hasil Dari",
           "url": "https://dasatama.magetan.go.id/detail/164"
         },
         {
-          "id": "165",
+          "id": 165,
           "title": "Produksi Ikan - Jenis Ikan",
           "url": "https://dasatama.magetan.go.id/detail/165"
         }
@@ -1082,22 +1082,22 @@
       "total_sub_items": 4,
       "sub_items": [
         {
-          "id": "49",
+          "id": 49,
           "title": "Daftar Lembaga Pelatihan Kerja dan Instruktur",
           "url": "https://dasatama.magetan.go.id/detail/49"
         },
         {
-          "id": "50",
+          "id": 50,
           "title": "Penempatan Tenaga Kerja",
           "url": "https://dasatama.magetan.go.id/detail/50"
         },
         {
-          "id": "166",
+          "id": 166,
           "title": "Hubungan Industrial",
           "url": "https://dasatama.magetan.go.id/detail/166"
         },
         {
-          "id": "167",
+          "id": 167,
           "title": "Data Transmigrasi",
           "url": "https://dasatama.magetan.go.id/detail/167"
         }
@@ -1108,57 +1108,57 @@
       "total_sub_items": 11,
       "sub_items": [
         {
-          "id": "51",
+          "id": 51,
           "title": "Kepariwisataan Umum",
           "url": "https://dasatama.magetan.go.id/detail/51"
         },
         {
-          "id": "62",
+          "id": 62,
           "title": "Obyek Diduga Cagar Budaya",
           "url": "https://dasatama.magetan.go.id/detail/62"
         },
         {
-          "id": "322",
+          "id": 322,
           "title": "Jumlah Pelaku Usaha Ekonomi Kreatif berbasis NIB Sesuai Tahun Terbit",
           "url": "https://dasatama.magetan.go.id/detail/322"
         },
         {
-          "id": "323",
+          "id": 323,
           "title": "Kesenian Umum",
           "url": "https://dasatama.magetan.go.id/detail/323"
         },
         {
-          "id": "324",
+          "id": 324,
           "title": "Makam Bersejarah",
           "url": "https://dasatama.magetan.go.id/detail/324"
         },
         {
-          "id": "325",
+          "id": 325,
           "title": "Kelompok Seni dan Sanggar Berdasar Tahun Penerbitan Nomor Induk Kesenian",
           "url": "https://dasatama.magetan.go.id/detail/325"
         },
         {
-          "id": "326",
+          "id": 326,
           "title": "KUNJUNGAN WISATA",
           "url": "https://dasatama.magetan.go.id/detail/326"
         },
         {
-          "id": "343",
+          "id": 343,
           "title": "REKAPITULASI KUNJUNGAN WISATAWAN KABUPATEN MAGETAN",
           "url": "https://dasatama.magetan.go.id/detail/343"
         },
         {
-          "id": "344",
+          "id": 344,
           "title": "Penetapan Cagar Budaya",
           "url": "https://dasatama.magetan.go.id/detail/344"
         },
         {
-          "id": "470",
+          "id": 470,
           "title": "Data Seniman Menurut Bidang Seni berdasarkan Penerbitan Kartu Induk Kesenian",
           "url": "https://dasatama.magetan.go.id/detail/470"
         },
         {
-          "id": "505",
+          "id": 505,
           "title": "Jumlah Pelaku Usaha Jasa Pariwisata berbasis NIB Sesuai Tahun Terbit",
           "url": "https://dasatama.magetan.go.id/detail/505"
         }
@@ -1169,87 +1169,87 @@
       "total_sub_items": 17,
       "sub_items": [
         {
-          "id": "63",
+          "id": 63,
           "title": "Jumlah Penduduk",
           "url": "https://dasatama.magetan.go.id/detail/63"
         },
         {
-          "id": "64",
+          "id": 64,
           "title": "Kepemilikan Akta Kelahiran",
           "url": "https://dasatama.magetan.go.id/detail/64"
         },
         {
-          "id": "168",
+          "id": 168,
           "title": "Jumlah Penduduk - Kelompok Umur",
           "url": "https://dasatama.magetan.go.id/detail/168"
         },
         {
-          "id": "169",
+          "id": 169,
           "title": "Jumlah Penduduk - KK",
           "url": "https://dasatama.magetan.go.id/detail/169"
         },
         {
-          "id": "170",
+          "id": 170,
           "title": "Jumlah Penduduk - Agama",
           "url": "https://dasatama.magetan.go.id/detail/170"
         },
         {
-          "id": "171",
+          "id": 171,
           "title": "Jumlah Penduduk - Pendidikan",
           "url": "https://dasatama.magetan.go.id/detail/171"
         },
         {
-          "id": "172",
+          "id": 172,
           "title": "Jumlah Penduduk - Status Perkawinan",
           "url": "https://dasatama.magetan.go.id/detail/172"
         },
         {
-          "id": "173",
+          "id": 173,
           "title": "Penduduk Pindah dan Datang",
           "url": "https://dasatama.magetan.go.id/detail/173"
         },
         {
-          "id": "174",
+          "id": 174,
           "title": "Kepemilikan Akta Perkawinan",
           "url": "https://dasatama.magetan.go.id/detail/174"
         },
         {
-          "id": "175",
+          "id": 175,
           "title": "Kepemilikan Akta Perceraian",
           "url": "https://dasatama.magetan.go.id/detail/175"
         },
         {
-          "id": "176",
+          "id": 176,
           "title": "Kepemilikan Akta Kematian",
           "url": "https://dasatama.magetan.go.id/detail/176"
         },
         {
-          "id": "177",
+          "id": 177,
           "title": "Kepemilikan Cetak KK",
           "url": "https://dasatama.magetan.go.id/detail/177"
         },
         {
-          "id": "178",
+          "id": 178,
           "title": "Kepemilikan KTP EL",
           "url": "https://dasatama.magetan.go.id/detail/178"
         },
         {
-          "id": "179",
+          "id": 179,
           "title": "Kepemilikan KIA",
           "url": "https://dasatama.magetan.go.id/detail/179"
         },
         {
-          "id": "187",
+          "id": 187,
           "title": "Kepadatan Penduduk",
           "url": "https://dasatama.magetan.go.id/detail/187"
         },
         {
-          "id": "433",
+          "id": 433,
           "title": "Indeks Kepuasan Layanan Kependudukan",
           "url": "https://dasatama.magetan.go.id/detail/433"
         },
         {
-          "id": "434",
+          "id": 434,
           "title": "Persentase Penduduk Ber KTP Elektronik",
           "url": "https://dasatama.magetan.go.id/detail/434"
         }
@@ -1260,32 +1260,32 @@
       "total_sub_items": 6,
       "sub_items": [
         {
-          "id": "66",
+          "id": 66,
           "title": "Industri dan Tenaga Kerja",
           "url": "https://dasatama.magetan.go.id/detail/66"
         },
         {
-          "id": "73",
+          "id": 73,
           "title": "Perusahaan Industri",
           "url": "https://dasatama.magetan.go.id/detail/73"
         },
         {
-          "id": "180",
+          "id": 180,
           "title": "Tera Ulang Timbangan",
           "url": "https://dasatama.magetan.go.id/detail/180"
         },
         {
-          "id": "181",
+          "id": 181,
           "title": "Pedagang Pasar dan Omset",
           "url": "https://dasatama.magetan.go.id/detail/181"
         },
         {
-          "id": "182",
+          "id": 182,
           "title": "Kondisi Pasar",
           "url": "https://dasatama.magetan.go.id/detail/182"
         },
         {
-          "id": "183",
+          "id": 183,
           "title": "PKL",
           "url": "https://dasatama.magetan.go.id/detail/183"
         }
@@ -1296,77 +1296,77 @@
       "total_sub_items": 15,
       "sub_items": [
         {
-          "id": "277",
+          "id": 277,
           "title": "Data Jumlah Bank Sampah",
           "url": "https://dasatama.magetan.go.id/detail/277"
         },
         {
-          "id": "278",
+          "id": 278,
           "title": "Data Jumlah Desa Berseri",
           "url": "https://dasatama.magetan.go.id/detail/278"
         },
         {
-          "id": "291",
+          "id": 291,
           "title": "Neraca Pengelolaan Sampah",
           "url": "https://dasatama.magetan.go.id/detail/291"
         },
         {
-          "id": "292",
+          "id": 292,
           "title": "Data Jumlah TPS",
           "url": "https://dasatama.magetan.go.id/detail/292"
         },
         {
-          "id": "293",
+          "id": 293,
           "title": "Data Jumlah TPS3R",
           "url": "https://dasatama.magetan.go.id/detail/293"
         },
         {
-          "id": "294",
+          "id": 294,
           "title": "Data Jumlah TPA",
           "url": "https://dasatama.magetan.go.id/detail/294"
         },
         {
-          "id": "295",
+          "id": 295,
           "title": "Data Jumlah Armada Pengelolaan Sampah",
           "url": "https://dasatama.magetan.go.id/detail/295"
         },
         {
-          "id": "296",
+          "id": 296,
           "title": "Indeks Kualitas Lingkungan Hidup (IKLH)",
           "url": "https://dasatama.magetan.go.id/detail/296"
         },
         {
-          "id": "297",
+          "id": 297,
           "title": "Jenis Flora dan Fauna yang Dilindungi",
           "url": "https://dasatama.magetan.go.id/detail/297"
         },
         {
-          "id": "298",
+          "id": 298,
           "title": "Data Jumlah Pengaduan dan Penanganan Pengaduan Akibat Dugaan Pencemaran dan/atau Perusakan Lingkungan",
           "url": "https://dasatama.magetan.go.id/detail/298"
         },
         {
-          "id": "299",
+          "id": 299,
           "title": "Data Persetujuan Lingkungan yang Diterbitkan Pemerintah Daerah Kabupaten/Kota",
           "url": "https://dasatama.magetan.go.id/detail/299"
         },
         {
-          "id": "300",
+          "id": 300,
           "title": "Perusahaan yang Mendapat Izin Mengelolaa Limbah B3",
           "url": "https://dasatama.magetan.go.id/detail/300"
         },
         {
-          "id": "301",
+          "id": 301,
           "title": "Data Limbah Padat dan Cair",
           "url": "https://dasatama.magetan.go.id/detail/301"
         },
         {
-          "id": "381",
+          "id": 381,
           "title": "Indeks Ketahanan Pangan",
           "url": "https://dasatama.magetan.go.id/detail/381"
         },
         {
-          "id": "382",
+          "id": 382,
           "title": "Skor Pola Pangan Harapan",
           "url": "https://dasatama.magetan.go.id/detail/382"
         }
@@ -1377,42 +1377,42 @@
       "total_sub_items": 8,
       "sub_items": [
         {
-          "id": "60",
+          "id": 60,
           "title": "Klasifikasi Profil Desa",
           "url": "https://dasatama.magetan.go.id/detail/60"
         },
         {
-          "id": "61",
+          "id": 61,
           "title": "Pasar Desa",
           "url": "https://dasatama.magetan.go.id/detail/61"
         },
         {
-          "id": "190",
+          "id": 190,
           "title": "Bumdes",
           "url": "https://dasatama.magetan.go.id/detail/190"
         },
         {
-          "id": "191",
+          "id": 191,
           "title": "Status Desa (Indeks Membangun)",
           "url": "https://dasatama.magetan.go.id/detail/191"
         },
         {
-          "id": "192",
+          "id": 192,
           "title": "Lembaga Kemasyarakatan",
           "url": "https://dasatama.magetan.go.id/detail/192"
         },
         {
-          "id": "193",
+          "id": 193,
           "title": "Kerjasama Pemerintah Desa",
           "url": "https://dasatama.magetan.go.id/detail/193"
         },
         {
-          "id": "419",
+          "id": 419,
           "title": "Persentase Desa Mandiri (%)",
           "url": "https://dasatama.magetan.go.id/detail/419"
         },
         {
-          "id": "420",
+          "id": 420,
           "title": "Persentase desa berstatus swasembada terhadap total desa",
           "url": "https://dasatama.magetan.go.id/detail/420"
         }
@@ -1423,82 +1423,82 @@
       "total_sub_items": 16,
       "sub_items": [
         {
-          "id": "58",
+          "id": 58,
           "title": "Investasi Penanaman Modal Per Sektor (Thn 2020-2022)",
           "url": "https://dasatama.magetan.go.id/detail/58"
         },
         {
-          "id": "59",
+          "id": 59,
           "title": "Realisasi Proyek Penanaman Modal Per Sektor (Thn 2020 s/d 2022)",
           "url": "https://dasatama.magetan.go.id/detail/59"
         },
         {
-          "id": "239",
+          "id": 239,
           "title": "Penyertaan Penanaman Modal (PMA/PMDN)",
           "url": "https://dasatama.magetan.go.id/detail/239"
         },
         {
-          "id": "240",
+          "id": 240,
           "title": "Data Pengaduan",
           "url": "https://dasatama.magetan.go.id/detail/240"
         },
         {
-          "id": "241",
+          "id": 241,
           "title": "Pendaftaran Nomor Induk Berusaha (NIB) OSS",
           "url": "https://dasatama.magetan.go.id/detail/241"
         },
         {
-          "id": "242",
+          "id": 242,
           "title": "Sumber Penyertaan Investasi Penanaman Modal",
           "url": "https://dasatama.magetan.go.id/detail/242"
         },
         {
-          "id": "258",
+          "id": 258,
           "title": "Kriteria Skala Modal Investasi Perusahaan Berdasarkan KBLI",
           "url": "https://dasatama.magetan.go.id/detail/258"
         },
         {
-          "id": "259",
+          "id": 259,
           "title": "Bentuk Perusahaan OSS",
           "url": "https://dasatama.magetan.go.id/detail/259"
         },
         {
-          "id": "260",
+          "id": 260,
           "title": "Data Perizinan dan Non Perizinan (Non OSS)",
           "url": "https://dasatama.magetan.go.id/detail/260"
         },
         {
-          "id": "261",
+          "id": 261,
           "title": "Nilai Realisasi Investasi Penanaman Modal Per Sektor",
           "url": "https://dasatama.magetan.go.id/detail/261"
         },
         {
-          "id": "269",
+          "id": 269,
           "title": "Jumlah Bidang Usaha/KBLI Per Sektor",
           "url": "https://dasatama.magetan.go.id/detail/269"
         },
         {
-          "id": "270",
+          "id": 270,
           "title": "Data Tenaga Kerja Perusahaan Per Sektor Bidang Usaha / KBLI",
           "url": "https://dasatama.magetan.go.id/detail/270"
         },
         {
-          "id": "271",
+          "id": 271,
           "title": "Sebaran Proyek Per Kecamatan",
           "url": "https://dasatama.magetan.go.id/detail/271"
         },
         {
-          "id": "272",
+          "id": 272,
           "title": "Sebaran Proyek Berdasarkan Resiko",
           "url": "https://dasatama.magetan.go.id/detail/272"
         },
         {
-          "id": "352",
+          "id": 352,
           "title": "Persentase Pertumbuhan Realisasi Investasi",
           "url": "https://dasatama.magetan.go.id/detail/352"
         },
         {
-          "id": "385",
+          "id": 385,
           "title": "Rata-Rata Lama Proses Perizinan",
           "url": "https://dasatama.magetan.go.id/detail/385"
         }
@@ -1509,27 +1509,27 @@
       "total_sub_items": 5,
       "sub_items": [
         {
-          "id": "69",
+          "id": 69,
           "title": "Anggota DPRD",
           "url": "https://dasatama.magetan.go.id/detail/69"
         },
         {
-          "id": "70",
+          "id": 70,
           "title": "Jumlah Partai",
           "url": "https://dasatama.magetan.go.id/detail/70"
         },
         {
-          "id": "71",
+          "id": 71,
           "title": "Jumlah Fraksi",
           "url": "https://dasatama.magetan.go.id/detail/71"
         },
         {
-          "id": "72",
+          "id": 72,
           "title": "Jumlah Komisi",
           "url": "https://dasatama.magetan.go.id/detail/72"
         },
         {
-          "id": "417",
+          "id": 417,
           "title": "Indeks Kepuasan DPRD terhadap Pelayanan Sekretariat DPRD",
           "url": "https://dasatama.magetan.go.id/detail/417"
         }
@@ -1540,97 +1540,97 @@
       "total_sub_items": 19,
       "sub_items": [
         {
-          "id": "56",
+          "id": 56,
           "title": "Kondisi Jalan Kabupaten (Km)",
           "url": "https://dasatama.magetan.go.id/detail/56"
         },
         {
-          "id": "57",
+          "id": 57,
           "title": "Kondisi Jembatan Kabupaten (Unit)",
           "url": "https://dasatama.magetan.go.id/detail/57"
         },
         {
-          "id": "245",
+          "id": 245,
           "title": "Data Jumlah Bendung, Embung dan Waduk",
           "url": "https://dasatama.magetan.go.id/detail/245"
         },
         {
-          "id": "248",
+          "id": 248,
           "title": "Panjang Saluran Irigasi Kabupaten (m)",
           "url": "https://dasatama.magetan.go.id/detail/248"
         },
         {
-          "id": "249",
+          "id": 249,
           "title": "Rata-rata Curah Hujan per Bulan (mm)",
           "url": "https://dasatama.magetan.go.id/detail/249"
         },
         {
-          "id": "250",
+          "id": 250,
           "title": "Panjang Jalan Menurut Jenis Permukaan Jalan (Km)",
           "url": "https://dasatama.magetan.go.id/detail/250"
         },
         {
-          "id": "251",
+          "id": 251,
           "title": "Banyaknya Lokasi Penakar Hujan Per Kecamatan",
           "url": "https://dasatama.magetan.go.id/detail/251"
         },
         {
-          "id": "252",
+          "id": 252,
           "title": "Jumlah Curah Hujan Menurut Lokasi Penakar Hujan",
           "url": "https://dasatama.magetan.go.id/detail/252"
         },
         {
-          "id": "253",
+          "id": 253,
           "title": "Banyaknya Hari Hujan Menurut Lokasi Penangkar Hujan",
           "url": "https://dasatama.magetan.go.id/detail/253"
         },
         {
-          "id": "255",
+          "id": 255,
           "title": "Data Luas Tanam Padi per Musim Tanam (Ha)",
           "url": "https://dasatama.magetan.go.id/detail/255"
         },
         {
-          "id": "256",
+          "id": 256,
           "title": "Data Layanan Laboratorium DPUPR",
           "url": "https://dasatama.magetan.go.id/detail/256"
         },
         {
-          "id": "283",
+          "id": 283,
           "title": "Data Luas Tanam Polowijo per Musim Tanam (Ha)",
           "url": "https://dasatama.magetan.go.id/detail/283"
         },
         {
-          "id": "284",
+          "id": 284,
           "title": "Data Luas Tanam Tebu per Musim Tanam (Ha)",
           "url": "https://dasatama.magetan.go.id/detail/284"
         },
         {
-          "id": "364",
+          "id": 364,
           "title": "Persentase Rumah Tangga Berakses Air Bersih (SPM)",
           "url": "https://dasatama.magetan.go.id/detail/364"
         },
         {
-          "id": "365",
+          "id": 365,
           "title": "Persentase Rumah Tangga Berakses Sanitasi (SPM)",
           "url": "https://dasatama.magetan.go.id/detail/365"
         },
         {
-          "id": "366",
+          "id": 366,
           "title": "Persentase Kesesuaian Ruang",
           "url": "https://dasatama.magetan.go.id/detail/366"
         },
         {
-          "id": "367",
+          "id": 367,
           "title": "Rasio Panjang Jalan per Jumlah Kendaraan",
           "url": "https://dasatama.magetan.go.id/detail/367"
         },
         {
-          "id": "368",
+          "id": 368,
           "title": "Persentase Rumah Tangga yang Menggunakan Air Bersih",
           "url": "https://dasatama.magetan.go.id/detail/368"
         },
         {
-          "id": "369",
+          "id": 369,
           "title": "Luas Wilayah Perkotaan",
           "url": "https://dasatama.magetan.go.id/detail/369"
         }
@@ -1641,62 +1641,62 @@
       "total_sub_items": 12,
       "sub_items": [
         {
-          "id": "53",
+          "id": 53,
           "title": "Jumlah Kelompok Kegiatan Bina Keluarga dan PIK-R di Kabupaten Magetan",
           "url": "https://dasatama.magetan.go.id/detail/53"
         },
         {
-          "id": "54",
+          "id": 54,
           "title": "Jumlah Peserta KB Aktif Menurut Metode Kontrasepsi",
           "url": "https://dasatama.magetan.go.id/detail/54"
         },
         {
-          "id": "194",
+          "id": 194,
           "title": "Jumlah Kampung Keluarga Berkualitas (Kampung KB) di Kabupaten Magetan",
           "url": "https://dasatama.magetan.go.id/detail/194"
         },
         {
-          "id": "195",
+          "id": 195,
           "title": "Data Jumlah SDM Program Bangga Kencana",
           "url": "https://dasatama.magetan.go.id/detail/195"
         },
         {
-          "id": "196",
+          "id": 196,
           "title": "Jumlah Peserta Pembinaan Bina Keluarga dan PIK-R di Kabupaten Magetan",
           "url": "https://dasatama.magetan.go.id/detail/196"
         },
         {
-          "id": "197",
+          "id": 197,
           "title": "Nilai Evaluasi Kabupaten Layak Anak (KLA) Kabupaten Magetan",
           "url": "https://dasatama.magetan.go.id/detail/197"
         },
         {
-          "id": "198",
+          "id": 198,
           "title": "Jumlah Fasilitas dan Kegiatan Program Bangga Kencana di Kabupaten Magetan",
           "url": "https://dasatama.magetan.go.id/detail/198"
         },
         {
-          "id": "199",
+          "id": 199,
           "title": "HIV",
           "url": "https://dasatama.magetan.go.id/detail/199"
         },
         {
-          "id": "200",
+          "id": 200,
           "title": "Jumlah Kasus Kekerasan terhadap Perempuan dan Anak di Kabupaten Magetan",
           "url": "https://dasatama.magetan.go.id/detail/200"
         },
         {
-          "id": "201",
+          "id": 201,
           "title": "Resiko Stunting",
           "url": "https://dasatama.magetan.go.id/detail/201"
         },
         {
-          "id": "389",
+          "id": 389,
           "title": "Partisipasi Angkatan Kerja Perempuan",
           "url": "https://dasatama.magetan.go.id/detail/389"
         },
         {
-          "id": "390",
+          "id": 390,
           "title": "Total Fertility Rate",
           "url": "https://dasatama.magetan.go.id/detail/390"
         }
@@ -1707,82 +1707,82 @@
       "total_sub_items": 16,
       "sub_items": [
         {
-          "id": "36",
+          "id": 36,
           "title": "Data WiFi Hot Spot",
           "url": "https://dasatama.magetan.go.id/detail/36"
         },
         {
-          "id": "37",
+          "id": 37,
           "title": "Data Aplikasi",
           "url": "https://dasatama.magetan.go.id/detail/37"
         },
         {
-          "id": "38",
+          "id": 38,
           "title": "Penilaian SPBE, Kepuasan Masyarakat",
           "url": "https://dasatama.magetan.go.id/detail/38"
         },
         {
-          "id": "202",
+          "id": 202,
           "title": "Kelompok Informasi Masyarakat (KIM)",
           "url": "https://dasatama.magetan.go.id/detail/202"
         },
         {
-          "id": "203",
+          "id": 203,
           "title": "Daftar Media Terferivikasi",
           "url": "https://dasatama.magetan.go.id/detail/203"
         },
         {
-          "id": "318",
+          "id": 318,
           "title": "Jumlah Konten Informasi Kebijakan Pemerintah",
           "url": "https://dasatama.magetan.go.id/detail/318"
         },
         {
-          "id": "341",
+          "id": 341,
           "title": "jumlah pengguna internet",
           "url": "https://dasatama.magetan.go.id/detail/341"
         },
         {
-          "id": "407",
+          "id": 407,
           "title": "Data dan Produsen Data",
           "url": "https://dasatama.magetan.go.id/detail/407"
         },
         {
-          "id": "459",
+          "id": 459,
           "title": "Cakupan Ketersediaan Data Statistik Sektoral",
           "url": "https://dasatama.magetan.go.id/detail/459"
         },
         {
-          "id": "460",
+          "id": 460,
           "title": "Persentase Perangkat Daerah yang Melaksanakan Kebijakan Keamanan Informasi",
           "url": "https://dasatama.magetan.go.id/detail/460"
         },
         {
-          "id": "499",
+          "id": 499,
           "title": "Evaluasi Statistik",
           "url": "https://dasatama.magetan.go.id/detail/499"
         },
         {
-          "id": "500",
+          "id": 500,
           "title": "Persentase Perangkat Daerah (PD) dan/atau unit pelaksana teknis daerah yang terhubung dengan akses internet yang disediakan oleh Dinas Kominfo",
           "url": "https://dasatama.magetan.go.id/detail/500"
         },
         {
-          "id": "501",
+          "id": 501,
           "title": "Persentase Perangkat Daerah (PD) di tingkat Kabupaten/Kota yang terhubung dengan Jaringan Intra Pemerintah Daerah",
           "url": "https://dasatama.magetan.go.id/detail/501"
         },
         {
-          "id": "502",
+          "id": 502,
           "title": "Indeks Masyarakat Digital (IMD)",
           "url": "https://dasatama.magetan.go.id/detail/502"
         },
         {
-          "id": "503",
+          "id": 503,
           "title": "Persentase Perangkat Daerah yang Memanfaatkan Sistem Penghubung Layanan Pemerintah Daerah (SPLPD)",
           "url": "https://dasatama.magetan.go.id/detail/503"
         },
         {
-          "id": "504",
+          "id": 504,
           "title": "Tingkat kesiapan pengamanan informasi pemerintah daerah",
           "url": "https://dasatama.magetan.go.id/detail/504"
         }
@@ -1793,77 +1793,77 @@
       "total_sub_items": 15,
       "sub_items": [
         {
-          "id": "34",
+          "id": 34,
           "title": "PENYALURAN KREDIT USAHA RAKYAT MENURUT SKEMA DAN PENYALUR",
           "url": "https://dasatama.magetan.go.id/detail/34"
         },
         {
-          "id": "35",
+          "id": 35,
           "title": "PENYALURAN KREDIT USAHA RAKYAT MENURUT SEKTOR",
           "url": "https://dasatama.magetan.go.id/detail/35"
         },
         {
-          "id": "204",
+          "id": 204,
           "title": "Harga Beras per Bulan",
           "url": "https://dasatama.magetan.go.id/detail/204"
         },
         {
-          "id": "205",
+          "id": 205,
           "title": "Harga Minyak per Bulan",
           "url": "https://dasatama.magetan.go.id/detail/205"
         },
         {
-          "id": "206",
+          "id": 206,
           "title": "Harga Daging Ayam Ras per Bulan",
           "url": "https://dasatama.magetan.go.id/detail/206"
         },
         {
-          "id": "207",
+          "id": 207,
           "title": "Harga Telur per Bulan",
           "url": "https://dasatama.magetan.go.id/detail/207"
         },
         {
-          "id": "208",
+          "id": 208,
           "title": "Harga Gula Pasir per Bulan",
           "url": "https://dasatama.magetan.go.id/detail/208"
         },
         {
-          "id": "410",
+          "id": 410,
           "title": "Harga Daging Sapi per Bulan",
           "url": "https://dasatama.magetan.go.id/detail/410"
         },
         {
-          "id": "411",
+          "id": 411,
           "title": "Harga Jagung Pipil per Bulan",
           "url": "https://dasatama.magetan.go.id/detail/411"
         },
         {
-          "id": "412",
+          "id": 412,
           "title": "Harga Kedelai per Bulan",
           "url": "https://dasatama.magetan.go.id/detail/412"
         },
         {
-          "id": "413",
+          "id": 413,
           "title": "Harga Cabe Merah Keriting per Bulan",
           "url": "https://dasatama.magetan.go.id/detail/413"
         },
         {
-          "id": "414",
+          "id": 414,
           "title": "Harga Cabe Rawit per Bulan",
           "url": "https://dasatama.magetan.go.id/detail/414"
         },
         {
-          "id": "415",
+          "id": 415,
           "title": "Harga Bawang Merah per Bulan",
           "url": "https://dasatama.magetan.go.id/detail/415"
         },
         {
-          "id": "416",
+          "id": 416,
           "title": "Harga Bawang Putih per Bulan",
           "url": "https://dasatama.magetan.go.id/detail/416"
         },
         {
-          "id": "418",
+          "id": 418,
           "title": "Harga Cabai Merah Besar",
           "url": "https://dasatama.magetan.go.id/detail/418"
         }
@@ -1874,67 +1874,67 @@
       "total_sub_items": 13,
       "sub_items": [
         {
-          "id": "31",
+          "id": 31,
           "title": "Jumlah Rumah",
           "url": "https://dasatama.magetan.go.id/detail/31"
         },
         {
-          "id": "32",
+          "id": 32,
           "title": "Rumah Tidak Layak Huni (RTLH)",
           "url": "https://dasatama.magetan.go.id/detail/32"
         },
         {
-          "id": "262",
+          "id": 262,
           "title": "Jumlah Backlog",
           "url": "https://dasatama.magetan.go.id/detail/262"
         },
         {
-          "id": "263",
+          "id": 263,
           "title": "Jumlah Rumah Susun",
           "url": "https://dasatama.magetan.go.id/detail/263"
         },
         {
-          "id": "264",
+          "id": 264,
           "title": "Jumlah RTLH yang dilaksanakan",
           "url": "https://dasatama.magetan.go.id/detail/264"
         },
         {
-          "id": "265",
+          "id": 265,
           "title": "Jumlah Site Plan dari Pengembang yang sudah disahkan",
           "url": "https://dasatama.magetan.go.id/detail/265"
         },
         {
-          "id": "266",
+          "id": 266,
           "title": "Jumlah Site Plan dari Perorangan yang sudah disahkan",
           "url": "https://dasatama.magetan.go.id/detail/266"
         },
         {
-          "id": "267",
+          "id": 267,
           "title": "Data Inventarisasi Kawasan Kumuh",
           "url": "https://dasatama.magetan.go.id/detail/267"
         },
         {
-          "id": "268",
+          "id": 268,
           "title": "Data Prasarana Permukiman",
           "url": "https://dasatama.magetan.go.id/detail/268"
         },
         {
-          "id": "428",
+          "id": 428,
           "title": "Persentase RLH Korban Bencana",
           "url": "https://dasatama.magetan.go.id/detail/428"
         },
         {
-          "id": "429",
+          "id": 429,
           "title": "Persentase Permukiman Kumuh Tertangani",
           "url": "https://dasatama.magetan.go.id/detail/429"
         },
         {
-          "id": "430",
+          "id": 430,
           "title": "Persentase Rumah Layak Huni (RLH)",
           "url": "https://dasatama.magetan.go.id/detail/430"
         },
         {
-          "id": "431",
+          "id": 431,
           "title": "Persentase Pengelolaan Tanah",
           "url": "https://dasatama.magetan.go.id/detail/431"
         }
@@ -1945,52 +1945,52 @@
       "total_sub_items": 10,
       "sub_items": [
         {
-          "id": "27",
+          "id": 27,
           "title": "Tenaga Medis dan Non Medis",
           "url": "https://dasatama.magetan.go.id/detail/27"
         },
         {
-          "id": "28",
+          "id": 28,
           "title": "Kunjungan Rumah Sakit",
           "url": "https://dasatama.magetan.go.id/detail/28"
         },
         {
-          "id": "209",
+          "id": 209,
           "title": "Pengolahan Limbah Medis",
           "url": "https://dasatama.magetan.go.id/detail/209"
         },
         {
-          "id": "210",
+          "id": 210,
           "title": "Jumlah Rawat Inap Berdasarkan 10 Besar Penyakit",
           "url": "https://dasatama.magetan.go.id/detail/210"
         },
         {
-          "id": "211",
+          "id": 211,
           "title": "Jumlah Rawat Jalan Berdasar 10 Besar Penyakit",
           "url": "https://dasatama.magetan.go.id/detail/211"
         },
         {
-          "id": "212",
+          "id": 212,
           "title": "Pasien Rawat Inap per Penjamin",
           "url": "https://dasatama.magetan.go.id/detail/212"
         },
         {
-          "id": "213",
+          "id": 213,
           "title": "Pasien Rawat Jalan per Penjamin",
           "url": "https://dasatama.magetan.go.id/detail/213"
         },
         {
-          "id": "274",
+          "id": 274,
           "title": "Jumlah Kunjungan Per Klinik Rawat Jalan",
           "url": "https://dasatama.magetan.go.id/detail/274"
         },
         {
-          "id": "275",
+          "id": 275,
           "title": "Jumlah Kunjungan Per Ruangan Rawat Inap",
           "url": "https://dasatama.magetan.go.id/detail/275"
         },
         {
-          "id": "384",
+          "id": 384,
           "title": "ALOS/BOR/BTO/GDR/NDR/TOI/Infeksi Nosokomial RSUD dr. Sayidiman Magetan",
           "url": "https://dasatama.magetan.go.id/detail/384"
         }
@@ -2001,42 +2001,42 @@
       "total_sub_items": 8,
       "sub_items": [
         {
-          "id": "24",
+          "id": 24,
           "title": "Jumlah Pelanggaran Perda (Ditertibkan)",
           "url": "https://dasatama.magetan.go.id/detail/24"
         },
         {
-          "id": "25",
+          "id": 25,
           "title": "Jumlah Acara yang Diamankan",
           "url": "https://dasatama.magetan.go.id/detail/25"
         },
         {
-          "id": "215",
+          "id": 215,
           "title": "Pelatihan Kebakaran Ringan",
           "url": "https://dasatama.magetan.go.id/detail/215"
         },
         {
-          "id": "216",
+          "id": 216,
           "title": "Penanganan Kejadian",
           "url": "https://dasatama.magetan.go.id/detail/216"
         },
         {
-          "id": "217",
+          "id": 217,
           "title": "Anggota Linmas",
           "url": "https://dasatama.magetan.go.id/detail/217"
         },
         {
-          "id": "380",
+          "id": 380,
           "title": "Persentase Laporan Peristiwa Kebakaran yang Ditindaklanjuti dalam Kurun Waktu 15 Menit (SPM)",
           "url": "https://dasatama.magetan.go.id/detail/380"
         },
         {
-          "id": "432",
+          "id": 432,
           "title": "Jumlah Konflik/ Demonstrasi/ Unjuk Rasa/ Aksi Damai/ Penyampaian Aspirasi Di Depan Umum Di Kab. Magetan",
           "url": "https://dasatama.magetan.go.id/detail/432"
         },
         {
-          "id": "441",
+          "id": 441,
           "title": "Persentase Tindak Lanjut terhadap Pengaduan Pelanggaran Ketertiban Umum",
           "url": "https://dasatama.magetan.go.id/detail/441"
         }
@@ -2047,167 +2047,167 @@
       "total_sub_items": 33,
       "sub_items": [
         {
-          "id": "19",
+          "id": 19,
           "title": "Luas Tanam Palawija  (Ha)",
           "url": "https://dasatama.magetan.go.id/detail/19"
         },
         {
-          "id": "20",
+          "id": 20,
           "title": "Hasil Produksi Palawija (Kw)",
           "url": "https://dasatama.magetan.go.id/detail/20"
         },
         {
-          "id": "218",
+          "id": 218,
           "title": "Luas Tanam Padi per Kecamatan",
           "url": "https://dasatama.magetan.go.id/detail/218"
         },
         {
-          "id": "219",
+          "id": 219,
           "title": "Luas Tanam Jagung per Kecamatan",
           "url": "https://dasatama.magetan.go.id/detail/219"
         },
         {
-          "id": "220",
+          "id": 220,
           "title": "Luas Tanam Kacang Tanah per Kecamatan",
           "url": "https://dasatama.magetan.go.id/detail/220"
         },
         {
-          "id": "221",
+          "id": 221,
           "title": "Luas Tanam Ubi Kayu per Kecamatan",
           "url": "https://dasatama.magetan.go.id/detail/221"
         },
         {
-          "id": "222",
+          "id": 222,
           "title": "Luas Tanam Ubi Jalar per Kecamatan",
           "url": "https://dasatama.magetan.go.id/detail/222"
         },
         {
-          "id": "223",
+          "id": 223,
           "title": "Luas Tanam Sayur Buah Semusim (Ha)",
           "url": "https://dasatama.magetan.go.id/detail/223"
         },
         {
-          "id": "224",
+          "id": 224,
           "title": "Hasil Produksi Sayur Buah Semusim (Kw)",
           "url": "https://dasatama.magetan.go.id/detail/224"
         },
         {
-          "id": "225",
+          "id": 225,
           "title": "Hasil Produksi Buah Sayur Tahunan (Kw)",
           "url": "https://dasatama.magetan.go.id/detail/225"
         },
         {
-          "id": "226",
+          "id": 226,
           "title": "Jumlah Tanaman Buah Sayur Tahunan  (Pohon)",
           "url": "https://dasatama.magetan.go.id/detail/226"
         },
         {
-          "id": "227",
+          "id": 227,
           "title": "Hasil Produksi Tanaman Biofarmaka (Kg)",
           "url": "https://dasatama.magetan.go.id/detail/227"
         },
         {
-          "id": "228",
+          "id": 228,
           "title": "Hasil Produksi Perkebunan Semusim (Kw)",
           "url": "https://dasatama.magetan.go.id/detail/228"
         },
         {
-          "id": "229",
+          "id": 229,
           "title": "Hasil Produksi Perkebunan Tahunan (Kw)",
           "url": "https://dasatama.magetan.go.id/detail/229"
         },
         {
-          "id": "230",
+          "id": 230,
           "title": "Baku Lahan (Ha)",
           "url": "https://dasatama.magetan.go.id/detail/230"
         },
         {
-          "id": "231",
+          "id": 231,
           "title": "Penyuluh Pertanian (Orang/Kec)",
           "url": "https://dasatama.magetan.go.id/detail/231"
         },
         {
-          "id": "232",
+          "id": 232,
           "title": "Lembaga Petani",
           "url": "https://dasatama.magetan.go.id/detail/232"
         },
         {
-          "id": "233",
+          "id": 233,
           "title": "Penyaluran Pupuk Bersubsidi (Ton)",
           "url": "https://dasatama.magetan.go.id/detail/233"
         },
         {
-          "id": "506",
+          "id": 506,
           "title": "Luas Panen Palawija (Ha)",
           "url": "https://dasatama.magetan.go.id/detail/506"
         },
         {
-          "id": "507",
+          "id": 507,
           "title": "Luas Panen Padi per Kecamatan",
           "url": "https://dasatama.magetan.go.id/detail/507"
         },
         {
-          "id": "508",
+          "id": 508,
           "title": "Luas Panen Jagung per Kecamatan",
           "url": "https://dasatama.magetan.go.id/detail/508"
         },
         {
-          "id": "509",
+          "id": 509,
           "title": "Luas Panen Kacang Tanah per Kecamatan",
           "url": "https://dasatama.magetan.go.id/detail/509"
         },
         {
-          "id": "510",
+          "id": 510,
           "title": "Luas Panen Ubi Kayu per Kecamatan",
           "url": "https://dasatama.magetan.go.id/detail/510"
         },
         {
-          "id": "511",
+          "id": 511,
           "title": "Luas Panen Ubi Jalar per Kecamatan",
           "url": "https://dasatama.magetan.go.id/detail/511"
         },
         {
-          "id": "512",
+          "id": 512,
           "title": "Luas Panen Sayur Buah Semusim",
           "url": "https://dasatama.magetan.go.id/detail/512"
         },
         {
-          "id": "513",
+          "id": 513,
           "title": "Luas Tanam Biofarmaka",
           "url": "https://dasatama.magetan.go.id/detail/513"
         },
         {
-          "id": "514",
+          "id": 514,
           "title": "Luas Panen Biofarmaka",
           "url": "https://dasatama.magetan.go.id/detail/514"
         },
         {
-          "id": "515",
+          "id": 515,
           "title": "Luas Tanam Perkebunan Semusim",
           "url": "https://dasatama.magetan.go.id/detail/515"
         },
         {
-          "id": "516",
+          "id": 516,
           "title": "Luas Panen Perkebunan Semusim",
           "url": "https://dasatama.magetan.go.id/detail/516"
         },
         {
-          "id": "517",
+          "id": 517,
           "title": "Peningkatan produksi tanaman pangan",
           "url": "https://dasatama.magetan.go.id/detail/517"
         },
         {
-          "id": "518",
+          "id": 518,
           "title": "Peningkatan Produksi Hortikultura",
           "url": "https://dasatama.magetan.go.id/detail/518"
         },
         {
-          "id": "519",
+          "id": 519,
           "title": "Peningkatan Produksi Komoditas Perkebunan",
           "url": "https://dasatama.magetan.go.id/detail/519"
         },
         {
-          "id": "520",
+          "id": 520,
           "title": "Luas areal pengendalian dan penanggulangan bencana DPI",
           "url": "https://dasatama.magetan.go.id/detail/520"
         }
@@ -2218,12 +2218,12 @@
       "total_sub_items": 2,
       "sub_items": [
         {
-          "id": "346",
+          "id": 346,
           "title": "Kecamatan dengan Kinerja Baik",
           "url": "https://dasatama.magetan.go.id/detail/346"
         },
         {
-          "id": "464",
+          "id": 464,
           "title": "Nilai LPPD",
           "url": "https://dasatama.magetan.go.id/detail/464"
         }
@@ -2234,17 +2234,17 @@
       "total_sub_items": 3,
       "sub_items": [
         {
-          "id": "386",
+          "id": 386,
           "title": "Indeks Pelayanan Publik/IKM",
           "url": "https://dasatama.magetan.go.id/detail/386"
         },
         {
-          "id": "387",
+          "id": 387,
           "title": "Indeks Reformasi Birokrasi",
           "url": "https://dasatama.magetan.go.id/detail/387"
         },
         {
-          "id": "388",
+          "id": 388,
           "title": "Nilai SAKIP",
           "url": "https://dasatama.magetan.go.id/detail/388"
         }
@@ -2255,37 +2255,37 @@
       "total_sub_items": 7,
       "sub_items": [
         {
-          "id": "373",
+          "id": 373,
           "title": "Indeks Kualitas Layanan Infrastruktur",
           "url": "https://dasatama.magetan.go.id/detail/373"
         },
         {
-          "id": "374",
+          "id": 374,
           "title": "Indeks Toleransi",
           "url": "https://dasatama.magetan.go.id/detail/374"
         },
         {
-          "id": "375",
+          "id": 375,
           "title": "Persentase Dokumen Perencanaan yang Disusun Tepat Waktu",
           "url": "https://dasatama.magetan.go.id/detail/375"
         },
         {
-          "id": "376",
+          "id": 376,
           "title": "Persentase Keselarasan Dokumen Perencanaan Pembangunan Daerah",
           "url": "https://dasatama.magetan.go.id/detail/376"
         },
         {
-          "id": "377",
+          "id": 377,
           "title": "Indeks Infrastruktur",
           "url": "https://dasatama.magetan.go.id/detail/377"
         },
         {
-          "id": "378",
+          "id": 378,
           "title": "Penurunan emisi GRK",
           "url": "https://dasatama.magetan.go.id/detail/378"
         },
         {
-          "id": "379",
+          "id": 379,
           "title": "Indeks Inovasi Daerah",
           "url": "https://dasatama.magetan.go.id/detail/379"
         }
@@ -2296,22 +2296,22 @@
       "total_sub_items": 4,
       "sub_items": [
         {
-          "id": "466",
+          "id": 466,
           "title": "Nilai Maturitas Penyelenggaraan SPIP",
           "url": "https://dasatama.magetan.go.id/detail/466"
         },
         {
-          "id": "467",
+          "id": 467,
           "title": "Level Kapabilitas APIP",
           "url": "https://dasatama.magetan.go.id/detail/467"
         },
         {
-          "id": "468",
+          "id": 468,
           "title": "Nilai Manajemen Risiko Indeks (MRI)",
           "url": "https://dasatama.magetan.go.id/detail/468"
         },
         {
-          "id": "469",
+          "id": 469,
           "title": "Persentase Tindaklanjut Rekomendasi BPK Tahun Anggaran N-1",
           "url": "https://dasatama.magetan.go.id/detail/469"
         }
@@ -2322,142 +2322,142 @@
       "total_sub_items": 28,
       "sub_items": [
         {
-          "id": "471",
+          "id": 471,
           "title": "Net Ekspor Barang Dan Jasa",
           "url": "https://dasatama.magetan.go.id/detail/471"
         },
         {
-          "id": "472",
+          "id": 472,
           "title": "Luas Kecamatan",
           "url": "https://dasatama.magetan.go.id/detail/472"
         },
         {
-          "id": "473",
+          "id": 473,
           "title": "Jumlah Desa dan Kelurahan",
           "url": "https://dasatama.magetan.go.id/detail/473"
         },
         {
-          "id": "474",
+          "id": 474,
           "title": "Jarak dari Ibukota Kabupaten ke Kecamatan",
           "url": "https://dasatama.magetan.go.id/detail/474"
         },
         {
-          "id": "475",
+          "id": 475,
           "title": "Ketinggian Wilayah Per Kecamatan",
           "url": "https://dasatama.magetan.go.id/detail/475"
         },
         {
-          "id": "476",
+          "id": 476,
           "title": "Jumlah Hari Hujan per Bulan",
           "url": "https://dasatama.magetan.go.id/detail/476"
         },
         {
-          "id": "477",
+          "id": 477,
           "title": "Curah Hujan Minimum",
           "url": "https://dasatama.magetan.go.id/detail/477"
         },
         {
-          "id": "478",
+          "id": 478,
           "title": "Curah Hujan Maksimum",
           "url": "https://dasatama.magetan.go.id/detail/478"
         },
         {
-          "id": "479",
+          "id": 479,
           "title": "Laju Pertumbuhan Ekonomi",
           "url": "https://dasatama.magetan.go.id/detail/479"
         },
         {
-          "id": "480",
+          "id": 480,
           "title": "Garis Kemiskinan",
           "url": "https://dasatama.magetan.go.id/detail/480"
         },
         {
-          "id": "481",
+          "id": 481,
           "title": "PDRB Per Kapita",
           "url": "https://dasatama.magetan.go.id/detail/481"
         },
         {
-          "id": "482",
+          "id": 482,
           "title": "Tingkat Pengangguran Terbuka",
           "url": "https://dasatama.magetan.go.id/detail/482"
         },
         {
-          "id": "483",
+          "id": 483,
           "title": "Indeks Gini",
           "url": "https://dasatama.magetan.go.id/detail/483"
         },
         {
-          "id": "484",
+          "id": 484,
           "title": "Indeks Pembangunan Manusia",
           "url": "https://dasatama.magetan.go.id/detail/484"
         },
         {
-          "id": "485",
+          "id": 485,
           "title": "Usia Harapan Hidup",
           "url": "https://dasatama.magetan.go.id/detail/485"
         },
         {
-          "id": "486",
+          "id": 486,
           "title": "Indeks Kebutuhan Dasar",
           "url": "https://dasatama.magetan.go.id/detail/486"
         },
         {
-          "id": "487",
+          "id": 487,
           "title": "Kontribusi PDRB Kabupaten/Kota terhadap Provinsi",
           "url": "https://dasatama.magetan.go.id/detail/487"
         },
         {
-          "id": "488",
+          "id": 488,
           "title": "Rasio PDRB Industri Pengolahan",
           "url": "https://dasatama.magetan.go.id/detail/488"
         },
         {
-          "id": "489",
+          "id": 489,
           "title": "Rasio PDRB Penyediaan Akomodasi Makan dan Minum",
           "url": "https://dasatama.magetan.go.id/detail/489"
         },
         {
-          "id": "490",
+          "id": 490,
           "title": "Rasio PDRB (ADHB) sektor Pertanian",
           "url": "https://dasatama.magetan.go.id/detail/490"
         },
         {
-          "id": "491",
+          "id": 491,
           "title": "Persentase Petumbuhan PDRB Sektor Perdagangan",
           "url": "https://dasatama.magetan.go.id/detail/491"
         },
         {
-          "id": "492",
+          "id": 492,
           "title": "Spending of money",
           "url": "https://dasatama.magetan.go.id/detail/492"
         },
         {
-          "id": "493",
+          "id": 493,
           "title": "Pertumbuhan PDRB Sektor Akomodasi Makan dan Minum",
           "url": "https://dasatama.magetan.go.id/detail/493"
         },
         {
-          "id": "494",
+          "id": 494,
           "title": "Pembentukan Modal Tetap Bruto",
           "url": "https://dasatama.magetan.go.id/detail/494"
         },
         {
-          "id": "495",
+          "id": 495,
           "title": "Tingkat Inflasi",
           "url": "https://dasatama.magetan.go.id/detail/495"
         },
         {
-          "id": "496",
+          "id": 496,
           "title": "Persentase Pertumbuhan PDRB Sektor Pertanian",
           "url": "https://dasatama.magetan.go.id/detail/496"
         },
         {
-          "id": "497",
+          "id": 497,
           "title": "Tingkat Kemiskinan",
           "url": "https://dasatama.magetan.go.id/detail/497"
         },
         {
-          "id": "498",
+          "id": 498,
           "title": "Persentase Pertumbuhan PDRB Sektor Industri Pengolahan",
           "url": "https://dasatama.magetan.go.id/detail/498"
         }

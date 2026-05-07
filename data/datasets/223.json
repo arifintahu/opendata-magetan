@@ -1,0 +1,210 @@
+{
+  "id": 223,
+  "title": "Luas Tanam Sayur Buah Semusim (Ha)",
+  "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan",
+  "opd_id": 27,
+  "category": "agriculture-food",
+  "url": "https://dasatama.magetan.go.id/detail/223",
+  "scraped_at": "2026-05-07T13:20:02",
+  "metadata": {
+    "concept": "Pertanian",
+    "classification": "Jenis Tanaman Semusim",
+    "measure": "Luas",
+    "unit": "Ha",
+    "period": "Tahunan",
+    "created_at": "2024-01-15 14:28:22",
+    "updated_at": "2026-03-13 10:27:39"
+  },
+  "total_data": 7,
+  "data": [
+    {
+      "name": "Bawang Daun",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 1740
+        },
+        {
+          "year": 2023,
+          "value": 1465
+        },
+        {
+          "year": 2024,
+          "value": 1175
+        },
+        {
+          "year": 2025,
+          "value": 1094
+        }
+      ]
+    },
+    {
+      "name": "Wortel",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 1154
+        },
+        {
+          "year": 2023,
+          "value": 1063
+        },
+        {
+          "year": 2024,
+          "value": 1006
+        },
+        {
+          "year": 2025,
+          "value": 728
+        }
+      ]
+    },
+    {
+      "name": "Petsai/Sawi",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 739
+        },
+        {
+          "year": 2023,
+          "value": 601
+        },
+        {
+          "year": 2024,
+          "value": 474
+        },
+        {
+          "year": 2025,
+          "value": 494
+        }
+      ]
+    },
+    {
+      "name": "Bawang Merah",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 654
+        },
+        {
+          "year": 2023,
+          "value": 411
+        },
+        {
+          "year": 2024,
+          "value": 414
+        },
+        {
+          "year": 2025,
+          "value": 490
+        }
+      ]
+    },
+    {
+      "name": "Kubis",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 619
+        },
+        {
+          "year": 2023,
+          "value": 595
+        },
+        {
+          "year": 2024,
+          "value": 463
+        },
+        {
+          "year": 2025,
+          "value": 443
+        }
+      ]
+    },
+    {
+      "name": "Cabai Keriting",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 599
+        },
+        {
+          "year": 2023,
+          "value": 510
+        },
+        {
+          "year": 2024,
+          "value": 562
+        },
+        {
+          "year": 2025,
+          "value": 558
+        }
+      ]
+    },
+    {
+      "name": "Tanaman Lain",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 2803
+        },
+        {
+          "year": 2023,
+          "value": 2838
+        },
+        {
+          "year": 2024,
+          "value": 3250
+        },
+        {
+          "year": 2025,
+          "value": 2813
+        }
+      ]
+    }
+  ]
+}

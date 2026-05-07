@@ -1,0 +1,193 @@
+{
+  "id": 278,
+  "title": "Data Jumlah Desa Berseri",
+  "item_title": "Dinas Lingkungan Hidup dan Pangan",
+  "opd_id": 16,
+  "category": "environment",
+  "url": "https://dasatama.magetan.go.id/detail/278",
+  "scraped_at": "2026-05-07T13:18:36",
+  "metadata": {
+    "concept": "Desa Berseri",
+    "classification": "Tingkatan",
+    "measure": "Jumlah",
+    "unit": "Desa",
+    "period": "Tahunan",
+    "created_at": "2024-03-27 07:45:00",
+    "updated_at": "2026-02-19 10:45:46"
+  },
+  "total_data": 4,
+  "data": [
+    {
+      "name": "Tingkat Kabupaten",
+      "type": "integer",
+      "years": {
+        "total": 8,
+        "min": 2018,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2018,
+          "value": 0
+        },
+        {
+          "year": 2019,
+          "value": 4
+        },
+        {
+          "year": 2020,
+          "value": 9
+        },
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 9
+        },
+        {
+          "year": 2023,
+          "value": 9
+        },
+        {
+          "year": 2024,
+          "value": 0
+        },
+        {
+          "year": 2025,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Tingkat Pratama",
+      "type": "integer",
+      "years": {
+        "total": 8,
+        "min": 2018,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2018,
+          "value": 4
+        },
+        {
+          "year": 2019,
+          "value": 6
+        },
+        {
+          "year": 2020,
+          "value": 6
+        },
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 8
+        },
+        {
+          "year": 2023,
+          "value": 8
+        },
+        {
+          "year": 2024,
+          "value": 2
+        },
+        {
+          "year": 2025,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "name": "TIngkat Madya",
+      "type": "integer",
+      "years": {
+        "total": 8,
+        "min": 2018,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2018,
+          "value": 0
+        },
+        {
+          "year": 2019,
+          "value": 1
+        },
+        {
+          "year": 2020,
+          "value": 1
+        },
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 2
+        },
+        {
+          "year": 2023,
+          "value": 3
+        },
+        {
+          "year": 2024,
+          "value": 1
+        },
+        {
+          "year": 2025,
+          "value": 5
+        }
+      ]
+    },
+    {
+      "name": "Tingkat Mandiri",
+      "type": "integer",
+      "years": {
+        "total": 8,
+        "min": 2018,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2018,
+          "value": 2
+        },
+        {
+          "year": 2019,
+          "value": 2
+        },
+        {
+          "year": 2020,
+          "value": 2
+        },
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 5
+        },
+        {
+          "year": 2023,
+          "value": 6
+        },
+        {
+          "year": 2024,
+          "value": 0
+        },
+        {
+          "year": 2025,
+          "value": 5
+        }
+      ]
+    }
+  ]
+}

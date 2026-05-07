@@ -1,0 +1,111 @@
+{
+  "id": 406,
+  "title": "Rehabilitasi Gelandangan dan Pengemis",
+  "item_title": "Dinas Sosial",
+  "opd_id": 9,
+  "category": "social-labor",
+  "url": "https://dasatama.magetan.go.id/detail/406",
+  "scraped_at": "2026-05-07T13:18:02",
+  "metadata": {
+    "concept": "Rehabilitasi Tuna Sosial",
+    "classification": "Jenis Tuna Sosial",
+    "measure": "Jumlah; Persentase",
+    "unit": "Orang; Persen",
+    "period": "Tahunan",
+    "created_at": "2025-05-08 11:27:30",
+    "updated_at": ""
+  },
+  "total_data": 6,
+  "data": [
+    {
+      "name": "Jumlah Gelandangan",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 21
+        }
+      ]
+    },
+    {
+      "name": "Gelandangan Direhabilitasi",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 21
+        }
+      ]
+    },
+    {
+      "name": "Gelandangan Direhabilitasi (%)",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 100
+        }
+      ]
+    },
+    {
+      "name": "Jumlah Pengemis",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 5
+        }
+      ]
+    },
+    {
+      "name": "Pengemis Direhabilitasi",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 5
+        }
+      ]
+    },
+    {
+      "name": "Pengemis Direhabilitasi (%)",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 100
+        }
+      ]
+    }
+  ]
+}

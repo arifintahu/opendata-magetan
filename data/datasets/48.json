@@ -1,0 +1,113 @@
+{
+  "id": 48,
+  "title": "Populasi Ternak Kecil",
+  "item_title": "Dinas Peternakan dan Perikanan",
+  "opd_id": 11,
+  "category": "livestock-fisheries",
+  "url": "https://dasatama.magetan.go.id/detail/48",
+  "scraped_at": "2026-05-07T13:18:06",
+  "metadata": {
+    "concept": "Ternak Kecil",
+    "classification": "Jenis Ternak Kecil",
+    "measure": "Jumlah",
+    "unit": "Ekor",
+    "period": "Tahunan",
+    "created_at": "2023-08-15 08:37:05",
+    "updated_at": ""
+  },
+  "total_data": 4,
+  "data": [
+    {
+      "name": "Kambing",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 44272
+        },
+        {
+          "year": 2023,
+          "value": 53995
+        },
+        {
+          "year": 2024,
+          "value": 55396
+        }
+      ]
+    },
+    {
+      "name": "Kambing Perah",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "454"
+        },
+        {
+          "year": 2023,
+          "value": "713"
+        },
+        {
+          "year": 2024,
+          "value": "-"
+        }
+      ]
+    },
+    {
+      "name": "Domba",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 36689
+        },
+        {
+          "year": 2023,
+          "value": 40134
+        },
+        {
+          "year": 2024,
+          "value": 40529
+        }
+      ]
+    },
+    {
+      "name": "Babi",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 5714
+        },
+        {
+          "year": 2023,
+          "value": 6500
+        },
+        {
+          "year": 2024,
+          "value": 8500
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": 407,
+  "title": "Data dan Produsen Data",
+  "item_title": "Dinas Komunikasi dan Informatika",
+  "opd_id": 22,
+  "category": "governance",
+  "url": "https://dasatama.magetan.go.id/detail/407",
+  "scraped_at": "2026-05-07T13:19:26",
+  "metadata": {
+    "concept": "Data; Perangkat Daerah",
+    "classification": "",
+    "measure": "Jumlah",
+    "unit": "Data ; Perangkat Daerah",
+    "period": "Tahunan",
+    "created_at": "2025-05-16 08:48:45",
+    "updated_at": "2025-10-22 15:26:35"
+  },
+  "total_data": 2,
+  "data": [
+    {
+      "name": "OPD Produsen Data",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 22
+        },
+        {
+          "year": 2022,
+          "value": 27
+        },
+        {
+          "year": 2023,
+          "value": 27
+        },
+        {
+          "year": 2024,
+          "value": 30
+        }
+      ]
+    },
+    {
+      "name": "Jumlah Data Sektoral",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 230
+        },
+        {
+          "year": 2022,
+          "value": 350
+        },
+        {
+          "year": 2023,
+          "value": 347
+        },
+        {
+          "year": 2024,
+          "value": 400
+        }
+      ]
+    }
+  ]
+}

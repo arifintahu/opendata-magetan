@@ -1,0 +1,52 @@
+{
+  "id": 500,
+  "title": "Persentase Perangkat Daerah (PD) dan/atau unit pelaksana teknis daerah yang terhubung dengan akses internet yang disediakan oleh Dinas Kominfo",
+  "item_title": "Dinas Komunikasi dan Informatika",
+  "opd_id": 22,
+  "category": "governance",
+  "url": "https://dasatama.magetan.go.id/detail/500",
+  "scraped_at": "2026-05-07T13:19:28",
+  "metadata": {
+    "concept": "Internet",
+    "classification": "",
+    "measure": "Persentase",
+    "unit": "Persen",
+    "period": "Tahunan",
+    "created_at": "2026-03-10 10:09:35",
+    "updated_at": "2026-03-10 10:10:47"
+  },
+  "total_data": 1,
+  "data": [
+    {
+      "name": "% OPD/ UPTD yang terhubung jaringan Diskominfo",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2020,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 30
+        },
+        {
+          "year": 2021,
+          "value": 50
+        },
+        {
+          "year": 2022,
+          "value": 65
+        },
+        {
+          "year": 2023,
+          "value": 80
+        },
+        {
+          "year": 2024,
+          "value": 90
+        }
+      ]
+    }
+  ]
+}

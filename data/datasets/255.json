@@ -1,0 +1,102 @@
+{
+  "id": 255,
+  "title": "Data Luas Tanam Padi per Musim Tanam (Ha)",
+  "item_title": "Dinas Pekerjaan Umum dan Penataan Ruang",
+  "opd_id": 20,
+  "category": "agriculture-food",
+  "url": "https://dasatama.magetan.go.id/detail/255",
+  "scraped_at": "2026-05-07T13:19:09",
+  "metadata": {
+    "concept": "Luas tanam",
+    "classification": "Musim Tanam",
+    "measure": "Luas",
+    "unit": "Ha",
+    "period": "Tahuan",
+    "created_at": "2024-02-27 07:53:14",
+    "updated_at": "2026-02-05 14:02:24"
+  },
+  "total_data": 3,
+  "data": [
+    {
+      "name": "Musim Tanam 1",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 11326
+        },
+        {
+          "year": 2023,
+          "value": 11139
+        },
+        {
+          "year": 2024,
+          "value": 11139
+        },
+        {
+          "year": 2025,
+          "value": 11127
+        }
+      ]
+    },
+    {
+      "name": "Musim Tanam 2",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 9936
+        },
+        {
+          "year": 2023,
+          "value": 9898
+        },
+        {
+          "year": 2024,
+          "value": 9898
+        },
+        {
+          "year": 2025,
+          "value": 9440
+        }
+      ]
+    },
+    {
+      "name": "Musim Tanam 3",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 2793
+        },
+        {
+          "year": 2023,
+          "value": 2728
+        },
+        {
+          "year": 2024,
+          "value": 2728
+        },
+        {
+          "year": 2025,
+          "value": 3896
+        }
+      ]
+    }
+  ]
+}

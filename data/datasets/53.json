@@ -1,0 +1,129 @@
+{
+  "id": 53,
+  "title": "Jumlah Kelompok Kegiatan Bina Keluarga dan PIK-R di Kabupaten Magetan",
+  "item_title": "Dinas Pengendalian Penduduk, Keluarga Berencana, Pemberdayaan Perempuan, dan Perlindungan Anak",
+  "opd_id": 21,
+  "category": "health",
+  "url": "https://dasatama.magetan.go.id/detail/53",
+  "scraped_at": "2026-05-07T13:19:14",
+  "metadata": {
+    "concept": "Kelompok kegiatan masyarakat dalam program Bangga Kencana yang melaksanakan pembinaan keluarga dan remaja melalui edukasi, penyuluhan, dan pendampingan.",
+    "classification": "Jenis kelompok kegiatan: Bina Keluarga Balita (BKB), Bina Keluarga Remaja (BKR), Bina Keluarga Lansia (BKL), dan Pusat Informasi dan Konseling Remaja (PIK-R).",
+    "measure": "Jumlah",
+    "unit": "Kelompok",
+    "period": "Tahunan",
+    "created_at": "2023-08-15 10:27:20",
+    "updated_at": ""
+  },
+  "total_data": 4,
+  "data": [
+    {
+      "name": "Bina Keluarga Balita (BKB)",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 563
+        },
+        {
+          "year": 2022,
+          "value": 593
+        },
+        {
+          "year": 2023,
+          "value": 600
+        },
+        {
+          "year": 2024,
+          "value": 600
+        }
+      ]
+    },
+    {
+      "name": "Bina Keluarga Remaja (BKR)",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 228
+        },
+        {
+          "year": 2022,
+          "value": 231
+        },
+        {
+          "year": 2023,
+          "value": 234
+        },
+        {
+          "year": 2024,
+          "value": 239
+        }
+      ]
+    },
+    {
+      "name": "Bina Keluarga Lansia (BKL)",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 229
+        },
+        {
+          "year": 2022,
+          "value": 238
+        },
+        {
+          "year": 2023,
+          "value": 240
+        },
+        {
+          "year": 2024,
+          "value": 246
+        }
+      ]
+    },
+    {
+      "name": "Data Pusat Informasi Komseling Remaja PIK-R)",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 155
+        },
+        {
+          "year": 2022,
+          "value": 184
+        },
+        {
+          "year": 2023,
+          "value": 189
+        },
+        {
+          "year": 2024,
+          "value": 197
+        }
+      ]
+    }
+  ]
+}

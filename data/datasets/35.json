@@ -1,0 +1,297 @@
+{
+  "id": 35,
+  "title": "PENYALURAN KREDIT USAHA RAKYAT MENURUT SEKTOR",
+  "item_title": "Bagian Perekonomian dan SDA",
+  "opd_id": 23,
+  "category": "commodity-prices",
+  "url": "https://dasatama.magetan.go.id/detail/35",
+  "scraped_at": "2026-05-07T13:19:31",
+  "metadata": {
+    "concept": "Kredit Usaha Rakyat",
+    "classification": "Jenis Sektor usaha",
+    "measure": "Jumlah",
+    "unit": "Rupiah",
+    "period": "Tahunan",
+    "created_at": "2023-08-14 11:31:40",
+    "updated_at": "2025-05-28 10:16:02"
+  },
+  "total_data": 12,
+  "data": [
+    {
+      "name": "Pertanian, Perburuan, dan Kehutanan",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 660397600000
+        },
+        {
+          "year": 2023,
+          "value": 430548700000
+        },
+        {
+          "year": 2024,
+          "value": 476878800001
+        }
+      ]
+    },
+    {
+      "name": "Perikanan",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 3594473500
+        },
+        {
+          "year": 2023,
+          "value": 2996120000
+        },
+        {
+          "year": 2024,
+          "value": 3111000000
+        }
+      ]
+    },
+    {
+      "name": "Pertambangan dan Penggalian",
+      "type": "string",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": "-"
+        },
+        {
+          "year": 2023,
+          "value": "-"
+        },
+        {
+          "year": 2024,
+          "value": "150000000"
+        }
+      ]
+    },
+    {
+      "name": "Industri Pengolahan",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 124354500000
+        },
+        {
+          "year": 2023,
+          "value": 69846000000
+        },
+        {
+          "year": 2024,
+          "value": 80217000000
+        }
+      ]
+    },
+    {
+      "name": "Kontruksi",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 1649700000
+        },
+        {
+          "year": 2023,
+          "value": 1169000000
+        },
+        {
+          "year": 2024,
+          "value": 235000000
+        }
+      ]
+    },
+    {
+      "name": "Perdagangan Besar dan Eceran",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 691350437271
+        },
+        {
+          "year": 2023,
+          "value": 470519426630
+        },
+        {
+          "year": 2024,
+          "value": 547915041402
+        }
+      ]
+    },
+    {
+      "name": "Penyedian Akomodasi dan Makan Minum",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 48605000000
+        },
+        {
+          "year": 2023,
+          "value": 25726500000
+        },
+        {
+          "year": 2024,
+          "value": 30277500000
+        }
+      ]
+    },
+    {
+      "name": "Transportasi, Pergudangan, dan Komunikasi",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 10510800000
+        },
+        {
+          "year": 2023,
+          "value": 9158000000
+        },
+        {
+          "year": 2024,
+          "value": 7531500000
+        }
+      ]
+    },
+    {
+      "name": "Real Estate, Usaha Persewaan dan Jasa Perusahaaan",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 7291000000
+        },
+        {
+          "year": 2023,
+          "value": 5150000000
+        },
+        {
+          "year": 2024,
+          "value": 5651000000
+        }
+      ]
+    },
+    {
+      "name": "Jasa Pendidikan",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 782900000
+        },
+        {
+          "year": 2023,
+          "value": 1538500000
+        },
+        {
+          "year": 2024,
+          "value": 932000000
+        }
+      ]
+    },
+    {
+      "name": "Jasa Kesehatan dan Kegiatan Sosial",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 2704600000
+        },
+        {
+          "year": 2023,
+          "value": 1043000000
+        },
+        {
+          "year": 2024,
+          "value": 2460000000
+        }
+      ]
+    },
+    {
+      "name": "Jasa Kemasyarakatan, Sosial Budaya, Huburan dan Perorangan Lainnya",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 85379600000
+        },
+        {
+          "year": 2023,
+          "value": 55687200000
+        },
+        {
+          "year": 2024,
+          "value": 59365050000
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": 216,
+  "title": "Penanganan Kejadian",
+  "item_title": "Satuan Polisi Pamong Praja dan Pemadam Kebakaran",
+  "opd_id": 26,
+  "category": "disaster-security",
+  "url": "https://dasatama.magetan.go.id/detail/216",
+  "scraped_at": "2026-05-07T13:19:55",
+  "metadata": {
+    "concept": "Penanganan Kebakaran",
+    "classification": "Jenis Kejadian",
+    "measure": "Jumlah",
+    "unit": "Kejadian",
+    "period": "Tahunan",
+    "created_at": "2024-01-15 12:18:30",
+    "updated_at": "2026-03-05 08:40:26"
+  },
+  "total_data": 2,
+  "data": [
+    {
+      "name": "Kebakaran",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 24
+        },
+        {
+          "year": 2023,
+          "value": 226
+        },
+        {
+          "year": 2024,
+          "value": 129
+        },
+        {
+          "year": 2025,
+          "value": 60
+        }
+      ]
+    },
+    {
+      "name": "Non Kebakaran",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 24
+        },
+        {
+          "year": 2023,
+          "value": 64
+        },
+        {
+          "year": 2024,
+          "value": 180
+        },
+        {
+          "year": 2025,
+          "value": 412
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "id": 385,
+  "title": "Rata-Rata Lama Proses Perizinan",
+  "item_title": "Dinas Penanaman Modal dan Pelayanan Satu Pintu",
+  "opd_id": 18,
+  "category": "investment-sme",
+  "url": "https://dasatama.magetan.go.id/detail/385",
+  "scraped_at": "2026-05-07T13:19:00",
+  "metadata": {
+    "concept": "Perizinan",
+    "classification": "Jenis Perizinan",
+    "measure": "Rata-rata",
+    "unit": "Hari; Jam",
+    "period": "Tahunan",
+    "created_at": "2025-03-14 11:04:33",
+    "updated_at": ""
+  },
+  "total_data": 15,
+  "data": [
+    {
+      "name": "NIB (Hari)",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 8
+        }
+      ]
+    },
+    {
+      "name": "Pelayanan Perizinan Berusaha Risiko (Jam)",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Pendaftaran Hak Akses OSS (Jam)",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Penerbitan Sertifikat (Hari)",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 5
+        }
+      ]
+    },
+    {
+      "name": "Perizinan Bidang Kesehatan (Hari)",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 7
+        }
+      ]
+    },
+    {
+      "name": "Perizinan Bidang Ketenagakerjaan (Hari)",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 5
+        }
+      ]
+    },
+    {
+      "name": "Perizinan Bidang Lingkungan (Hari)",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 5
+        }
+      ]
+    },
+    {
+      "name": "Perizinan Bidang Pariwisata (Hari)",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 5
+        }
+      ]
+    },
+    {
+      "name": "Perizinan Bidang Pembangunan/ Kontruksi (Hari)",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 7
+        }
+      ]
+    },
+    {
+      "name": "Perizinan Bidang Pendidikan (Hari)",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 5
+        }
+      ]
+    },
+    {
+      "name": "Perizinan Bidang Perekonomian (Hari)",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 5
+        }
+      ]
+    },
+    {
+      "name": "Perizinan Bidang Perhubungan/Transportasi (Hari)",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 5
+        }
+      ]
+    },
+    {
+      "name": "Perizinan Bidang Perumahan/Pemukiman (Hari)",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 6
+        }
+      ]
+    },
+    {
+      "name": "Perizinan Bidang Peternakan/Pertanian (Hari)",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 5
+        }
+      ]
+    },
+    {
+      "name": "Perizinan Lokasi/Ruang (Hari)",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 5
+        }
+      ]
+    }
+  ]
+}

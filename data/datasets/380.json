@@ -1,0 +1,102 @@
+{
+  "id": 380,
+  "title": "Persentase Laporan Peristiwa Kebakaran yang Ditindaklanjuti dalam Kurun Waktu 15 Menit (SPM)",
+  "item_title": "Satuan Polisi Pamong Praja dan Pemadam Kebakaran",
+  "opd_id": 26,
+  "category": "disaster-security",
+  "url": "https://dasatama.magetan.go.id/detail/380",
+  "scraped_at": "2026-05-07T13:19:56",
+  "metadata": {
+    "concept": "Kebakaran",
+    "classification": "",
+    "measure": "Persentase",
+    "unit": "Persen",
+    "period": "Tahunan",
+    "created_at": "2025-03-11 13:27:13",
+    "updated_at": "2026-03-05 09:07:26"
+  },
+  "total_data": 3,
+  "data": [
+    {
+      "name": "Jumlah Laporan Kejadian Kebakaran dalam 1 tahun",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 24
+        },
+        {
+          "year": 2023,
+          "value": 266
+        },
+        {
+          "year": 2024,
+          "value": 129
+        },
+        {
+          "year": 2025,
+          "value": 65
+        }
+      ]
+    },
+    {
+      "name": "Laporan Peristiwa Kebakaran yang Ditindaklanjuti dalam Kurun Waktu 15 Menit",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 17
+        },
+        {
+          "year": 2023,
+          "value": 188
+        },
+        {
+          "year": 2024,
+          "value": 104
+        },
+        {
+          "year": 2025,
+          "value": 56
+        }
+      ]
+    },
+    {
+      "name": "%",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 71
+        },
+        {
+          "year": 2023,
+          "value": 83
+        },
+        {
+          "year": 2024,
+          "value": 81
+        },
+        {
+          "year": 2025,
+          "value": 86
+        }
+      ]
+    }
+  ]
+}

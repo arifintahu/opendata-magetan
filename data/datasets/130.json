@@ -1,0 +1,36 @@
+{
+  "id": 130,
+  "title": "UMKM ber-PIRT",
+  "item_title": "Dinas Koperasi dan Usaha Mikro",
+  "opd_id": 8,
+  "category": "investment-sme",
+  "url": "https://dasatama.magetan.go.id/detail/130",
+  "scraped_at": "2026-05-07T13:17:42",
+  "metadata": {
+    "concept": "UMKM",
+    "classification": "",
+    "measure": "Jumlah",
+    "unit": "UMKM",
+    "period": "Tahunan",
+    "created_at": "2023-12-20 08:10:55",
+    "updated_at": ""
+  },
+  "total_data": 1,
+  "data": [
+    {
+      "name": "UMKM ber-PIRT",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2022,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 403
+        }
+      ]
+    }
+  ]
+}

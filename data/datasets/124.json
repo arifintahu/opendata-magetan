@@ -1,0 +1,90 @@
+{
+  "id": 124,
+  "title": "TFU dengan Pengawasan IKL (%)",
+  "item_title": "Dinas Kesehatan",
+  "opd_id": 7,
+  "category": "health",
+  "url": "https://dasatama.magetan.go.id/detail/124",
+  "scraped_at": "2026-05-07T13:17:29",
+  "metadata": {
+    "concept": "Tempat Fasilitas Umum (TFU)",
+    "classification": "Jenis fasilitas umum",
+    "measure": "Persentase",
+    "unit": "Persen",
+    "period": "Tahunan",
+    "created_at": "2023-12-19 15:15:08",
+    "updated_at": ""
+  },
+  "total_data": 3,
+  "data": [
+    {
+      "name": "Sekolah",
+      "type": "number",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 98.0
+        },
+        {
+          "year": 2023,
+          "value": 98.0
+        },
+        {
+          "year": 2024,
+          "value": 98.658
+        }
+      ]
+    },
+    {
+      "name": "Puskesmas",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 100
+        },
+        {
+          "year": 2023,
+          "value": 100
+        },
+        {
+          "year": 2024,
+          "value": 100
+        }
+      ]
+    },
+    {
+      "name": "Pasar",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 93
+        },
+        {
+          "year": 2023,
+          "value": 96
+        },
+        {
+          "year": 2024,
+          "value": 100
+        }
+      ]
+    }
+  ]
+}

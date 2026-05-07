@@ -1,0 +1,344 @@
+{
+  "id": 322,
+  "title": "Jumlah Pelaku Usaha Ekonomi Kreatif berbasis NIB Sesuai Tahun Terbit",
+  "item_title": "Dinas Pariwisata dan Kebudayaan",
+  "opd_id": 13,
+  "category": "tourism-culture",
+  "url": "https://dasatama.magetan.go.id/detail/322",
+  "scraped_at": "2026-05-07T13:18:17",
+  "metadata": {
+    "concept": "Ekonomi Kreatif",
+    "classification": "Jenis Sektor Ekraf",
+    "measure": "Jumlah",
+    "unit": "Orang",
+    "period": "Tahunan",
+    "created_at": "2024-07-24 17:06:46",
+    "updated_at": ""
+  },
+  "total_data": 17,
+  "data": [
+    {
+      "name": "SUB SEKTOR PENGEMBANG PERMAINAN",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2023,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 26
+        },
+        {
+          "year": 2024,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "SUB SEKTOR KRIYA",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2023,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 1
+        },
+        {
+          "year": 2024,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "SUB SEKTOR DESAIN INTERIOR",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2023,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "SUB SEKTOR MUSIK",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2023,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 2
+        },
+        {
+          "year": 2024,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "SUB SEKTOR SENI RUPA",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2023,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 1
+        },
+        {
+          "year": 2024,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "SUB SEKTOR DESAIN PRODUK",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2023,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 2
+        },
+        {
+          "year": 2024,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "SUB SEKTOR FASHION",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2023,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 1
+        },
+        {
+          "year": 2024,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "SUB SEKTOR KULINER",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2023,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 1
+        },
+        {
+          "year": 2024,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "SUB SEKTOR FILM, ANIMASI, DAN VIDEO",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2023,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "SUB SEKTOR FOTOGRAFI",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2023,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 3
+        },
+        {
+          "year": 2024,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "SUB SEKTOR DESAIN KOMUNIKASI VISUAL",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2023,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 674
+        },
+        {
+          "year": 2024,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "SUB SEKTOR TELEVISI DAN RADIO",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2023,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 102
+        },
+        {
+          "year": 2024,
+          "value": 101
+        }
+      ]
+    },
+    {
+      "name": "SUB SEKTOR ARSITEKTUR",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2023,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "SUB SEKTOR PERIKLANAN",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2023,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 1
+        },
+        {
+          "year": 2024,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "SUB SEKTOR SENI PERTUNJUKKAN",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2023,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 69
+        },
+        {
+          "year": 2024,
+          "value": 27
+        }
+      ]
+    },
+    {
+      "name": "SUB SEKTOR PENERBITAN",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2023,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 2
+        },
+        {
+          "year": 2024,
+          "value": 2
+        }
+      ]
+    },
+    {
+      "name": "SUB SEKTOR APLIKASI",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2023,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 258
+        },
+        {
+          "year": 2024,
+          "value": 257
+        }
+      ]
+    }
+  ]
+}

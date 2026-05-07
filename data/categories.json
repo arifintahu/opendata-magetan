@@ -7,77 +7,77 @@
       "total_category_sub_items": 15,
       "sub_items": [
         {
-          "id": "34",
+          "id": 34,
           "title": "PENYALURAN KREDIT USAHA RAKYAT MENURUT SKEMA DAN PENYALUR",
           "item_title": "Bagian Perekonomian dan SDA"
         },
         {
-          "id": "35",
+          "id": 35,
           "title": "PENYALURAN KREDIT USAHA RAKYAT MENURUT SEKTOR",
           "item_title": "Bagian Perekonomian dan SDA"
         },
         {
-          "id": "204",
+          "id": 204,
           "title": "Harga Beras per Bulan",
           "item_title": "Bagian Perekonomian dan SDA"
         },
         {
-          "id": "205",
+          "id": 205,
           "title": "Harga Minyak per Bulan",
           "item_title": "Bagian Perekonomian dan SDA"
         },
         {
-          "id": "206",
+          "id": 206,
           "title": "Harga Daging Ayam Ras per Bulan",
           "item_title": "Bagian Perekonomian dan SDA"
         },
         {
-          "id": "207",
+          "id": 207,
           "title": "Harga Telur per Bulan",
           "item_title": "Bagian Perekonomian dan SDA"
         },
         {
-          "id": "208",
+          "id": 208,
           "title": "Harga Gula Pasir per Bulan",
           "item_title": "Bagian Perekonomian dan SDA"
         },
         {
-          "id": "410",
+          "id": 410,
           "title": "Harga Daging Sapi per Bulan",
           "item_title": "Bagian Perekonomian dan SDA"
         },
         {
-          "id": "411",
+          "id": 411,
           "title": "Harga Jagung Pipil per Bulan",
           "item_title": "Bagian Perekonomian dan SDA"
         },
         {
-          "id": "412",
+          "id": 412,
           "title": "Harga Kedelai per Bulan",
           "item_title": "Bagian Perekonomian dan SDA"
         },
         {
-          "id": "413",
+          "id": 413,
           "title": "Harga Cabe Merah Keriting per Bulan",
           "item_title": "Bagian Perekonomian dan SDA"
         },
         {
-          "id": "414",
+          "id": 414,
           "title": "Harga Cabe Rawit per Bulan",
           "item_title": "Bagian Perekonomian dan SDA"
         },
         {
-          "id": "415",
+          "id": 415,
           "title": "Harga Bawang Merah per Bulan",
           "item_title": "Bagian Perekonomian dan SDA"
         },
         {
-          "id": "416",
+          "id": 416,
           "title": "Harga Bawang Putih per Bulan",
           "item_title": "Bagian Perekonomian dan SDA"
         },
         {
-          "id": "418",
+          "id": 418,
           "title": "Harga Cabai Merah Besar",
           "item_title": "Bagian Perekonomian dan SDA"
         }
@@ -89,72 +89,72 @@
       "total_category_sub_items": 14,
       "sub_items": [
         {
-          "id": "47",
+          "id": 47,
           "title": "Populasi Ternak Besar",
           "item_title": "Dinas Peternakan dan Perikanan"
         },
         {
-          "id": "48",
+          "id": 48,
           "title": "Populasi Ternak Kecil",
           "item_title": "Dinas Peternakan dan Perikanan"
         },
         {
-          "id": "154",
+          "id": 154,
           "title": "Ternak Unggas dan Kelinci",
           "item_title": "Dinas Peternakan dan Perikanan"
         },
         {
-          "id": "155",
+          "id": 155,
           "title": "Produksi Daging Ternak",
           "item_title": "Dinas Peternakan dan Perikanan"
         },
         {
-          "id": "156",
+          "id": 156,
           "title": "Produksi Daging Unggas",
           "item_title": "Dinas Peternakan dan Perikanan"
         },
         {
-          "id": "157",
+          "id": 157,
           "title": "Produksi Telur",
           "item_title": "Dinas Peternakan dan Perikanan"
         },
         {
-          "id": "158",
+          "id": 158,
           "title": "Produksi Susu",
           "item_title": "Dinas Peternakan dan Perikanan"
         },
         {
-          "id": "159",
+          "id": 159,
           "title": "Inseminasi Buatan",
           "item_title": "Dinas Peternakan dan Perikanan"
         },
         {
-          "id": "160",
+          "id": 160,
           "title": "Ternak Terpotong di RPH",
           "item_title": "Dinas Peternakan dan Perikanan"
         },
         {
-          "id": "161",
+          "id": 161,
           "title": "Pengiriman Ternak Keluar Magetan",
           "item_title": "Dinas Peternakan dan Perikanan"
         },
         {
-          "id": "162",
+          "id": 162,
           "title": "Luas Kolam",
           "item_title": "Dinas Peternakan dan Perikanan"
         },
         {
-          "id": "163",
+          "id": 163,
           "title": "Jumlah Pembudidaya Kolam",
           "item_title": "Dinas Peternakan dan Perikanan"
         },
         {
-          "id": "164",
+          "id": 164,
           "title": "Produksi Ikan - Hasil Dari",
           "item_title": "Dinas Peternakan dan Perikanan"
         },
         {
-          "id": "165",
+          "id": 165,
           "title": "Produksi Ikan - Jenis Ikan",
           "item_title": "Dinas Peternakan dan Perikanan"
         }
@@ -166,192 +166,192 @@
       "total_category_sub_items": 38,
       "sub_items": [
         {
-          "id": "381",
+          "id": 381,
           "title": "Indeks Ketahanan Pangan",
           "item_title": "Dinas Lingkungan Hidup dan Pangan"
         },
         {
-          "id": "382",
+          "id": 382,
           "title": "Skor Pola Pangan Harapan",
           "item_title": "Dinas Lingkungan Hidup dan Pangan"
         },
         {
-          "id": "255",
+          "id": 255,
           "title": "Data Luas Tanam Padi per Musim Tanam (Ha)",
           "item_title": "Dinas Pekerjaan Umum dan Penataan Ruang"
         },
         {
-          "id": "283",
+          "id": 283,
           "title": "Data Luas Tanam Polowijo per Musim Tanam (Ha)",
           "item_title": "Dinas Pekerjaan Umum dan Penataan Ruang"
         },
         {
-          "id": "284",
+          "id": 284,
           "title": "Data Luas Tanam Tebu per Musim Tanam (Ha)",
           "item_title": "Dinas Pekerjaan Umum dan Penataan Ruang"
         },
         {
-          "id": "19",
+          "id": 19,
           "title": "Luas Tanam Palawija  (Ha)",
           "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan"
         },
         {
-          "id": "20",
+          "id": 20,
           "title": "Hasil Produksi Palawija (Kw)",
           "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan"
         },
         {
-          "id": "218",
+          "id": 218,
           "title": "Luas Tanam Padi per Kecamatan",
           "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan"
         },
         {
-          "id": "219",
+          "id": 219,
           "title": "Luas Tanam Jagung per Kecamatan",
           "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan"
         },
         {
-          "id": "220",
+          "id": 220,
           "title": "Luas Tanam Kacang Tanah per Kecamatan",
           "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan"
         },
         {
-          "id": "221",
+          "id": 221,
           "title": "Luas Tanam Ubi Kayu per Kecamatan",
           "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan"
         },
         {
-          "id": "222",
+          "id": 222,
           "title": "Luas Tanam Ubi Jalar per Kecamatan",
           "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan"
         },
         {
-          "id": "223",
+          "id": 223,
           "title": "Luas Tanam Sayur Buah Semusim (Ha)",
           "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan"
         },
         {
-          "id": "224",
+          "id": 224,
           "title": "Hasil Produksi Sayur Buah Semusim (Kw)",
           "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan"
         },
         {
-          "id": "225",
+          "id": 225,
           "title": "Hasil Produksi Buah Sayur Tahunan (Kw)",
           "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan"
         },
         {
-          "id": "226",
+          "id": 226,
           "title": "Jumlah Tanaman Buah Sayur Tahunan  (Pohon)",
           "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan"
         },
         {
-          "id": "227",
+          "id": 227,
           "title": "Hasil Produksi Tanaman Biofarmaka (Kg)",
           "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan"
         },
         {
-          "id": "228",
+          "id": 228,
           "title": "Hasil Produksi Perkebunan Semusim (Kw)",
           "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan"
         },
         {
-          "id": "229",
+          "id": 229,
           "title": "Hasil Produksi Perkebunan Tahunan (Kw)",
           "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan"
         },
         {
-          "id": "230",
+          "id": 230,
           "title": "Baku Lahan (Ha)",
           "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan"
         },
         {
-          "id": "231",
+          "id": 231,
           "title": "Penyuluh Pertanian (Orang/Kec)",
           "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan"
         },
         {
-          "id": "232",
+          "id": 232,
           "title": "Lembaga Petani",
           "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan"
         },
         {
-          "id": "233",
+          "id": 233,
           "title": "Penyaluran Pupuk Bersubsidi (Ton)",
           "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan"
         },
         {
-          "id": "506",
+          "id": 506,
           "title": "Luas Panen Palawija (Ha)",
           "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan"
         },
         {
-          "id": "507",
+          "id": 507,
           "title": "Luas Panen Padi per Kecamatan",
           "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan"
         },
         {
-          "id": "508",
+          "id": 508,
           "title": "Luas Panen Jagung per Kecamatan",
           "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan"
         },
         {
-          "id": "509",
+          "id": 509,
           "title": "Luas Panen Kacang Tanah per Kecamatan",
           "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan"
         },
         {
-          "id": "510",
+          "id": 510,
           "title": "Luas Panen Ubi Kayu per Kecamatan",
           "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan"
         },
         {
-          "id": "511",
+          "id": 511,
           "title": "Luas Panen Ubi Jalar per Kecamatan",
           "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan"
         },
         {
-          "id": "512",
+          "id": 512,
           "title": "Luas Panen Sayur Buah Semusim",
           "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan"
         },
         {
-          "id": "513",
+          "id": 513,
           "title": "Luas Tanam Biofarmaka",
           "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan"
         },
         {
-          "id": "514",
+          "id": 514,
           "title": "Luas Panen Biofarmaka",
           "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan"
         },
         {
-          "id": "515",
+          "id": 515,
           "title": "Luas Tanam Perkebunan Semusim",
           "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan"
         },
         {
-          "id": "516",
+          "id": 516,
           "title": "Luas Panen Perkebunan Semusim",
           "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan"
         },
         {
-          "id": "517",
+          "id": 517,
           "title": "Peningkatan produksi tanaman pangan",
           "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan"
         },
         {
-          "id": "518",
+          "id": 518,
           "title": "Peningkatan Produksi Hortikultura",
           "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan"
         },
         {
-          "id": "519",
+          "id": 519,
           "title": "Peningkatan Produksi Komoditas Perkebunan",
           "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan"
         },
         {
-          "id": "520",
+          "id": 520,
           "title": "Luas areal pengendalian dan penanggulangan bencana DPI",
           "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan"
         }
@@ -363,307 +363,307 @@
       "total_category_sub_items": 61,
       "sub_items": [
         {
-          "id": "9",
+          "id": 9,
           "title": "Jumlah Bayi Lahir BBLR",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "10",
+          "id": 10,
           "title": "Jumlah Desa/Kelurahan (Stop BABS)",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "105",
+          "id": 105,
           "title": "Kunjungan Pasien di Puskesmas",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "106",
+          "id": 106,
           "title": "Kelengkapan Sarana, Prasarana, dan Alkes di Puskesmas (%)",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "107",
+          "id": 107,
           "title": "Rumah Sakit",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "108",
+          "id": 108,
           "title": "Fasilitas Kesehatan",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "109",
+          "id": 109,
           "title": "Imunisasi Bayi (%)",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "110",
+          "id": 110,
           "title": "Imunisasi Anak SD (%)",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "111",
+          "id": 111,
           "title": "Imunisasi Komulatif TT WUS dan Bumil (%)",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "112",
+          "id": 112,
           "title": "Surveylans Kasus PD3I",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "113",
+          "id": 113,
           "title": "Data Kasus Medis",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "114",
+          "id": 114,
           "title": "Pemberian ASI pada Bayi (%)",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "115",
+          "id": 115,
           "title": "Pemberian Vit A pada Bayi (%)",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "116",
+          "id": 116,
           "title": "Peserta KB Aktif",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "117",
+          "id": 117,
           "title": "Pelayanan Kesehatan Ibu Hamil (%)",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "118",
+          "id": 118,
           "title": "Pelayanan Kesehatan Ibu Bersalin (%)",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "119",
+          "id": 119,
           "title": "Rumah Tangga ber-PHBS (%)",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "120",
+          "id": 120,
           "title": "Jumlah Keluarga Sehat",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "121",
+          "id": 121,
           "title": "KK Dengan Akses Jamban Sehat",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "122",
+          "id": 122,
           "title": "Ketersediaan Air Minum",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "123",
+          "id": 123,
           "title": "Tempat Pengelolaan Pangan (TPP) (%)",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "124",
+          "id": 124,
           "title": "TFU dengan Pengawasan IKL (%)",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "125",
+          "id": 125,
           "title": "Tenaga Medis - Dokter",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "126",
+          "id": 126,
           "title": "Tenaga Kesehatan",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "127",
+          "id": 127,
           "title": "Tenaga Teknik Medik",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "128",
+          "id": 128,
           "title": "Tenaga Medis - Manajemen",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "442",
+          "id": 442,
           "title": "Angka Kematian Bayi dan Balita (SDGs)",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "443",
+          "id": 443,
           "title": "Desa/Kelurahan UCI dan Siaga",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "444",
+          "id": 444,
           "title": "Angka Kematian Ibu",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "445",
+          "id": 445,
           "title": "Status Gizi Balita",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "446",
+          "id": 446,
           "title": "% Status Gizi",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "447",
+          "id": 447,
           "title": "Pelayanan Kesehatan Balita",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "448",
+          "id": 448,
           "title": "Layanan Kesehatan Calon Pengantin (Catin)",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "449",
+          "id": 449,
           "title": "Pelayanan Kesehatan Usia Lanjut",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "450",
+          "id": 450,
           "title": "Pelayanan Kesehatan Usia Pendidikan Dasar",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "451",
+          "id": 451,
           "title": "Pelayanan Kesehatan Usia Produktif",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "452",
+          "id": 452,
           "title": "Kasus Tuberkolosis",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "453",
+          "id": 453,
           "title": "Kasus HIV",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "454",
+          "id": 454,
           "title": "Kasus Hipertensi",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "455",
+          "id": 455,
           "title": "Kasus Diabetes",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "456",
+          "id": 456,
           "title": "Kasus ODGJ",
           "item_title": "Dinas Kesehatan"
         },
         {
-          "id": "44",
+          "id": 44,
           "title": "Orang Dengan Gangguan Jiwa (ODGJ)",
           "item_title": "Dinas Sosial"
         },
         {
-          "id": "53",
+          "id": 53,
           "title": "Jumlah Kelompok Kegiatan Bina Keluarga dan PIK-R di Kabupaten Magetan",
           "item_title": "Dinas Pengendalian Penduduk, Keluarga Berencana, Pemberdayaan Perempuan, dan Perlindungan Anak"
         },
         {
-          "id": "54",
+          "id": 54,
           "title": "Jumlah Peserta KB Aktif Menurut Metode Kontrasepsi",
           "item_title": "Dinas Pengendalian Penduduk, Keluarga Berencana, Pemberdayaan Perempuan, dan Perlindungan Anak"
         },
         {
-          "id": "194",
+          "id": 194,
           "title": "Jumlah Kampung Keluarga Berkualitas (Kampung KB) di Kabupaten Magetan",
           "item_title": "Dinas Pengendalian Penduduk, Keluarga Berencana, Pemberdayaan Perempuan, dan Perlindungan Anak"
         },
         {
-          "id": "195",
+          "id": 195,
           "title": "Data Jumlah SDM Program Bangga Kencana",
           "item_title": "Dinas Pengendalian Penduduk, Keluarga Berencana, Pemberdayaan Perempuan, dan Perlindungan Anak"
         },
         {
-          "id": "196",
+          "id": 196,
           "title": "Jumlah Peserta Pembinaan Bina Keluarga dan PIK-R di Kabupaten Magetan",
           "item_title": "Dinas Pengendalian Penduduk, Keluarga Berencana, Pemberdayaan Perempuan, dan Perlindungan Anak"
         },
         {
-          "id": "198",
+          "id": 198,
           "title": "Jumlah Fasilitas dan Kegiatan Program Bangga Kencana di Kabupaten Magetan",
           "item_title": "Dinas Pengendalian Penduduk, Keluarga Berencana, Pemberdayaan Perempuan, dan Perlindungan Anak"
         },
         {
-          "id": "199",
+          "id": 199,
           "title": "HIV",
           "item_title": "Dinas Pengendalian Penduduk, Keluarga Berencana, Pemberdayaan Perempuan, dan Perlindungan Anak"
         },
         {
-          "id": "201",
+          "id": 201,
           "title": "Resiko Stunting",
           "item_title": "Dinas Pengendalian Penduduk, Keluarga Berencana, Pemberdayaan Perempuan, dan Perlindungan Anak"
         },
         {
-          "id": "390",
+          "id": 390,
           "title": "Total Fertility Rate",
           "item_title": "Dinas Pengendalian Penduduk, Keluarga Berencana, Pemberdayaan Perempuan, dan Perlindungan Anak"
         },
         {
-          "id": "27",
+          "id": 27,
           "title": "Tenaga Medis dan Non Medis",
           "item_title": "RSUD Sayidiman"
         },
         {
-          "id": "28",
+          "id": 28,
           "title": "Kunjungan Rumah Sakit",
           "item_title": "RSUD Sayidiman"
         },
         {
-          "id": "209",
+          "id": 209,
           "title": "Pengolahan Limbah Medis",
           "item_title": "RSUD Sayidiman"
         },
         {
-          "id": "210",
+          "id": 210,
           "title": "Jumlah Rawat Inap Berdasarkan 10 Besar Penyakit",
           "item_title": "RSUD Sayidiman"
         },
         {
-          "id": "211",
+          "id": 211,
           "title": "Jumlah Rawat Jalan Berdasar 10 Besar Penyakit",
           "item_title": "RSUD Sayidiman"
         },
         {
-          "id": "212",
+          "id": 212,
           "title": "Pasien Rawat Inap per Penjamin",
           "item_title": "RSUD Sayidiman"
         },
         {
-          "id": "213",
+          "id": 213,
           "title": "Pasien Rawat Jalan per Penjamin",
           "item_title": "RSUD Sayidiman"
         },
         {
-          "id": "274",
+          "id": 274,
           "title": "Jumlah Kunjungan Per Klinik Rawat Jalan",
           "item_title": "RSUD Sayidiman"
         },
         {
-          "id": "275",
+          "id": 275,
           "title": "Jumlah Kunjungan Per Ruangan Rawat Inap",
           "item_title": "RSUD Sayidiman"
         },
         {
-          "id": "384",
+          "id": 384,
           "title": "ALOS/BOR/BTO/GDR/NDR/TOI/Infeksi Nosokomial RSUD dr. Sayidiman Magetan",
           "item_title": "RSUD Sayidiman"
         }
@@ -675,337 +675,337 @@
       "total_category_sub_items": 67,
       "sub_items": [
         {
-          "id": "16",
+          "id": 16,
           "title": "Koleksi Buku Perpustakaan",
           "item_title": "Dinas Kearsip dan Perpustakaan"
         },
         {
-          "id": "17",
+          "id": 17,
           "title": "Jumlah Anggota Perpustakaan",
           "item_title": "Dinas Kearsip dan Perpustakaan"
         },
         {
-          "id": "18",
+          "id": 18,
           "title": "Jumlah Pengunjung Perpustakaan",
           "item_title": "Dinas Kearsip dan Perpustakaan"
         },
         {
-          "id": "348",
+          "id": 348,
           "title": "Indeks Literasi",
           "item_title": "Dinas Kearsip dan Perpustakaan"
         },
         {
-          "id": "457",
+          "id": 457,
           "title": "Indeks Minat Baca",
           "item_title": "Dinas Kearsip dan Perpustakaan"
         },
         {
-          "id": "5",
+          "id": 5,
           "title": "Guru TK (Pendidikan Terakhir)",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "6",
+          "id": 6,
           "title": "Guru SD (Pendidikan Terakhir)",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "7",
+          "id": 7,
           "title": "Guru SMP (Pendidikan Terakhir)",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "8",
+          "id": 8,
           "title": "Guru Pendidikan Kesetaraan (Pendidikan Terakhir)",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "92",
+          "id": 92,
           "title": "Data Satuan TK (Negeri/Swasta)",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "93",
+          "id": 93,
           "title": "Jumlah Siswa TK (L/P)",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "94",
+          "id": 94,
           "title": "Status Akreditasi TK",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "95",
+          "id": 95,
           "title": "Sarana dan Prasarana SD",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "96",
+          "id": 96,
           "title": "Sarana dan Prasarana SMP",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "97",
+          "id": 97,
           "title": "Status Akreditasi Pendidikan Kesetaraan",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "99",
+          "id": 99,
           "title": "Jumlah Siswa SD (L/P)",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "100",
+          "id": 100,
           "title": "Jumlah Siswa SMP (L/P)",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "101",
+          "id": 101,
           "title": "Jumlah Siswa Pendidikan Kesetaraan (L/P)",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "302",
+          "id": 302,
           "title": "Data Satuan SD (Negeri/Swasta)",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "303",
+          "id": 303,
           "title": "Data Satuan SMP (Negeri/Swasta)",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "304",
+          "id": 304,
           "title": "Status Akreditasi SD",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "305",
+          "id": 305,
           "title": "Status Akreditasi SMP",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "306",
+          "id": 306,
           "title": "Jumlah Guru TK berdasarkan Kecamatan",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "307",
+          "id": 307,
           "title": "Jumlah Guru SD Berdasarkan Kecamatan",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "308",
+          "id": 308,
           "title": "Jumlah Guru SMP Berdasarkan Kecamatan",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "309",
+          "id": 309,
           "title": "Jumlah Guru Pendidikan Kesetaraan Berdasarkan Kecamatan",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "310",
+          "id": 310,
           "title": "Jumlah Siswa TK berdasarkan Kecamatan",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "311",
+          "id": 311,
           "title": "Jumlah Siswa SD Berdasarkan Kecamatan",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "312",
+          "id": 312,
           "title": "Jumlah Siswa SMP Berdasarkan Kecamatan",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "313",
+          "id": 313,
           "title": "Jumlah Siswa Pendidikan Kesetaraan Berdasarkan Kecamatan",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "315",
+          "id": 315,
           "title": "Jumlah Sekolah TK  berdasarkan Kecamatan",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "316",
+          "id": 316,
           "title": "Jumlah SD berdasarkan Kecamatan",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "317",
+          "id": 317,
           "title": "Jumlah SMP berdasarkan Kecamatan",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "319",
+          "id": 319,
           "title": "Jumlah Pendidikan Kesetaraan berdasarkan Kecamatan",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "320",
+          "id": 320,
           "title": "Jumlah Siswa PKBM berdasarkan Kecamatan",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "328",
+          "id": 328,
           "title": "Jumlah Siswa TK (Status SIswa)",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "329",
+          "id": 329,
           "title": "Jumlah Siswa SD (Status SIswa)",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "330",
+          "id": 330,
           "title": "Jumlah Siswa SMP (Status SIswa)",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "331",
+          "id": 331,
           "title": "Jumlah Siswa Pendidikan Kesetaraan (Status SIswa)",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "332",
+          "id": 332,
           "title": "Guru TK (L/P)",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "333",
+          "id": 333,
           "title": "Guru SD (L/P)",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "334",
+          "id": 334,
           "title": "Guru SMP (L/P)",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "335",
+          "id": 335,
           "title": "Guru Pendidikan Kesetaraan (L/P)",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "336",
+          "id": 336,
           "title": "Satuan Pendidikan Kesetaraan (Negeri/Swasta)",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "337",
+          "id": 337,
           "title": "Jumlah Siswa SD (Agama)",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "338",
+          "id": 338,
           "title": "Jumlah Siswa PAUD (Agama)",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "339",
+          "id": 339,
           "title": "Jumlah Siswa SMP (Agama)",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "340",
+          "id": 340,
           "title": "Jumlah Siswa Pendidikan Kesetaraan (Agama)",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "353",
+          "id": 353,
           "title": "Angka Melek Huruf",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "354",
+          "id": 354,
           "title": "Angka Partisipasi Kasar",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "355",
+          "id": 355,
           "title": "Angka Partisipasi Murni",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "356",
+          "id": 356,
           "title": "Angka Rata Rata Lama Sekolah",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "357",
+          "id": 357,
           "title": "Jumlah gedung olahraga per 10.000 penduduk",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "358",
+          "id": 358,
           "title": "Jumlah klub olahraga per 10.000 penduduk",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "359",
+          "id": 359,
           "title": "Jumlah Atlet Berprestasi",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "360",
+          "id": 360,
           "title": "Persentase Organisasi Pemuda yang Aktif",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "361",
+          "id": 361,
           "title": "Indeks Pendidikan",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "397",
+          "id": 397,
           "title": "Rerata Kemampuan Literasi SD berdasarkan Asesmen Nasional (SPM)",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "398",
+          "id": 398,
           "title": "Rerata Kemampuan Numerasi SD berdasarkan Asesmen Nasional (SPM)",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "399",
+          "id": 399,
           "title": "Rerata kompetensi Literasi SMP berdasarkan Asesmen Nasional",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "400",
+          "id": 400,
           "title": "Rerata kompetensi Numerasi SMP berdasarkan Asesmen Nasional",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "435",
+          "id": 435,
           "title": "Indeks Iklim Keamanan SD (SPM)",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "436",
+          "id": 436,
           "title": "Indeks Iklim Kebinekaan SD (SPM)",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "437",
+          "id": 437,
           "title": "Indeks Inklusivitas SD (SPM)",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "438",
+          "id": 438,
           "title": "Indeks Iklim Keamanan SMP (SPM)",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "439",
+          "id": 439,
           "title": "Indeks Iklim Kebinekaan SMP (SPM)",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         },
         {
-          "id": "440",
+          "id": 440,
           "title": "Indeks Inklusivitas SMP (SPM)",
           "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga"
         }
@@ -1017,102 +1017,102 @@
       "total_category_sub_items": 20,
       "sub_items": [
         {
-          "id": "63",
+          "id": 63,
           "title": "Jumlah Penduduk",
           "item_title": "Dinas Kependudukan dan Pencatatan Sipil"
         },
         {
-          "id": "64",
+          "id": 64,
           "title": "Kepemilikan Akta Kelahiran",
           "item_title": "Dinas Kependudukan dan Pencatatan Sipil"
         },
         {
-          "id": "168",
+          "id": 168,
           "title": "Jumlah Penduduk - Kelompok Umur",
           "item_title": "Dinas Kependudukan dan Pencatatan Sipil"
         },
         {
-          "id": "169",
+          "id": 169,
           "title": "Jumlah Penduduk - KK",
           "item_title": "Dinas Kependudukan dan Pencatatan Sipil"
         },
         {
-          "id": "170",
+          "id": 170,
           "title": "Jumlah Penduduk - Agama",
           "item_title": "Dinas Kependudukan dan Pencatatan Sipil"
         },
         {
-          "id": "171",
+          "id": 171,
           "title": "Jumlah Penduduk - Pendidikan",
           "item_title": "Dinas Kependudukan dan Pencatatan Sipil"
         },
         {
-          "id": "172",
+          "id": 172,
           "title": "Jumlah Penduduk - Status Perkawinan",
           "item_title": "Dinas Kependudukan dan Pencatatan Sipil"
         },
         {
-          "id": "173",
+          "id": 173,
           "title": "Penduduk Pindah dan Datang",
           "item_title": "Dinas Kependudukan dan Pencatatan Sipil"
         },
         {
-          "id": "174",
+          "id": 174,
           "title": "Kepemilikan Akta Perkawinan",
           "item_title": "Dinas Kependudukan dan Pencatatan Sipil"
         },
         {
-          "id": "175",
+          "id": 175,
           "title": "Kepemilikan Akta Perceraian",
           "item_title": "Dinas Kependudukan dan Pencatatan Sipil"
         },
         {
-          "id": "176",
+          "id": 176,
           "title": "Kepemilikan Akta Kematian",
           "item_title": "Dinas Kependudukan dan Pencatatan Sipil"
         },
         {
-          "id": "177",
+          "id": 177,
           "title": "Kepemilikan Cetak KK",
           "item_title": "Dinas Kependudukan dan Pencatatan Sipil"
         },
         {
-          "id": "178",
+          "id": 178,
           "title": "Kepemilikan KTP EL",
           "item_title": "Dinas Kependudukan dan Pencatatan Sipil"
         },
         {
-          "id": "179",
+          "id": 179,
           "title": "Kepemilikan KIA",
           "item_title": "Dinas Kependudukan dan Pencatatan Sipil"
         },
         {
-          "id": "187",
+          "id": 187,
           "title": "Kepadatan Penduduk",
           "item_title": "Dinas Kependudukan dan Pencatatan Sipil"
         },
         {
-          "id": "433",
+          "id": 433,
           "title": "Indeks Kepuasan Layanan Kependudukan",
           "item_title": "Dinas Kependudukan dan Pencatatan Sipil"
         },
         {
-          "id": "434",
+          "id": 434,
           "title": "Persentase Penduduk Ber KTP Elektronik",
           "item_title": "Dinas Kependudukan dan Pencatatan Sipil"
         },
         {
-          "id": "472",
+          "id": 472,
           "title": "Luas Kecamatan",
           "item_title": "BPS Kabupaten Magetan"
         },
         {
-          "id": "474",
+          "id": 474,
           "title": "Jarak dari Ibukota Kabupaten ke Kecamatan",
           "item_title": "BPS Kabupaten Magetan"
         },
         {
-          "id": "475",
+          "id": 475,
           "title": "Ketinggian Wilayah Per Kecamatan",
           "item_title": "BPS Kabupaten Magetan"
         }
@@ -1124,57 +1124,57 @@
       "total_category_sub_items": 11,
       "sub_items": [
         {
-          "id": "51",
+          "id": 51,
           "title": "Kepariwisataan Umum",
           "item_title": "Dinas Pariwisata dan Kebudayaan"
         },
         {
-          "id": "62",
+          "id": 62,
           "title": "Obyek Diduga Cagar Budaya",
           "item_title": "Dinas Pariwisata dan Kebudayaan"
         },
         {
-          "id": "322",
+          "id": 322,
           "title": "Jumlah Pelaku Usaha Ekonomi Kreatif berbasis NIB Sesuai Tahun Terbit",
           "item_title": "Dinas Pariwisata dan Kebudayaan"
         },
         {
-          "id": "323",
+          "id": 323,
           "title": "Kesenian Umum",
           "item_title": "Dinas Pariwisata dan Kebudayaan"
         },
         {
-          "id": "324",
+          "id": 324,
           "title": "Makam Bersejarah",
           "item_title": "Dinas Pariwisata dan Kebudayaan"
         },
         {
-          "id": "325",
+          "id": 325,
           "title": "Kelompok Seni dan Sanggar Berdasar Tahun Penerbitan Nomor Induk Kesenian",
           "item_title": "Dinas Pariwisata dan Kebudayaan"
         },
         {
-          "id": "326",
+          "id": 326,
           "title": "KUNJUNGAN WISATA",
           "item_title": "Dinas Pariwisata dan Kebudayaan"
         },
         {
-          "id": "343",
+          "id": 343,
           "title": "REKAPITULASI KUNJUNGAN WISATAWAN KABUPATEN MAGETAN",
           "item_title": "Dinas Pariwisata dan Kebudayaan"
         },
         {
-          "id": "344",
+          "id": 344,
           "title": "Penetapan Cagar Budaya",
           "item_title": "Dinas Pariwisata dan Kebudayaan"
         },
         {
-          "id": "470",
+          "id": 470,
           "title": "Data Seniman Menurut Bidang Seni berdasarkan Penerbitan Kartu Induk Kesenian",
           "item_title": "Dinas Pariwisata dan Kebudayaan"
         },
         {
-          "id": "505",
+          "id": 505,
           "title": "Jumlah Pelaku Usaha Jasa Pariwisata berbasis NIB Sesuai Tahun Terbit",
           "item_title": "Dinas Pariwisata dan Kebudayaan"
         }
@@ -1186,182 +1186,182 @@
       "total_category_sub_items": 36,
       "sub_items": [
         {
-          "id": "40",
+          "id": 40,
           "title": "Koperasi yang Mengikuti Pelatihan",
           "item_title": "Dinas Koperasi dan Usaha Mikro"
         },
         {
-          "id": "41",
+          "id": 41,
           "title": "Jumlah Koperasi",
           "item_title": "Dinas Koperasi dan Usaha Mikro"
         },
         {
-          "id": "129",
+          "id": 129,
           "title": "Koperasi Baru",
           "item_title": "Dinas Koperasi dan Usaha Mikro"
         },
         {
-          "id": "130",
+          "id": 130,
           "title": "UMKM ber-PIRT",
           "item_title": "Dinas Koperasi dan Usaha Mikro"
         },
         {
-          "id": "131",
+          "id": 131,
           "title": "Pameran UMKM",
           "item_title": "Dinas Koperasi dan Usaha Mikro"
         },
         {
-          "id": "132",
+          "id": 132,
           "title": "Wirausaha Baru",
           "item_title": "Dinas Koperasi dan Usaha Mikro"
         },
         {
-          "id": "133",
+          "id": 133,
           "title": "UMKM per- Kecamatan",
           "item_title": "Dinas Koperasi dan Usaha Mikro"
         },
         {
-          "id": "134",
+          "id": 134,
           "title": "Jumlah Koperasi Berdasar Jenis Koperasi",
           "item_title": "Dinas Koperasi dan Usaha Mikro"
         },
         {
-          "id": "393",
+          "id": 393,
           "title": "Nilai Omset Koperasi",
           "item_title": "Dinas Koperasi dan Usaha Mikro"
         },
         {
-          "id": "394",
+          "id": 394,
           "title": "Nilai Omset Usaha Mikro Yang Dibina",
           "item_title": "Dinas Koperasi dan Usaha Mikro"
         },
         {
-          "id": "395",
+          "id": 395,
           "title": "Persentase Koperasi Sehat",
           "item_title": "Dinas Koperasi dan Usaha Mikro"
         },
         {
-          "id": "396",
+          "id": 396,
           "title": "Jumlah Usaha Mikro Naik Kelas",
           "item_title": "Dinas Koperasi dan Usaha Mikro"
         },
         {
-          "id": "408",
+          "id": 408,
           "title": "UMKM Kabupaten Magetan yang memiliki NIB",
           "item_title": "Dinas Koperasi dan Usaha Mikro"
         },
         {
-          "id": "409",
+          "id": 409,
           "title": "Jumlah UMKM yang Mengikuti Sosialisasi dan Pelatihan",
           "item_title": "Dinas Koperasi dan Usaha Mikro"
         },
         {
-          "id": "66",
+          "id": 66,
           "title": "Industri dan Tenaga Kerja",
           "item_title": "Dinas Perindustrian dan Perdagangan"
         },
         {
-          "id": "73",
+          "id": 73,
           "title": "Perusahaan Industri",
           "item_title": "Dinas Perindustrian dan Perdagangan"
         },
         {
-          "id": "180",
+          "id": 180,
           "title": "Tera Ulang Timbangan",
           "item_title": "Dinas Perindustrian dan Perdagangan"
         },
         {
-          "id": "181",
+          "id": 181,
           "title": "Pedagang Pasar dan Omset",
           "item_title": "Dinas Perindustrian dan Perdagangan"
         },
         {
-          "id": "182",
+          "id": 182,
           "title": "Kondisi Pasar",
           "item_title": "Dinas Perindustrian dan Perdagangan"
         },
         {
-          "id": "61",
+          "id": 61,
           "title": "Pasar Desa",
           "item_title": "Dinas Pemberdayaan Masyarakat dan Desa"
         },
         {
-          "id": "190",
+          "id": 190,
           "title": "Bumdes",
           "item_title": "Dinas Pemberdayaan Masyarakat dan Desa"
         },
         {
-          "id": "58",
+          "id": 58,
           "title": "Investasi Penanaman Modal Per Sektor (Thn 2020-2022)",
           "item_title": "Dinas Penanaman Modal dan Pelayanan Satu Pintu"
         },
         {
-          "id": "59",
+          "id": 59,
           "title": "Realisasi Proyek Penanaman Modal Per Sektor (Thn 2020 s/d 2022)",
           "item_title": "Dinas Penanaman Modal dan Pelayanan Satu Pintu"
         },
         {
-          "id": "239",
+          "id": 239,
           "title": "Penyertaan Penanaman Modal (PMA/PMDN)",
           "item_title": "Dinas Penanaman Modal dan Pelayanan Satu Pintu"
         },
         {
-          "id": "241",
+          "id": 241,
           "title": "Pendaftaran Nomor Induk Berusaha (NIB) OSS",
           "item_title": "Dinas Penanaman Modal dan Pelayanan Satu Pintu"
         },
         {
-          "id": "242",
+          "id": 242,
           "title": "Sumber Penyertaan Investasi Penanaman Modal",
           "item_title": "Dinas Penanaman Modal dan Pelayanan Satu Pintu"
         },
         {
-          "id": "258",
+          "id": 258,
           "title": "Kriteria Skala Modal Investasi Perusahaan Berdasarkan KBLI",
           "item_title": "Dinas Penanaman Modal dan Pelayanan Satu Pintu"
         },
         {
-          "id": "259",
+          "id": 259,
           "title": "Bentuk Perusahaan OSS",
           "item_title": "Dinas Penanaman Modal dan Pelayanan Satu Pintu"
         },
         {
-          "id": "260",
+          "id": 260,
           "title": "Data Perizinan dan Non Perizinan (Non OSS)",
           "item_title": "Dinas Penanaman Modal dan Pelayanan Satu Pintu"
         },
         {
-          "id": "261",
+          "id": 261,
           "title": "Nilai Realisasi Investasi Penanaman Modal Per Sektor",
           "item_title": "Dinas Penanaman Modal dan Pelayanan Satu Pintu"
         },
         {
-          "id": "269",
+          "id": 269,
           "title": "Jumlah Bidang Usaha/KBLI Per Sektor",
           "item_title": "Dinas Penanaman Modal dan Pelayanan Satu Pintu"
         },
         {
-          "id": "270",
+          "id": 270,
           "title": "Data Tenaga Kerja Perusahaan Per Sektor Bidang Usaha / KBLI",
           "item_title": "Dinas Penanaman Modal dan Pelayanan Satu Pintu"
         },
         {
-          "id": "271",
+          "id": 271,
           "title": "Sebaran Proyek Per Kecamatan",
           "item_title": "Dinas Penanaman Modal dan Pelayanan Satu Pintu"
         },
         {
-          "id": "272",
+          "id": 272,
           "title": "Sebaran Proyek Berdasarkan Resiko",
           "item_title": "Dinas Penanaman Modal dan Pelayanan Satu Pintu"
         },
         {
-          "id": "352",
+          "id": 352,
           "title": "Persentase Pertumbuhan Realisasi Investasi",
           "item_title": "Dinas Penanaman Modal dan Pelayanan Satu Pintu"
         },
         {
-          "id": "385",
+          "id": 385,
           "title": "Rata-Rata Lama Proses Perizinan",
           "item_title": "Dinas Penanaman Modal dan Pelayanan Satu Pintu"
         }
@@ -1373,107 +1373,107 @@
       "total_category_sub_items": 21,
       "sub_items": [
         {
-          "id": "471",
+          "id": 471,
           "title": "Net Ekspor Barang Dan Jasa",
           "item_title": "BPS Kabupaten Magetan"
         },
         {
-          "id": "479",
+          "id": 479,
           "title": "Laju Pertumbuhan Ekonomi",
           "item_title": "BPS Kabupaten Magetan"
         },
         {
-          "id": "480",
+          "id": 480,
           "title": "Garis Kemiskinan",
           "item_title": "BPS Kabupaten Magetan"
         },
         {
-          "id": "481",
+          "id": 481,
           "title": "PDRB Per Kapita",
           "item_title": "BPS Kabupaten Magetan"
         },
         {
-          "id": "482",
+          "id": 482,
           "title": "Tingkat Pengangguran Terbuka",
           "item_title": "BPS Kabupaten Magetan"
         },
         {
-          "id": "483",
+          "id": 483,
           "title": "Indeks Gini",
           "item_title": "BPS Kabupaten Magetan"
         },
         {
-          "id": "484",
+          "id": 484,
           "title": "Indeks Pembangunan Manusia",
           "item_title": "BPS Kabupaten Magetan"
         },
         {
-          "id": "485",
+          "id": 485,
           "title": "Usia Harapan Hidup",
           "item_title": "BPS Kabupaten Magetan"
         },
         {
-          "id": "486",
+          "id": 486,
           "title": "Indeks Kebutuhan Dasar",
           "item_title": "BPS Kabupaten Magetan"
         },
         {
-          "id": "487",
+          "id": 487,
           "title": "Kontribusi PDRB Kabupaten/Kota terhadap Provinsi",
           "item_title": "BPS Kabupaten Magetan"
         },
         {
-          "id": "488",
+          "id": 488,
           "title": "Rasio PDRB Industri Pengolahan",
           "item_title": "BPS Kabupaten Magetan"
         },
         {
-          "id": "489",
+          "id": 489,
           "title": "Rasio PDRB Penyediaan Akomodasi Makan dan Minum",
           "item_title": "BPS Kabupaten Magetan"
         },
         {
-          "id": "490",
+          "id": 490,
           "title": "Rasio PDRB (ADHB) sektor Pertanian",
           "item_title": "BPS Kabupaten Magetan"
         },
         {
-          "id": "491",
+          "id": 491,
           "title": "Persentase Petumbuhan PDRB Sektor Perdagangan",
           "item_title": "BPS Kabupaten Magetan"
         },
         {
-          "id": "492",
+          "id": 492,
           "title": "Spending of money",
           "item_title": "BPS Kabupaten Magetan"
         },
         {
-          "id": "493",
+          "id": 493,
           "title": "Pertumbuhan PDRB Sektor Akomodasi Makan dan Minum",
           "item_title": "BPS Kabupaten Magetan"
         },
         {
-          "id": "494",
+          "id": 494,
           "title": "Pembentukan Modal Tetap Bruto",
           "item_title": "BPS Kabupaten Magetan"
         },
         {
-          "id": "495",
+          "id": 495,
           "title": "Tingkat Inflasi",
           "item_title": "BPS Kabupaten Magetan"
         },
         {
-          "id": "496",
+          "id": 496,
           "title": "Persentase Pertumbuhan PDRB Sektor Pertanian",
           "item_title": "BPS Kabupaten Magetan"
         },
         {
-          "id": "497",
+          "id": 497,
           "title": "Tingkat Kemiskinan",
           "item_title": "BPS Kabupaten Magetan"
         },
         {
-          "id": "498",
+          "id": 498,
           "title": "Persentase Pertumbuhan PDRB Sektor Industri Pengolahan",
           "item_title": "BPS Kabupaten Magetan"
         }
@@ -1485,117 +1485,117 @@
       "total_category_sub_items": 23,
       "sub_items": [
         {
-          "id": "45",
+          "id": 45,
           "title": "Data Lalu Lintas",
           "item_title": "Dinas Perhubungan"
         },
         {
-          "id": "46",
+          "id": 46,
           "title": "Data Angkutan Umum",
           "item_title": "Dinas Perhubungan"
         },
         {
-          "id": "152",
+          "id": 152,
           "title": "Petugas Lalu Lintas",
           "item_title": "Dinas Perhubungan"
         },
         {
-          "id": "153",
+          "id": 153,
           "title": "Uji Kendaraan",
           "item_title": "Dinas Perhubungan"
         },
         {
-          "id": "56",
+          "id": 56,
           "title": "Kondisi Jalan Kabupaten (Km)",
           "item_title": "Dinas Pekerjaan Umum dan Penataan Ruang"
         },
         {
-          "id": "57",
+          "id": 57,
           "title": "Kondisi Jembatan Kabupaten (Unit)",
           "item_title": "Dinas Pekerjaan Umum dan Penataan Ruang"
         },
         {
-          "id": "245",
+          "id": 245,
           "title": "Data Jumlah Bendung, Embung dan Waduk",
           "item_title": "Dinas Pekerjaan Umum dan Penataan Ruang"
         },
         {
-          "id": "248",
+          "id": 248,
           "title": "Panjang Saluran Irigasi Kabupaten (m)",
           "item_title": "Dinas Pekerjaan Umum dan Penataan Ruang"
         },
         {
-          "id": "249",
+          "id": 249,
           "title": "Rata-rata Curah Hujan per Bulan (mm)",
           "item_title": "Dinas Pekerjaan Umum dan Penataan Ruang"
         },
         {
-          "id": "250",
+          "id": 250,
           "title": "Panjang Jalan Menurut Jenis Permukaan Jalan (Km)",
           "item_title": "Dinas Pekerjaan Umum dan Penataan Ruang"
         },
         {
-          "id": "251",
+          "id": 251,
           "title": "Banyaknya Lokasi Penakar Hujan Per Kecamatan",
           "item_title": "Dinas Pekerjaan Umum dan Penataan Ruang"
         },
         {
-          "id": "252",
+          "id": 252,
           "title": "Jumlah Curah Hujan Menurut Lokasi Penakar Hujan",
           "item_title": "Dinas Pekerjaan Umum dan Penataan Ruang"
         },
         {
-          "id": "253",
+          "id": 253,
           "title": "Banyaknya Hari Hujan Menurut Lokasi Penangkar Hujan",
           "item_title": "Dinas Pekerjaan Umum dan Penataan Ruang"
         },
         {
-          "id": "256",
+          "id": 256,
           "title": "Data Layanan Laboratorium DPUPR",
           "item_title": "Dinas Pekerjaan Umum dan Penataan Ruang"
         },
         {
-          "id": "364",
+          "id": 364,
           "title": "Persentase Rumah Tangga Berakses Air Bersih (SPM)",
           "item_title": "Dinas Pekerjaan Umum dan Penataan Ruang"
         },
         {
-          "id": "365",
+          "id": 365,
           "title": "Persentase Rumah Tangga Berakses Sanitasi (SPM)",
           "item_title": "Dinas Pekerjaan Umum dan Penataan Ruang"
         },
         {
-          "id": "366",
+          "id": 366,
           "title": "Persentase Kesesuaian Ruang",
           "item_title": "Dinas Pekerjaan Umum dan Penataan Ruang"
         },
         {
-          "id": "367",
+          "id": 367,
           "title": "Rasio Panjang Jalan per Jumlah Kendaraan",
           "item_title": "Dinas Pekerjaan Umum dan Penataan Ruang"
         },
         {
-          "id": "368",
+          "id": 368,
           "title": "Persentase Rumah Tangga yang Menggunakan Air Bersih",
           "item_title": "Dinas Pekerjaan Umum dan Penataan Ruang"
         },
         {
-          "id": "369",
+          "id": 369,
           "title": "Luas Wilayah Perkotaan",
           "item_title": "Dinas Pekerjaan Umum dan Penataan Ruang"
         },
         {
-          "id": "476",
+          "id": 476,
           "title": "Jumlah Hari Hujan per Bulan",
           "item_title": "BPS Kabupaten Magetan"
         },
         {
-          "id": "477",
+          "id": 477,
           "title": "Curah Hujan Minimum",
           "item_title": "BPS Kabupaten Magetan"
         },
         {
-          "id": "478",
+          "id": 478,
           "title": "Curah Hujan Maksimum",
           "item_title": "BPS Kabupaten Magetan"
         }
@@ -1607,67 +1607,67 @@
       "total_category_sub_items": 13,
       "sub_items": [
         {
-          "id": "31",
+          "id": 31,
           "title": "Jumlah Rumah",
           "item_title": "Dinas Perumahan dan Kawasan Pemukiman"
         },
         {
-          "id": "32",
+          "id": 32,
           "title": "Rumah Tidak Layak Huni (RTLH)",
           "item_title": "Dinas Perumahan dan Kawasan Pemukiman"
         },
         {
-          "id": "262",
+          "id": 262,
           "title": "Jumlah Backlog",
           "item_title": "Dinas Perumahan dan Kawasan Pemukiman"
         },
         {
-          "id": "263",
+          "id": 263,
           "title": "Jumlah Rumah Susun",
           "item_title": "Dinas Perumahan dan Kawasan Pemukiman"
         },
         {
-          "id": "264",
+          "id": 264,
           "title": "Jumlah RTLH yang dilaksanakan",
           "item_title": "Dinas Perumahan dan Kawasan Pemukiman"
         },
         {
-          "id": "265",
+          "id": 265,
           "title": "Jumlah Site Plan dari Pengembang yang sudah disahkan",
           "item_title": "Dinas Perumahan dan Kawasan Pemukiman"
         },
         {
-          "id": "266",
+          "id": 266,
           "title": "Jumlah Site Plan dari Perorangan yang sudah disahkan",
           "item_title": "Dinas Perumahan dan Kawasan Pemukiman"
         },
         {
-          "id": "267",
+          "id": 267,
           "title": "Data Inventarisasi Kawasan Kumuh",
           "item_title": "Dinas Perumahan dan Kawasan Pemukiman"
         },
         {
-          "id": "268",
+          "id": 268,
           "title": "Data Prasarana Permukiman",
           "item_title": "Dinas Perumahan dan Kawasan Pemukiman"
         },
         {
-          "id": "428",
+          "id": 428,
           "title": "Persentase RLH Korban Bencana",
           "item_title": "Dinas Perumahan dan Kawasan Pemukiman"
         },
         {
-          "id": "429",
+          "id": 429,
           "title": "Persentase Permukiman Kumuh Tertangani",
           "item_title": "Dinas Perumahan dan Kawasan Pemukiman"
         },
         {
-          "id": "430",
+          "id": 430,
           "title": "Persentase Rumah Layak Huni (RLH)",
           "item_title": "Dinas Perumahan dan Kawasan Pemukiman"
         },
         {
-          "id": "431",
+          "id": 431,
           "title": "Persentase Pengelolaan Tanah",
           "item_title": "Dinas Perumahan dan Kawasan Pemukiman"
         }
@@ -1679,157 +1679,157 @@
       "total_category_sub_items": 31,
       "sub_items": [
         {
-          "id": "43",
+          "id": 43,
           "title": "Anak Terlantar",
           "item_title": "Dinas Sosial"
         },
         {
-          "id": "135",
+          "id": 135,
           "title": "Lansia Terlantar (L/P)",
           "item_title": "Dinas Sosial"
         },
         {
-          "id": "136",
+          "id": 136,
           "title": "KDRT, WRSE, dan Wanita Tuna Sosial",
           "item_title": "Dinas Sosial"
         },
         {
-          "id": "137",
+          "id": 137,
           "title": "Data Orang Dipasung",
           "item_title": "Dinas Sosial"
         },
         {
-          "id": "138",
+          "id": 138,
           "title": "Anak Terlantar di Luar Panti (L/P)",
           "item_title": "Dinas Sosial"
         },
         {
-          "id": "139",
+          "id": 139,
           "title": "Disabilitas (L/P)",
           "item_title": "Dinas Sosial"
         },
         {
-          "id": "140",
+          "id": 140,
           "title": "Gelandangan",
           "item_title": "Dinas Sosial"
         },
         {
-          "id": "141",
+          "id": 141,
           "title": "Bencana Sosial",
           "item_title": "Dinas Sosial"
         },
         {
-          "id": "142",
+          "id": 142,
           "title": "SDM Kesejahteraan/Pekerja Sosial",
           "item_title": "Dinas Sosial"
         },
         {
-          "id": "143",
+          "id": 143,
           "title": "Tagana (L/P)",
           "item_title": "Dinas Sosial"
         },
         {
-          "id": "144",
+          "id": 144,
           "title": "Pendamping PKH",
           "item_title": "Dinas Sosial"
         },
         {
-          "id": "145",
+          "id": 145,
           "title": "Penerima Manfaat PKH",
           "item_title": "Dinas Sosial"
         },
         {
-          "id": "146",
+          "id": 146,
           "title": "Lembaga Sosial Keagamaan Penerima Hibah",
           "item_title": "Dinas Sosial"
         },
         {
-          "id": "147",
+          "id": 147,
           "title": "Karang Taruna (Kecamatan)",
           "item_title": "Dinas Sosial"
         },
         {
-          "id": "148",
+          "id": 148,
           "title": "Lembaga Kesejahteraan Anak (LKSA)",
           "item_title": "Dinas Sosial"
         },
         {
-          "id": "149",
+          "id": 149,
           "title": "Karang Werda",
           "item_title": "Dinas Sosial"
         },
         {
-          "id": "150",
+          "id": 150,
           "title": "Penerima PBI",
           "item_title": "Dinas Sosial"
         },
         {
-          "id": "151",
+          "id": 151,
           "title": "Data Kemiskinan/DTKS",
           "item_title": "Dinas Sosial"
         },
         {
-          "id": "401",
+          "id": 401,
           "title": "Korban Bencana Alam Skala Kabupaten",
           "item_title": "Dinas Sosial"
         },
         {
-          "id": "402",
+          "id": 402,
           "title": "Lansia Terlantar Dalam Panti",
           "item_title": "Dinas Sosial"
         },
         {
-          "id": "403",
+          "id": 403,
           "title": "Penanganan PMKS",
           "item_title": "Dinas Sosial"
         },
         {
-          "id": "404",
+          "id": 404,
           "title": "Rehabilitasi Disabilitas",
           "item_title": "Dinas Sosial"
         },
         {
-          "id": "405",
+          "id": 405,
           "title": "Penanganan PSKS",
           "item_title": "Dinas Sosial"
         },
         {
-          "id": "406",
+          "id": 406,
           "title": "Rehabilitasi Gelandangan dan Pengemis",
           "item_title": "Dinas Sosial"
         },
         {
-          "id": "49",
+          "id": 49,
           "title": "Daftar Lembaga Pelatihan Kerja dan Instruktur",
           "item_title": "Dinas Tenaga Kerja"
         },
         {
-          "id": "50",
+          "id": 50,
           "title": "Penempatan Tenaga Kerja",
           "item_title": "Dinas Tenaga Kerja"
         },
         {
-          "id": "166",
+          "id": 166,
           "title": "Hubungan Industrial",
           "item_title": "Dinas Tenaga Kerja"
         },
         {
-          "id": "167",
+          "id": 167,
           "title": "Data Transmigrasi",
           "item_title": "Dinas Tenaga Kerja"
         },
         {
-          "id": "197",
+          "id": 197,
           "title": "Nilai Evaluasi Kabupaten Layak Anak (KLA) Kabupaten Magetan",
           "item_title": "Dinas Pengendalian Penduduk, Keluarga Berencana, Pemberdayaan Perempuan, dan Perlindungan Anak"
         },
         {
-          "id": "200",
+          "id": 200,
           "title": "Jumlah Kasus Kekerasan terhadap Perempuan dan Anak di Kabupaten Magetan",
           "item_title": "Dinas Pengendalian Penduduk, Keluarga Berencana, Pemberdayaan Perempuan, dan Perlindungan Anak"
         },
         {
-          "id": "389",
+          "id": 389,
           "title": "Partisipasi Angkatan Kerja Perempuan",
           "item_title": "Dinas Pengendalian Penduduk, Keluarga Berencana, Pemberdayaan Perempuan, dan Perlindungan Anak"
         }
@@ -1841,72 +1841,72 @@
       "total_category_sub_items": 14,
       "sub_items": [
         {
-          "id": "277",
+          "id": 277,
           "title": "Data Jumlah Bank Sampah",
           "item_title": "Dinas Lingkungan Hidup dan Pangan"
         },
         {
-          "id": "278",
+          "id": 278,
           "title": "Data Jumlah Desa Berseri",
           "item_title": "Dinas Lingkungan Hidup dan Pangan"
         },
         {
-          "id": "291",
+          "id": 291,
           "title": "Neraca Pengelolaan Sampah",
           "item_title": "Dinas Lingkungan Hidup dan Pangan"
         },
         {
-          "id": "292",
+          "id": 292,
           "title": "Data Jumlah TPS",
           "item_title": "Dinas Lingkungan Hidup dan Pangan"
         },
         {
-          "id": "293",
+          "id": 293,
           "title": "Data Jumlah TPS3R",
           "item_title": "Dinas Lingkungan Hidup dan Pangan"
         },
         {
-          "id": "294",
+          "id": 294,
           "title": "Data Jumlah TPA",
           "item_title": "Dinas Lingkungan Hidup dan Pangan"
         },
         {
-          "id": "295",
+          "id": 295,
           "title": "Data Jumlah Armada Pengelolaan Sampah",
           "item_title": "Dinas Lingkungan Hidup dan Pangan"
         },
         {
-          "id": "296",
+          "id": 296,
           "title": "Indeks Kualitas Lingkungan Hidup (IKLH)",
           "item_title": "Dinas Lingkungan Hidup dan Pangan"
         },
         {
-          "id": "297",
+          "id": 297,
           "title": "Jenis Flora dan Fauna yang Dilindungi",
           "item_title": "Dinas Lingkungan Hidup dan Pangan"
         },
         {
-          "id": "298",
+          "id": 298,
           "title": "Data Jumlah Pengaduan dan Penanganan Pengaduan Akibat Dugaan Pencemaran dan/atau Perusakan Lingkungan",
           "item_title": "Dinas Lingkungan Hidup dan Pangan"
         },
         {
-          "id": "299",
+          "id": 299,
           "title": "Data Persetujuan Lingkungan yang Diterbitkan Pemerintah Daerah Kabupaten/Kota",
           "item_title": "Dinas Lingkungan Hidup dan Pangan"
         },
         {
-          "id": "300",
+          "id": 300,
           "title": "Perusahaan yang Mendapat Izin Mengelolaa Limbah B3",
           "item_title": "Dinas Lingkungan Hidup dan Pangan"
         },
         {
-          "id": "301",
+          "id": 301,
           "title": "Data Limbah Padat dan Cair",
           "item_title": "Dinas Lingkungan Hidup dan Pangan"
         },
         {
-          "id": "378",
+          "id": 378,
           "title": "Penurunan emisi GRK",
           "item_title": "Badan Perencanaan Pembangaunan, Penelitian dan Pengembangan Daerah"
         }
@@ -1918,112 +1918,112 @@
       "total_category_sub_items": 22,
       "sub_items": [
         {
-          "id": "33",
+          "id": 33,
           "title": "Desa/Kelurahan Tangguh Bencana (Tingkatan)",
           "item_title": "Pelaksana Badan Penanggulangan Bencana Daerah"
         },
         {
-          "id": "85",
+          "id": 85,
           "title": "Desa/Kelurahan Tangguh Bencana (Jenis Ancaman)",
           "item_title": "Pelaksana Badan Penanggulangan Bencana Daerah"
         },
         {
-          "id": "86",
+          "id": 86,
           "title": "Satuan Pendidikan Aman Bencana (Jenis Ancaman)",
           "item_title": "Pelaksana Badan Penanggulangan Bencana Daerah"
         },
         {
-          "id": "87",
+          "id": 87,
           "title": "Desa/Kelurahan Rawan Bencana (Tingkat Ancaman)",
           "item_title": "Pelaksana Badan Penanggulangan Bencana Daerah"
         },
         {
-          "id": "88",
+          "id": 88,
           "title": "Desa/Kelurahan Rawan Bencana (Jenis Ancaman)",
           "item_title": "Pelaksana Badan Penanggulangan Bencana Daerah"
         },
         {
-          "id": "89",
+          "id": 89,
           "title": "Potensi Relawan",
           "item_title": "Pelaksana Badan Penanggulangan Bencana Daerah"
         },
         {
-          "id": "90",
+          "id": 90,
           "title": "Jumlah Kejadian/Bencana",
           "item_title": "Pelaksana Badan Penanggulangan Bencana Daerah"
         },
         {
-          "id": "327",
+          "id": 327,
           "title": "Rumah Terkena Bencana Alam (Kec)",
           "item_title": "Pelaksana Badan Penanggulangan Bencana Daerah"
         },
         {
-          "id": "421",
+          "id": 421,
           "title": "Layanan Informasi Rawan Bencana (SPM)",
           "item_title": "Pelaksana Badan Penanggulangan Bencana Daerah"
         },
         {
-          "id": "422",
+          "id": 422,
           "title": "Layanan Pencegahan dan Kesiapsiagaan Bencana (SPM)",
           "item_title": "Pelaksana Badan Penanggulangan Bencana Daerah"
         },
         {
-          "id": "423",
+          "id": 423,
           "title": "Layanan Penyelamatan dan Evakuasi Korban Bencana (SPM)",
           "item_title": "Pelaksana Badan Penanggulangan Bencana Daerah"
         },
         {
-          "id": "424",
+          "id": 424,
           "title": "Indeks Risiko Bencana",
           "item_title": "Pelaksana Badan Penanggulangan Bencana Daerah"
         },
         {
-          "id": "426",
+          "id": 426,
           "title": "Penanganan Dampak Kekeringan",
           "item_title": "Pelaksana Badan Penanggulangan Bencana Daerah"
         },
         {
-          "id": "427",
+          "id": 427,
           "title": "Indeks Ketahanan Daerah",
           "item_title": "Pelaksana Badan Penanggulangan Bencana Daerah"
         },
         {
-          "id": "24",
+          "id": 24,
           "title": "Jumlah Pelanggaran Perda (Ditertibkan)",
           "item_title": "Satuan Polisi Pamong Praja dan Pemadam Kebakaran"
         },
         {
-          "id": "25",
+          "id": 25,
           "title": "Jumlah Acara yang Diamankan",
           "item_title": "Satuan Polisi Pamong Praja dan Pemadam Kebakaran"
         },
         {
-          "id": "215",
+          "id": 215,
           "title": "Pelatihan Kebakaran Ringan",
           "item_title": "Satuan Polisi Pamong Praja dan Pemadam Kebakaran"
         },
         {
-          "id": "216",
+          "id": 216,
           "title": "Penanganan Kejadian",
           "item_title": "Satuan Polisi Pamong Praja dan Pemadam Kebakaran"
         },
         {
-          "id": "217",
+          "id": 217,
           "title": "Anggota Linmas",
           "item_title": "Satuan Polisi Pamong Praja dan Pemadam Kebakaran"
         },
         {
-          "id": "380",
+          "id": 380,
           "title": "Persentase Laporan Peristiwa Kebakaran yang Ditindaklanjuti dalam Kurun Waktu 15 Menit (SPM)",
           "item_title": "Satuan Polisi Pamong Praja dan Pemadam Kebakaran"
         },
         {
-          "id": "432",
+          "id": 432,
           "title": "Jumlah Konflik/ Demonstrasi/ Unjuk Rasa/ Aksi Damai/ Penyampaian Aspirasi Di Depan Umum Di Kab. Magetan",
           "item_title": "Satuan Polisi Pamong Praja dan Pemadam Kebakaran"
         },
         {
-          "id": "441",
+          "id": 441,
           "title": "Persentase Tindak Lanjut terhadap Pengaduan Pelanggaran Ketertiban Umum",
           "item_title": "Satuan Polisi Pamong Praja dan Pemadam Kebakaran"
         }
@@ -2035,342 +2035,342 @@
       "total_category_sub_items": 68,
       "sub_items": [
         {
-          "id": "77",
+          "id": 77,
           "title": "Jumlah Arsip",
           "item_title": "Dinas Kearsip dan Perpustakaan"
         },
         {
-          "id": "363",
+          "id": 363,
           "title": "Persentase Perangkat Daerah Yang Mengelola Arsip Elektronik",
           "item_title": "Dinas Kearsip dan Perpustakaan"
         },
         {
-          "id": "458",
+          "id": 458,
           "title": "Persentase Perangkat Daerah Yang Menerapkan Tata Kelola Kearsipan Yang Baik",
           "item_title": "Dinas Kearsip dan Perpustakaan"
         },
         {
-          "id": "21",
+          "id": 21,
           "title": "Rekapitulasi Ijin KKN/ Survei / Penelitian",
           "item_title": "Badan Kesatuan Bangsa dan Politik"
         },
         {
-          "id": "22",
+          "id": 22,
           "title": "Rekapitulasi Ormas Binaan Berdasarkan Bentuk Organisasi",
           "item_title": "Badan Kesatuan Bangsa dan Politik"
         },
         {
-          "id": "76",
+          "id": 76,
           "title": "Rekapitulasi Ormas  Berdasarkan Jenis Kegiatan / Bidangnya",
           "item_title": "Badan Kesatuan Bangsa dan Politik"
         },
         {
-          "id": "78",
+          "id": 78,
           "title": "Rekapitulasi Ormas Berdasarkan Kecamatan",
           "item_title": "Badan Kesatuan Bangsa dan Politik"
         },
         {
-          "id": "26",
+          "id": 26,
           "title": "Jumlah Pegawai berdasarkan Golongan",
           "item_title": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia"
         },
         {
-          "id": "29",
+          "id": 29,
           "title": "Jumlah Pegawai berdasarkan Eselon",
           "item_title": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia"
         },
         {
-          "id": "30",
+          "id": 30,
           "title": "Jumlah Peserta DIKLATPIM",
           "item_title": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia"
         },
         {
-          "id": "79",
+          "id": 79,
           "title": "Jumlah Pegawai berdasarkan Jabatan",
           "item_title": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia"
         },
         {
-          "id": "80",
+          "id": 80,
           "title": "Jumlah Pegawai berdasarkan Pendidikan",
           "item_title": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia"
         },
         {
-          "id": "81",
+          "id": 81,
           "title": "Jumlah ASN Baru",
           "item_title": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia"
         },
         {
-          "id": "82",
+          "id": 82,
           "title": "Jumlah ASN Pensiun",
           "item_title": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia"
         },
         {
-          "id": "83",
+          "id": 83,
           "title": "Jumlah PNS Mutasi",
           "item_title": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia"
         },
         {
-          "id": "84",
+          "id": 84,
           "title": "Jumlah ASN Berdasar Jenis Kelamin",
           "item_title": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia"
         },
         {
-          "id": "391",
+          "id": 391,
           "title": "Indeks Profesionalitas ASN",
           "item_title": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia"
         },
         {
-          "id": "392",
+          "id": 392,
           "title": "Indeks Sistem Merit",
           "item_title": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia"
         },
         {
-          "id": "52",
+          "id": 52,
           "title": "Realisasi Pendapatan Daerah",
           "item_title": "Badan Pengelolaan Keuangan dan Pendapatan Daerah"
         },
         {
-          "id": "55",
+          "id": 55,
           "title": "Realisasi Belanja Daerah",
           "item_title": "Badan Pengelolaan Keuangan dan Pendapatan Daerah"
         },
         {
-          "id": "234",
+          "id": 234,
           "title": "Realisasi Pembiayaan",
           "item_title": "Badan Pengelolaan Keuangan dan Pendapatan Daerah"
         },
         {
-          "id": "235",
+          "id": 235,
           "title": "Realisasi PBB Daerah",
           "item_title": "Badan Pengelolaan Keuangan dan Pendapatan Daerah"
         },
         {
-          "id": "276",
+          "id": 276,
           "title": "Rekap Laporan Realisasi Anggaran (LRA)",
           "item_title": "Badan Pengelolaan Keuangan dan Pendapatan Daerah"
         },
         {
-          "id": "183",
+          "id": 183,
           "title": "PKL",
           "item_title": "Dinas Perindustrian dan Perdagangan"
         },
         {
-          "id": "60",
+          "id": 60,
           "title": "Klasifikasi Profil Desa",
           "item_title": "Dinas Pemberdayaan Masyarakat dan Desa"
         },
         {
-          "id": "191",
+          "id": 191,
           "title": "Status Desa (Indeks Membangun)",
           "item_title": "Dinas Pemberdayaan Masyarakat dan Desa"
         },
         {
-          "id": "192",
+          "id": 192,
           "title": "Lembaga Kemasyarakatan",
           "item_title": "Dinas Pemberdayaan Masyarakat dan Desa"
         },
         {
-          "id": "193",
+          "id": 193,
           "title": "Kerjasama Pemerintah Desa",
           "item_title": "Dinas Pemberdayaan Masyarakat dan Desa"
         },
         {
-          "id": "419",
+          "id": 419,
           "title": "Persentase Desa Mandiri (%)",
           "item_title": "Dinas Pemberdayaan Masyarakat dan Desa"
         },
         {
-          "id": "420",
+          "id": 420,
           "title": "Persentase desa berstatus swasembada terhadap total desa",
           "item_title": "Dinas Pemberdayaan Masyarakat dan Desa"
         },
         {
-          "id": "240",
+          "id": 240,
           "title": "Data Pengaduan",
           "item_title": "Dinas Penanaman Modal dan Pelayanan Satu Pintu"
         },
         {
-          "id": "69",
+          "id": 69,
           "title": "Anggota DPRD",
           "item_title": "Sekretariat DPRD"
         },
         {
-          "id": "70",
+          "id": 70,
           "title": "Jumlah Partai",
           "item_title": "Sekretariat DPRD"
         },
         {
-          "id": "71",
+          "id": 71,
           "title": "Jumlah Fraksi",
           "item_title": "Sekretariat DPRD"
         },
         {
-          "id": "72",
+          "id": 72,
           "title": "Jumlah Komisi",
           "item_title": "Sekretariat DPRD"
         },
         {
-          "id": "417",
+          "id": 417,
           "title": "Indeks Kepuasan DPRD terhadap Pelayanan Sekretariat DPRD",
           "item_title": "Sekretariat DPRD"
         },
         {
-          "id": "36",
+          "id": 36,
           "title": "Data WiFi Hot Spot",
           "item_title": "Dinas Komunikasi dan Informatika"
         },
         {
-          "id": "37",
+          "id": 37,
           "title": "Data Aplikasi",
           "item_title": "Dinas Komunikasi dan Informatika"
         },
         {
-          "id": "38",
+          "id": 38,
           "title": "Penilaian SPBE, Kepuasan Masyarakat",
           "item_title": "Dinas Komunikasi dan Informatika"
         },
         {
-          "id": "202",
+          "id": 202,
           "title": "Kelompok Informasi Masyarakat (KIM)",
           "item_title": "Dinas Komunikasi dan Informatika"
         },
         {
-          "id": "203",
+          "id": 203,
           "title": "Daftar Media Terferivikasi",
           "item_title": "Dinas Komunikasi dan Informatika"
         },
         {
-          "id": "318",
+          "id": 318,
           "title": "Jumlah Konten Informasi Kebijakan Pemerintah",
           "item_title": "Dinas Komunikasi dan Informatika"
         },
         {
-          "id": "341",
+          "id": 341,
           "title": "jumlah pengguna internet",
           "item_title": "Dinas Komunikasi dan Informatika"
         },
         {
-          "id": "407",
+          "id": 407,
           "title": "Data dan Produsen Data",
           "item_title": "Dinas Komunikasi dan Informatika"
         },
         {
-          "id": "459",
+          "id": 459,
           "title": "Cakupan Ketersediaan Data Statistik Sektoral",
           "item_title": "Dinas Komunikasi dan Informatika"
         },
         {
-          "id": "460",
+          "id": 460,
           "title": "Persentase Perangkat Daerah yang Melaksanakan Kebijakan Keamanan Informasi",
           "item_title": "Dinas Komunikasi dan Informatika"
         },
         {
-          "id": "499",
+          "id": 499,
           "title": "Evaluasi Statistik",
           "item_title": "Dinas Komunikasi dan Informatika"
         },
         {
-          "id": "500",
+          "id": 500,
           "title": "Persentase Perangkat Daerah (PD) dan/atau unit pelaksana teknis daerah yang terhubung dengan akses internet yang disediakan oleh Dinas Kominfo",
           "item_title": "Dinas Komunikasi dan Informatika"
         },
         {
-          "id": "501",
+          "id": 501,
           "title": "Persentase Perangkat Daerah (PD) di tingkat Kabupaten/Kota yang terhubung dengan Jaringan Intra Pemerintah Daerah",
           "item_title": "Dinas Komunikasi dan Informatika"
         },
         {
-          "id": "502",
+          "id": 502,
           "title": "Indeks Masyarakat Digital (IMD)",
           "item_title": "Dinas Komunikasi dan Informatika"
         },
         {
-          "id": "503",
+          "id": 503,
           "title": "Persentase Perangkat Daerah yang Memanfaatkan Sistem Penghubung Layanan Pemerintah Daerah (SPLPD)",
           "item_title": "Dinas Komunikasi dan Informatika"
         },
         {
-          "id": "504",
+          "id": 504,
           "title": "Tingkat kesiapan pengamanan informasi pemerintah daerah",
           "item_title": "Dinas Komunikasi dan Informatika"
         },
         {
-          "id": "346",
+          "id": 346,
           "title": "Kecamatan dengan Kinerja Baik",
           "item_title": "Bagian Tata Pemerintahan"
         },
         {
-          "id": "464",
+          "id": 464,
           "title": "Nilai LPPD",
           "item_title": "Bagian Tata Pemerintahan"
         },
         {
-          "id": "386",
+          "id": 386,
           "title": "Indeks Pelayanan Publik/IKM",
           "item_title": "Bagian Organisasi"
         },
         {
-          "id": "387",
+          "id": 387,
           "title": "Indeks Reformasi Birokrasi",
           "item_title": "Bagian Organisasi"
         },
         {
-          "id": "388",
+          "id": 388,
           "title": "Nilai SAKIP",
           "item_title": "Bagian Organisasi"
         },
         {
-          "id": "373",
+          "id": 373,
           "title": "Indeks Kualitas Layanan Infrastruktur",
           "item_title": "Badan Perencanaan Pembangaunan, Penelitian dan Pengembangan Daerah"
         },
         {
-          "id": "374",
+          "id": 374,
           "title": "Indeks Toleransi",
           "item_title": "Badan Perencanaan Pembangaunan, Penelitian dan Pengembangan Daerah"
         },
         {
-          "id": "375",
+          "id": 375,
           "title": "Persentase Dokumen Perencanaan yang Disusun Tepat Waktu",
           "item_title": "Badan Perencanaan Pembangaunan, Penelitian dan Pengembangan Daerah"
         },
         {
-          "id": "376",
+          "id": 376,
           "title": "Persentase Keselarasan Dokumen Perencanaan Pembangunan Daerah",
           "item_title": "Badan Perencanaan Pembangaunan, Penelitian dan Pengembangan Daerah"
         },
         {
-          "id": "377",
+          "id": 377,
           "title": "Indeks Infrastruktur",
           "item_title": "Badan Perencanaan Pembangaunan, Penelitian dan Pengembangan Daerah"
         },
         {
-          "id": "379",
+          "id": 379,
           "title": "Indeks Inovasi Daerah",
           "item_title": "Badan Perencanaan Pembangaunan, Penelitian dan Pengembangan Daerah"
         },
         {
-          "id": "466",
+          "id": 466,
           "title": "Nilai Maturitas Penyelenggaraan SPIP",
           "item_title": "Inspektorat"
         },
         {
-          "id": "467",
+          "id": 467,
           "title": "Level Kapabilitas APIP",
           "item_title": "Inspektorat"
         },
         {
-          "id": "468",
+          "id": 468,
           "title": "Nilai Manajemen Risiko Indeks (MRI)",
           "item_title": "Inspektorat"
         },
         {
-          "id": "469",
+          "id": 469,
           "title": "Persentase Tindaklanjut Rekomendasi BPK Tahun Anggaran N-1",
           "item_title": "Inspektorat"
         },
         {
-          "id": "473",
+          "id": 473,
           "title": "Jumlah Desa dan Kelurahan",
           "item_title": "BPS Kabupaten Magetan"
         }

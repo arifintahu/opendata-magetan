@@ -1,0 +1,40 @@
+{
+  "id": 427,
+  "title": "Indeks Ketahanan Daerah",
+  "item_title": "Pelaksana Badan Penanggulangan Bencana Daerah",
+  "opd_id": 4,
+  "category": "disaster-security",
+  "url": "https://dasatama.magetan.go.id/detail/427",
+  "scraped_at": "2026-05-07T13:16:38",
+  "metadata": {
+    "concept": "Indeks Ketahanan Daerah",
+    "classification": "",
+    "measure": "Indeks",
+    "unit": "",
+    "period": "Tahunan",
+    "created_at": "2025-08-27 12:47:56",
+    "updated_at": "2026-02-03 11:12:42"
+  },
+  "total_data": 1,
+  "data": [
+    {
+      "name": "Indeks Ketahanan Daerah",
+      "type": "number",
+      "years": {
+        "total": 2,
+        "min": 2024,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 0.67
+        },
+        {
+          "year": 2025,
+          "value": 0.67
+        }
+      ]
+    }
+  ]
+}

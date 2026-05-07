@@ -1,0 +1,159 @@
+{
+  "id": 126,
+  "title": "Tenaga Kesehatan",
+  "item_title": "Dinas Kesehatan",
+  "opd_id": 7,
+  "category": "health",
+  "url": "https://dasatama.magetan.go.id/detail/126",
+  "scraped_at": "2026-05-07T13:17:30",
+  "metadata": {
+    "concept": "Tenaga Kesehatan",
+    "classification": "Jenis Tenaga Kesehatan",
+    "measure": "Jumlah",
+    "unit": "Orang",
+    "period": "Tahunan",
+    "created_at": "2023-12-19 15:41:27",
+    "updated_at": ""
+  },
+  "total_data": 6,
+  "data": [
+    {
+      "name": "T Keperawatan",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 852
+        },
+        {
+          "year": 2023,
+          "value": 973
+        },
+        {
+          "year": 2024,
+          "value": 1096
+        }
+      ]
+    },
+    {
+      "name": "T Kebidanan",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 534
+        },
+        {
+          "year": 2023,
+          "value": 591
+        },
+        {
+          "year": 2024,
+          "value": 760
+        }
+      ]
+    },
+    {
+      "name": "T Kesehatan Masyarakat",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 37
+        },
+        {
+          "year": 2023,
+          "value": 73
+        },
+        {
+          "year": 2024,
+          "value": 77
+        }
+      ]
+    },
+    {
+      "name": "T Kesehatan Lingkungan",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 49
+        },
+        {
+          "year": 2023,
+          "value": 55
+        },
+        {
+          "year": 2024,
+          "value": 49
+        }
+      ]
+    },
+    {
+      "name": "T Gizi",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 54
+        },
+        {
+          "year": 2023,
+          "value": 54
+        },
+        {
+          "year": 2024,
+          "value": 56
+        }
+      ]
+    },
+    {
+      "name": "Keterapian Fisik",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 20
+        },
+        {
+          "year": 2023,
+          "value": 26
+        },
+        {
+          "year": 2024,
+          "value": 36
+        }
+      ]
+    }
+  ]
+}

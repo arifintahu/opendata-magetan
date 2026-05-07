@@ -1,0 +1,52 @@
+{
+  "id": 433,
+  "title": "Indeks Kepuasan Layanan Kependudukan",
+  "item_title": "Dinas Kependudukan dan Pencatatan Sipil",
+  "opd_id": 14,
+  "category": "demographics",
+  "url": "https://dasatama.magetan.go.id/detail/433",
+  "scraped_at": "2026-05-07T13:18:31",
+  "metadata": {
+    "concept": "IKM",
+    "classification": "",
+    "measure": "Indeks/ Nilai",
+    "unit": "",
+    "period": "Tahunan",
+    "created_at": "2025-08-28 14:12:28",
+    "updated_at": ""
+  },
+  "total_data": 1,
+  "data": [
+    {
+      "name": "ESKM",
+      "type": "number",
+      "years": {
+        "total": 5,
+        "min": 2020,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 85.25
+        },
+        {
+          "year": 2021,
+          "value": 86.5
+        },
+        {
+          "year": 2022,
+          "value": 92.62
+        },
+        {
+          "year": 2023,
+          "value": 96.89
+        },
+        {
+          "year": 2024,
+          "value": 98.54
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "id": 58,
+  "title": "Investasi Penanaman Modal Per Sektor (Thn 2020-2022)",
+  "item_title": "Dinas Penanaman Modal dan Pelayanan Satu Pintu",
+  "opd_id": 18,
+  "category": "investment-sme",
+  "url": "https://dasatama.magetan.go.id/detail/58",
+  "scraped_at": "2026-05-07T13:18:51",
+  "metadata": {
+    "concept": "Investasi",
+    "classification": "Sektor",
+    "measure": "Jumlah",
+    "unit": "Rupiah",
+    "period": "Tahunan",
+    "created_at": "2023-08-15 13:14:13",
+    "updated_at": ""
+  },
+  "total_data": 10,
+  "data": [
+    {
+      "name": "Pertanian",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2020,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 35228950000
+        },
+        {
+          "year": 2021,
+          "value": 40540350000
+        },
+        {
+          "year": 2022,
+          "value": 5656714273
+        }
+      ]
+    },
+    {
+      "name": "Pertambangan dan Penggalian",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2020,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 22334000000
+        }
+      ]
+    },
+    {
+      "name": "Industri Pengolahan",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2020,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 280323196205
+        },
+        {
+          "year": 2022,
+          "value": 107525333645
+        }
+      ]
+    },
+    {
+      "name": "Listrik, Gas dan Air bersih",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2020,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 204000000
+        },
+        {
+          "year": 2021,
+          "value": 301000000
+        },
+        {
+          "year": 2022,
+          "value": 217165278924
+        }
+      ]
+    },
+    {
+      "name": "Bangunan",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2020,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 113602058299
+        },
+        {
+          "year": 2022,
+          "value": 484483915805
+        }
+      ]
+    },
+    {
+      "name": "Perdagangan",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2020,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 187940820100
+        },
+        {
+          "year": 2021,
+          "value": 347012146132
+        },
+        {
+          "year": 2022,
+          "value": 335434153572
+        }
+      ]
+    },
+    {
+      "name": "Hotel dan Restoran",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2020,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 48746340000
+        },
+        {
+          "year": 2021,
+          "value": 88832181000
+        },
+        {
+          "year": 2022,
+          "value": 20891890212
+        }
+      ]
+    },
+    {
+      "name": "Pengangkutan dan komunikasi",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2020,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 10456880000
+        },
+        {
+          "year": 2021,
+          "value": 17419834401
+        },
+        {
+          "year": 2022,
+          "value": 25690978402
+        }
+      ]
+    },
+    {
+      "name": "Keuangan, persewaan dan jasa perusahaan",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2020,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Jasa-jasa",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2020,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 71947299500
+        },
+        {
+          "year": 2021,
+          "value": 126338907194
+        },
+        {
+          "year": 2022,
+          "value": 204524966637
+        }
+      ]
+    }
+  ]
+}

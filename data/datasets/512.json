@@ -1,0 +1,126 @@
+{
+  "id": 512,
+  "title": "Luas Panen Sayur Buah Semusim",
+  "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan",
+  "opd_id": 27,
+  "category": "agriculture-food",
+  "url": "https://dasatama.magetan.go.id/detail/512",
+  "scraped_at": "2026-05-07T13:20:12",
+  "metadata": {
+    "concept": "Panen",
+    "classification": "Jenis Sayur Buah Semusim",
+    "measure": "Luas",
+    "unit": "Ha",
+    "period": "Tahunan",
+    "created_at": "2026-03-16 09:19:48",
+    "updated_at": "2026-03-16 09:21:40"
+  },
+  "total_data": 7,
+  "data": [
+    {
+      "name": "Bawang Daun",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2025,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2025,
+          "value": 1059
+        }
+      ]
+    },
+    {
+      "name": "Wortel",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2025,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2025,
+          "value": 724
+        }
+      ]
+    },
+    {
+      "name": "Petsai/Sawi",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2025,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2025,
+          "value": 469
+        }
+      ]
+    },
+    {
+      "name": "Bawang Merah",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2025,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2025,
+          "value": 502
+        }
+      ]
+    },
+    {
+      "name": "Kubis",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2025,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2025,
+          "value": 446
+        }
+      ]
+    },
+    {
+      "name": "Cabai Keriting",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2025,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2025,
+          "value": 556
+        }
+      ]
+    },
+    {
+      "name": "Tanaman Lain",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2025,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2025,
+          "value": 2909
+        }
+      ]
+    }
+  ]
+}

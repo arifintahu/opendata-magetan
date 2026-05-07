@@ -1,0 +1,52 @@
+{
+  "id": 481,
+  "title": "PDRB Per Kapita",
+  "item_title": "BPS Kabupaten Magetan",
+  "opd_id": 41,
+  "category": "macro-economy",
+  "url": "https://dasatama.magetan.go.id/detail/481",
+  "scraped_at": "2026-05-07T13:20:32",
+  "metadata": {
+    "concept": "Produk domestik bruto (PDB)",
+    "classification": "Wilayah",
+    "measure": "Rasio",
+    "unit": "Ribu Rupiah",
+    "period": "Tahunan",
+    "created_at": "2026-03-06 08:58:43",
+    "updated_at": "2026-03-06 09:14:41"
+  },
+  "total_data": 1,
+  "data": [
+    {
+      "name": "PDRB Per Kapita",
+      "type": "number",
+      "years": {
+        "total": 5,
+        "min": 2020,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 28023.8
+        },
+        {
+          "year": 2021,
+          "value": 29080.7
+        },
+        {
+          "year": 2022,
+          "value": 31257.4
+        },
+        {
+          "year": 2023,
+          "value": 33627.2
+        },
+        {
+          "year": 2024,
+          "value": 35853.1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": 138,
+  "title": "Anak Terlantar di Luar Panti (L/P)",
+  "item_title": "Dinas Sosial",
+  "opd_id": 9,
+  "category": "social-labor",
+  "url": "https://dasatama.magetan.go.id/detail/138",
+  "scraped_at": "2026-05-07T13:17:52",
+  "metadata": {
+    "concept": "Anak Terlantar",
+    "classification": "Jenis Kelamin",
+    "measure": "Jumlah",
+    "unit": "Anak",
+    "period": "Tahunan",
+    "created_at": "2023-12-20 09:10:51",
+    "updated_at": ""
+  },
+  "total_data": 2,
+  "data": [
+    {
+      "name": "Laki - Laki",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 148
+        },
+        {
+          "year": 2023,
+          "value": 37
+        },
+        {
+          "year": 2024,
+          "value": 7
+        }
+      ]
+    },
+    {
+      "name": "Perempuan",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 150
+        },
+        {
+          "year": 2023,
+          "value": 31
+        },
+        {
+          "year": 2024,
+          "value": 28
+        }
+      ]
+    }
+  ]
+}

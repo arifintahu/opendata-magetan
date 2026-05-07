@@ -1,0 +1,48 @@
+{
+  "id": 378,
+  "title": "Penurunan emisi GRK",
+  "item_title": "Badan Perencanaan Pembangaunan, Penelitian dan Pengembangan Daerah",
+  "opd_id": 34,
+  "category": "environment",
+  "url": "https://dasatama.magetan.go.id/detail/378",
+  "scraped_at": "2026-05-07T13:20:23",
+  "metadata": {
+    "concept": "emisi; Gas Rumah Kaca (GRK)",
+    "classification": "Wilayah",
+    "measure": "Persentase",
+    "unit": "Persen",
+    "period": "Tahunan",
+    "created_at": "2025-03-11 09:08:46",
+    "updated_at": ""
+  },
+  "total_data": 1,
+  "data": [
+    {
+      "name": "Penurunan emisi GRK (Ton CO2eq)",
+      "type": "number",
+      "years": {
+        "total": 4,
+        "min": 2020,
+        "max": 2023
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 170767.76
+        },
+        {
+          "year": 2021,
+          "value": 175818.24
+        },
+        {
+          "year": 2022,
+          "value": 447500.24
+        },
+        {
+          "year": 2023,
+          "value": 452149.71
+        }
+      ]
+    }
+  ]
+}

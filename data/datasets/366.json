@@ -1,0 +1,114 @@
+{
+  "id": 366,
+  "title": "Persentase Kesesuaian Ruang",
+  "item_title": "Dinas Pekerjaan Umum dan Penataan Ruang",
+  "opd_id": 20,
+  "category": "infrastructure",
+  "url": "https://dasatama.magetan.go.id/detail/366",
+  "scraped_at": "2026-05-07T13:19:12",
+  "metadata": {
+    "concept": "",
+    "classification": "",
+    "measure": "Luas; Persentase",
+    "unit": "m2; persen",
+    "period": "Tahunan",
+    "created_at": "2025-03-03 07:39:23",
+    "updated_at": "2026-02-25 13:20:55"
+  },
+  "total_data": 3,
+  "data": [
+    {
+      "name": "Luas yang dimohonkan (m2)",
+      "type": "number",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 259112.0
+        },
+        {
+          "year": 2022,
+          "value": 591354.66
+        },
+        {
+          "year": 2023,
+          "value": 490122.35
+        },
+        {
+          "year": 2024,
+          "value": 2083462.82
+        },
+        {
+          "year": 2025,
+          "value": 490026.7
+        }
+      ]
+    },
+    {
+      "name": "Luas yang sesuai (m2)",
+      "type": "number",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 254453.0
+        },
+        {
+          "year": 2022,
+          "value": 578418.16
+        },
+        {
+          "year": 2023,
+          "value": 486247.35
+        },
+        {
+          "year": 2024,
+          "value": 2048215.82
+        },
+        {
+          "year": 2025,
+          "value": 459118.7
+        }
+      ]
+    },
+    {
+      "name": "Persentase Kesesuaian Ruang",
+      "type": "number",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 98.2
+        },
+        {
+          "year": 2022,
+          "value": 97.81
+        },
+        {
+          "year": 2023,
+          "value": 99.21
+        },
+        {
+          "year": 2024,
+          "value": 98.31
+        },
+        {
+          "year": 2025,
+          "value": 93.69
+        }
+      ]
+    }
+  ]
+}

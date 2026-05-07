@@ -1,0 +1,51 @@
+{
+  "id": 341,
+  "title": "jumlah pengguna internet",
+  "item_title": "Dinas Komunikasi dan Informatika",
+  "opd_id": 22,
+  "category": "governance",
+  "url": "https://dasatama.magetan.go.id/detail/341",
+  "scraped_at": "2026-05-07T13:19:25",
+  "metadata": {
+    "concept": "",
+    "classification": "",
+    "measure": "",
+    "unit": "",
+    "period": "",
+    "created_at": "2025-02-11 09:53:28",
+    "updated_at": ""
+  },
+  "total_data": 2,
+  "data": [
+    {
+      "name": "provider",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 54
+        }
+      ]
+    },
+    {
+      "name": "banwidt",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2024,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2024,
+          "value": 7676
+        }
+      ]
+    }
+  ]
+}

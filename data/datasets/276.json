@@ -1,0 +1,255 @@
+{
+  "id": 276,
+  "title": "Rekap Laporan Realisasi Anggaran (LRA)",
+  "item_title": "Badan Pengelolaan Keuangan dan Pendapatan Daerah",
+  "opd_id": 5,
+  "category": "governance",
+  "url": "https://dasatama.magetan.go.id/detail/276",
+  "scraped_at": "2026-05-07T13:16:41",
+  "metadata": {
+    "concept": "Anggaran",
+    "classification": "",
+    "measure": "Jumlah",
+    "unit": "Rupiah",
+    "period": "Tahunan",
+    "created_at": "2024-03-19 15:15:13",
+    "updated_at": ""
+  },
+  "total_data": 6,
+  "data": [
+    {
+      "name": "Pendapatan",
+      "type": "number",
+      "years": {
+        "total": 7,
+        "min": 2018,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2018,
+          "value": 1828792472409.96
+        },
+        {
+          "year": 2019,
+          "value": 1936559034997.6
+        },
+        {
+          "year": 2020,
+          "value": 1801812706354.25
+        },
+        {
+          "year": 2021,
+          "value": 1896117538030.5
+        },
+        {
+          "year": 2022,
+          "value": 1845412433875.57
+        },
+        {
+          "year": 2023,
+          "value": 1911581172615.32
+        },
+        {
+          "year": 2024,
+          "value": 2027541799397.53
+        }
+      ]
+    },
+    {
+      "name": "Belanja",
+      "type": "number",
+      "years": {
+        "total": 7,
+        "min": 2018,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2018,
+          "value": 1716126360246.85
+        },
+        {
+          "year": 2019,
+          "value": 1984643458387.78
+        },
+        {
+          "year": 2020,
+          "value": 1790371695588.21
+        },
+        {
+          "year": 2021,
+          "value": 1773058306092.0
+        },
+        {
+          "year": 2022,
+          "value": 1971226045197.85
+        },
+        {
+          "year": 2023,
+          "value": 1982847187895.71
+        },
+        {
+          "year": 2024,
+          "value": 2075890199841.83
+        }
+      ]
+    },
+    {
+      "name": "Surplus / (Defisit)",
+      "type": "number",
+      "years": {
+        "total": 7,
+        "min": 2018,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2018,
+          "value": 112666112163.11
+        },
+        {
+          "year": 2019,
+          "value": -48084423390.18
+        },
+        {
+          "year": 2020,
+          "value": 11441010766.04
+        },
+        {
+          "year": 2021,
+          "value": 123059231938.5
+        },
+        {
+          "year": 2022,
+          "value": -125813611322.28
+        },
+        {
+          "year": 2023,
+          "value": -71266015280.39
+        },
+        {
+          "year": 2024,
+          "value": -48348400444.3
+        }
+      ]
+    },
+    {
+      "name": "Pembiayaan Netto",
+      "type": "number",
+      "years": {
+        "total": 7,
+        "min": 2018,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2018,
+          "value": 179341201090.0
+        },
+        {
+          "year": 2019,
+          "value": 286789712253.11
+        },
+        {
+          "year": 2020,
+          "value": 233517975761.72
+        },
+        {
+          "year": 2021,
+          "value": 240006096527.76
+        },
+        {
+          "year": 2022,
+          "value": 347156025966.26
+        },
+        {
+          "year": 2023,
+          "value": 233950685424.63
+        },
+        {
+          "year": 2024,
+          "value": 161244150144.24
+        }
+      ]
+    },
+    {
+      "name": "Sisa Lebih Pembiayaan Anggaran (SILPA)",
+      "type": "number",
+      "years": {
+        "total": 7,
+        "min": 2018,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2018,
+          "value": 292007313253.11
+        },
+        {
+          "year": 2019,
+          "value": 238705288862.93
+        },
+        {
+          "year": 2020,
+          "value": 244958986527.76
+        },
+        {
+          "year": 2021,
+          "value": 363065328466.26
+        },
+        {
+          "year": 2022,
+          "value": 221342414643.98
+        },
+        {
+          "year": 2023,
+          "value": 162684670144.24
+        },
+        {
+          "year": 2024,
+          "value": 112895749699.94
+        }
+      ]
+    },
+    {
+      "name": "keterangan",
+      "type": "string",
+      "years": {
+        "total": 7,
+        "min": 2018,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2018,
+          "value": "audited"
+        },
+        {
+          "year": 2019,
+          "value": "audited"
+        },
+        {
+          "year": 2020,
+          "value": "audited"
+        },
+        {
+          "year": 2021,
+          "value": "audited"
+        },
+        {
+          "year": 2022,
+          "value": "audited"
+        },
+        {
+          "year": 2023,
+          "value": "audited"
+        },
+        {
+          "year": 2024,
+          "value": "unaudited"
+        }
+      ]
+    }
+  ]
+}

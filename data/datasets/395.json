@@ -1,0 +1,52 @@
+{
+  "id": 395,
+  "title": "Persentase Koperasi Sehat",
+  "item_title": "Dinas Koperasi dan Usaha Mikro",
+  "opd_id": 8,
+  "category": "investment-sme",
+  "url": "https://dasatama.magetan.go.id/detail/395",
+  "scraped_at": "2026-05-07T13:17:46",
+  "metadata": {
+    "concept": "Koperasi Sehat",
+    "classification": "",
+    "measure": "Persentase",
+    "unit": "Persen",
+    "period": "Tahunan",
+    "created_at": "2025-04-11 08:25:35",
+    "updated_at": "2025-10-03 09:00:41"
+  },
+  "total_data": 1,
+  "data": [
+    {
+      "name": "Persentase Koperasi Sehat",
+      "type": "string",
+      "years": {
+        "total": 5,
+        "min": 2020,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": "-"
+        },
+        {
+          "year": 2021,
+          "value": "-"
+        },
+        {
+          "year": 2022,
+          "value": "79"
+        },
+        {
+          "year": 2023,
+          "value": "40"
+        },
+        {
+          "year": 2024,
+          "value": "76"
+        }
+      ]
+    }
+  ]
+}

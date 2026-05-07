@@ -1,0 +1,173 @@
+{
+  "id": 297,
+  "title": "Jenis Flora dan Fauna yang Dilindungi",
+  "item_title": "Dinas Lingkungan Hidup dan Pangan",
+  "opd_id": 16,
+  "category": "environment",
+  "url": "https://dasatama.magetan.go.id/detail/297",
+  "scraped_at": "2026-05-07T13:18:42",
+  "metadata": {
+    "concept": "Flora; Fauna",
+    "classification": "Jenis Flora dan Fauna",
+    "measure": "Jumlah",
+    "unit": "Ekor; Tumbuhan",
+    "period": "Tahunan",
+    "created_at": "2024-04-26 08:56:26",
+    "updated_at": ""
+  },
+  "total_data": 8,
+  "data": [
+    {
+      "name": "Mamlia",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2021,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 11
+        },
+        {
+          "year": 2022,
+          "value": 6
+        }
+      ]
+    },
+    {
+      "name": "Aves",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2021,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 27
+        },
+        {
+          "year": 2022,
+          "value": 27
+        }
+      ]
+    },
+    {
+      "name": "Reptil",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2021,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 4
+        },
+        {
+          "year": 2022,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "name": "Amphibi",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2021,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Ikan",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2021,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Serangga",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2021,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Keong",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2021,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Tumbuhan",
+      "type": "integer",
+      "years": {
+        "total": 2,
+        "min": 2021,
+        "max": 2022
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 1
+        },
+        {
+          "year": 2022,
+          "value": 1
+        }
+      ]
+    }
+  ]
+}

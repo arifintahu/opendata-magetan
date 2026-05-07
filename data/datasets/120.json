@@ -1,0 +1,44 @@
+{
+  "id": 120,
+  "title": "Jumlah Keluarga Sehat",
+  "item_title": "Dinas Kesehatan",
+  "opd_id": 7,
+  "category": "health",
+  "url": "https://dasatama.magetan.go.id/detail/120",
+  "scraped_at": "2026-05-07T13:17:27",
+  "metadata": {
+    "concept": "Keluarga Sehat",
+    "classification": "",
+    "measure": "Jumlah",
+    "unit": "Keluarga",
+    "period": "Tahunan",
+    "created_at": "2023-12-19 14:48:19",
+    "updated_at": ""
+  },
+  "total_data": 1,
+  "data": [
+    {
+      "name": "Keluarga Sehat",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 41550
+        },
+        {
+          "year": 2023,
+          "value": 42323
+        },
+        {
+          "year": 2024,
+          "value": 42445
+        }
+      ]
+    }
+  ]
+}

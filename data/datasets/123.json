@@ -1,0 +1,182 @@
+{
+  "id": 123,
+  "title": "Tempat Pengelolaan Pangan (TPP) (%)",
+  "item_title": "Dinas Kesehatan",
+  "opd_id": 7,
+  "category": "health",
+  "url": "https://dasatama.magetan.go.id/detail/123",
+  "scraped_at": "2026-05-07T13:17:29",
+  "metadata": {
+    "concept": "Tempat Pengelolaan Pangan (TPP)",
+    "classification": "Jenis Tempat Pengelolaan Pangan (TPP)",
+    "measure": "Persentase",
+    "unit": "Persen",
+    "period": "Tahunan",
+    "created_at": "2023-12-19 15:08:17",
+    "updated_at": ""
+  },
+  "total_data": 7,
+  "data": [
+    {
+      "name": "Jasa Boga",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 46
+        },
+        {
+          "year": 2023,
+          "value": 28
+        },
+        {
+          "year": 2024,
+          "value": 65
+        }
+      ]
+    },
+    {
+      "name": "Restoran",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 75
+        },
+        {
+          "year": 2023,
+          "value": 72
+        },
+        {
+          "year": 2024,
+          "value": 37
+        }
+      ]
+    },
+    {
+      "name": "TPP Tertentu",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 32
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 6
+        }
+      ]
+    },
+    {
+      "name": "Depot Air Minum",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 85
+        },
+        {
+          "year": 2023,
+          "value": 94
+        },
+        {
+          "year": 2024,
+          "value": 95
+        }
+      ]
+    },
+    {
+      "name": "Rumah Makan",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 62
+        },
+        {
+          "year": 2023,
+          "value": 57
+        },
+        {
+          "year": 2024,
+          "value": 98
+        }
+      ]
+    },
+    {
+      "name": "Gerai Pangan Jajanan",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 85
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "Kantin",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 67
+        },
+        {
+          "year": 2023,
+          "value": 43
+        },
+        {
+          "year": 2024,
+          "value": 87
+        }
+      ]
+    }
+  ]
+}

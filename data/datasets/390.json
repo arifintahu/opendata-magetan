@@ -1,0 +1,83 @@
+{
+  "id": 390,
+  "title": "Total Fertility Rate",
+  "item_title": "Dinas Pengendalian Penduduk, Keluarga Berencana, Pemberdayaan Perempuan, dan Perlindungan Anak",
+  "opd_id": 21,
+  "category": "health",
+  "url": "https://dasatama.magetan.go.id/detail/390",
+  "scraped_at": "2026-05-07T13:19:21",
+  "metadata": {
+    "concept": "Kelahiran Hidup",
+    "classification": "Wilayah",
+    "measure": "Indeks",
+    "unit": "",
+    "period": "Tahunan",
+    "created_at": "2025-04-08 14:33:45",
+    "updated_at": "2026-04-06 09:41:28"
+  },
+  "total_data": 2,
+  "data": [
+    {
+      "name": "Total Fertility Rate",
+      "type": "number",
+      "years": {
+        "total": 5,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 2.1
+        },
+        {
+          "year": 2021,
+          "value": 0.0
+        },
+        {
+          "year": 2022,
+          "value": 0.0
+        },
+        {
+          "year": 2023,
+          "value": 2.09
+        },
+        {
+          "year": 2025,
+          "value": 1.95
+        }
+      ]
+    },
+    {
+      "name": "Age Specific Fertility Rate (ASFR) 15-19",
+      "type": "number",
+      "years": {
+        "total": 5,
+        "min": 2020,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 0.0
+        },
+        {
+          "year": 2021,
+          "value": 0.0
+        },
+        {
+          "year": 2022,
+          "value": 2.1
+        },
+        {
+          "year": 2023,
+          "value": 0.0
+        },
+        {
+          "year": 2025,
+          "value": 16.3
+        }
+      ]
+    }
+  ]
+}

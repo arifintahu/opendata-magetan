@@ -1,0 +1,183 @@
+{
+  "id": 227,
+  "title": "Hasil Produksi Tanaman Biofarmaka (Kg)",
+  "item_title": "Dinas Tanaman Pangan, Holtikultura, dan Perkebunan",
+  "opd_id": 27,
+  "category": "agriculture-food",
+  "url": "https://dasatama.magetan.go.id/detail/227",
+  "scraped_at": "2026-05-07T13:20:04",
+  "metadata": {
+    "concept": "Biofarmaka",
+    "classification": "Jenis Tanaman biofarmaka",
+    "measure": "Berat",
+    "unit": "Kg",
+    "period": "Tahunan",
+    "created_at": "2024-01-15 14:45:53",
+    "updated_at": "2026-03-13 10:55:23"
+  },
+  "total_data": 6,
+  "data": [
+    {
+      "name": "Kunyit",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 4205850
+        },
+        {
+          "year": 2023,
+          "value": 5008689
+        },
+        {
+          "year": 2024,
+          "value": 2521939
+        },
+        {
+          "year": 2025,
+          "value": 3243037
+        }
+      ]
+    },
+    {
+      "name": "Jahe",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 2677002
+        },
+        {
+          "year": 2023,
+          "value": 3808015
+        },
+        {
+          "year": 2024,
+          "value": 2097935
+        },
+        {
+          "year": 2025,
+          "value": 3695974
+        }
+      ]
+    },
+    {
+      "name": "Laos/Lengkuas",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 29047
+        },
+        {
+          "year": 2023,
+          "value": 85557
+        },
+        {
+          "year": 2024,
+          "value": 131801
+        },
+        {
+          "year": 2025,
+          "value": 180900
+        }
+      ]
+    },
+    {
+      "name": "Lempuyang",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 24202
+        },
+        {
+          "year": 2023,
+          "value": 30669
+        },
+        {
+          "year": 2024,
+          "value": 53516
+        },
+        {
+          "year": 2025,
+          "value": 20888
+        }
+      ]
+    },
+    {
+      "name": "Temulawak",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 23514
+        },
+        {
+          "year": 2023,
+          "value": 33032
+        },
+        {
+          "year": 2024,
+          "value": 53904
+        },
+        {
+          "year": 2025,
+          "value": 1723
+        }
+      ]
+    },
+    {
+      "name": "Tanaman Lain",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 43646
+        },
+        {
+          "year": 2023,
+          "value": 95421
+        },
+        {
+          "year": 2024,
+          "value": 176012
+        },
+        {
+          "year": 2025,
+          "value": 206360
+        }
+      ]
+    }
+  ]
+}

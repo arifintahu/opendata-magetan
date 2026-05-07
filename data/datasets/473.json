@@ -1,0 +1,291 @@
+{
+  "id": 473,
+  "title": "Jumlah Desa dan Kelurahan",
+  "item_title": "BPS Kabupaten Magetan",
+  "opd_id": 41,
+  "category": "governance",
+  "url": "https://dasatama.magetan.go.id/detail/473",
+  "scraped_at": "2026-05-07T13:20:28",
+  "metadata": {
+    "concept": "Desa/ Kelurahan",
+    "classification": "Wilayah",
+    "measure": "Jumlah",
+    "unit": "Desa/ Kelurahan",
+    "period": "Tahunan",
+    "created_at": "2026-03-05 13:06:02",
+    "updated_at": "2026-03-05 13:28:59"
+  },
+  "total_data": 18,
+  "data": [
+    {
+      "name": "Poncol",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2025,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2025,
+          "value": 8
+        }
+      ]
+    },
+    {
+      "name": "Parang",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2025,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2025,
+          "value": 13
+        }
+      ]
+    },
+    {
+      "name": "Lembeyan",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2025,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2025,
+          "value": 10
+        }
+      ]
+    },
+    {
+      "name": "Takeran",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2025,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2025,
+          "value": 12
+        }
+      ]
+    },
+    {
+      "name": "Nguntoronadi",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2025,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2025,
+          "value": 9
+        }
+      ]
+    },
+    {
+      "name": "Kawedanan",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2025,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2025,
+          "value": 20
+        }
+      ]
+    },
+    {
+      "name": "Magetan",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2025,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2025,
+          "value": 14
+        }
+      ]
+    },
+    {
+      "name": "Ngariboyo",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2025,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2025,
+          "value": 12
+        }
+      ]
+    },
+    {
+      "name": "Plaosan",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2025,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2025,
+          "value": 15
+        }
+      ]
+    },
+    {
+      "name": "Sidorejo",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2025,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2025,
+          "value": 10
+        }
+      ]
+    },
+    {
+      "name": "Panekan",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2025,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2025,
+          "value": 17
+        }
+      ]
+    },
+    {
+      "name": "Sukomoro",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2025,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2025,
+          "value": 14
+        }
+      ]
+    },
+    {
+      "name": "Bendo",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2025,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2025,
+          "value": 16
+        }
+      ]
+    },
+    {
+      "name": "Maospati",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2025,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2025,
+          "value": 15
+        }
+      ]
+    },
+    {
+      "name": "Karangrejo",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2025,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2025,
+          "value": 13
+        }
+      ]
+    },
+    {
+      "name": "Karas",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2025,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2025,
+          "value": 11
+        }
+      ]
+    },
+    {
+      "name": "Barat",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2025,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2025,
+          "value": 14
+        }
+      ]
+    },
+    {
+      "name": "Kartoharjo",
+      "type": "integer",
+      "years": {
+        "total": 1,
+        "min": 2025,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2025,
+          "value": 12
+        }
+      ]
+    }
+  ]
+}

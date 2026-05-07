@@ -1,0 +1,44 @@
+{
+  "id": 457,
+  "title": "Indeks Minat Baca",
+  "item_title": "Dinas Kearsip dan Perpustakaan",
+  "opd_id": 1,
+  "category": "education",
+  "url": "https://dasatama.magetan.go.id/detail/457",
+  "scraped_at": "2026-05-07T13:16:21",
+  "metadata": {
+    "concept": "Minat Baca",
+    "classification": "Wilayah",
+    "measure": "Indeks",
+    "unit": "",
+    "period": "Tahunan",
+    "created_at": "2025-09-25 14:46:49",
+    "updated_at": "2026-02-24 11:45:06"
+  },
+  "total_data": 1,
+  "data": [
+    {
+      "name": "Indeks Minat Baca",
+      "type": "number",
+      "years": {
+        "total": 3,
+        "min": 2023,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2023,
+          "value": 78.53
+        },
+        {
+          "year": 2024,
+          "value": 81.24
+        },
+        {
+          "year": 2025,
+          "value": 82.56
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": 99,
+  "title": "Jumlah Siswa SD (L/P)",
+  "item_title": "Dinas Pendidikan Kepemudaan, dan Olah Raga",
+  "opd_id": 6,
+  "category": "education",
+  "url": "https://dasatama.magetan.go.id/detail/99",
+  "scraped_at": "2026-05-07T13:16:47",
+  "metadata": {
+    "concept": "Siswa",
+    "classification": "Jenis Kelamin",
+    "measure": "Jumlah",
+    "unit": "Orang/ Siswa",
+    "period": "Tahunan",
+    "created_at": "2023-12-19 12:33:41",
+    "updated_at": ""
+  },
+  "total_data": 2,
+  "data": [
+    {
+      "name": "Laki - Laki",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 18740
+        },
+        {
+          "year": 2023,
+          "value": 17703
+        },
+        {
+          "year": 2024,
+          "value": 17773
+        },
+        {
+          "year": 2025,
+          "value": 17543
+        }
+      ]
+    },
+    {
+      "name": "Perempuan",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 17432
+        },
+        {
+          "year": 2023,
+          "value": 16551
+        },
+        {
+          "year": 2024,
+          "value": 16413
+        },
+        {
+          "year": 2025,
+          "value": 16253
+        }
+      ]
+    }
+  ]
+}

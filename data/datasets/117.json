@@ -1,0 +1,90 @@
+{
+  "id": 117,
+  "title": "Pelayanan Kesehatan Ibu Hamil (%)",
+  "item_title": "Dinas Kesehatan",
+  "opd_id": 7,
+  "category": "health",
+  "url": "https://dasatama.magetan.go.id/detail/117",
+  "scraped_at": "2026-05-07T13:17:25",
+  "metadata": {
+    "concept": "Pelayanan Kesehatan Ibu Hamil",
+    "classification": "Jenis Pelayanan Kesehatan Ibu Hamil",
+    "measure": "Persentase",
+    "unit": "Persen",
+    "period": "Tahunan",
+    "created_at": "2023-12-19 14:26:06",
+    "updated_at": ""
+  },
+  "total_data": 3,
+  "data": [
+    {
+      "name": "kompetensi klinis dan kebidanan (K1)",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 96
+        },
+        {
+          "year": 2023,
+          "value": 93
+        },
+        {
+          "year": 2024,
+          "value": 62
+        }
+      ]
+    },
+    {
+      "name": "kontak ke-4 (K4)",
+      "type": "number",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 88.0
+        },
+        {
+          "year": 2023,
+          "value": 85.0
+        },
+        {
+          "year": 2024,
+          "value": 62.7
+        }
+      ]
+    },
+    {
+      "name": "kontak ke-6 (K6)",
+      "type": "integer",
+      "years": {
+        "total": 3,
+        "min": 2022,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 76
+        },
+        {
+          "year": 2023,
+          "value": 80
+        },
+        {
+          "year": 2024,
+          "value": 62
+        }
+      ]
+    }
+  ]
+}

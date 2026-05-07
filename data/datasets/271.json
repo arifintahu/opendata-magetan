@@ -1,0 +1,507 @@
+{
+  "id": 271,
+  "title": "Sebaran Proyek Per Kecamatan",
+  "item_title": "Dinas Penanaman Modal dan Pelayanan Satu Pintu",
+  "opd_id": 18,
+  "category": "investment-sme",
+  "url": "https://dasatama.magetan.go.id/detail/271",
+  "scraped_at": "2026-05-07T13:18:58",
+  "metadata": {
+    "concept": "Proyek",
+    "classification": "Wilayah (Kecamatan)",
+    "measure": "Jumlah",
+    "unit": "Proyek",
+    "period": "Tahunan",
+    "created_at": "2024-02-28 13:55:29",
+    "updated_at": "2026-02-25 11:05:07"
+  },
+  "total_data": 18,
+  "data": [
+    {
+      "name": "Magetan",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 1444
+        },
+        {
+          "year": 2023,
+          "value": 3482
+        },
+        {
+          "year": 2024,
+          "value": 1913
+        },
+        {
+          "year": 2025,
+          "value": 1646
+        }
+      ]
+    },
+    {
+      "name": "Plaosan",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 724
+        },
+        {
+          "year": 2023,
+          "value": 1789
+        },
+        {
+          "year": 2024,
+          "value": 756
+        },
+        {
+          "year": 2025,
+          "value": 405
+        }
+      ]
+    },
+    {
+      "name": "Maospati",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 529
+        },
+        {
+          "year": 2023,
+          "value": 1490
+        },
+        {
+          "year": 2024,
+          "value": 841
+        },
+        {
+          "year": 2025,
+          "value": 949
+        }
+      ]
+    },
+    {
+      "name": "Panekan",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 421
+        },
+        {
+          "year": 2023,
+          "value": 1609
+        },
+        {
+          "year": 2024,
+          "value": 809
+        },
+        {
+          "year": 2025,
+          "value": 664
+        }
+      ]
+    },
+    {
+      "name": "Kawedanan",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 334
+        },
+        {
+          "year": 2023,
+          "value": 1332
+        },
+        {
+          "year": 2024,
+          "value": 600
+        },
+        {
+          "year": 2025,
+          "value": 461
+        }
+      ]
+    },
+    {
+      "name": "Lembeyan",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 331
+        },
+        {
+          "year": 2023,
+          "value": 798
+        },
+        {
+          "year": 2024,
+          "value": 411
+        },
+        {
+          "year": 2025,
+          "value": 417
+        }
+      ]
+    },
+    {
+      "name": "Ngariboyo",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 324
+        },
+        {
+          "year": 2023,
+          "value": 1119
+        },
+        {
+          "year": 2024,
+          "value": 622
+        },
+        {
+          "year": 2025,
+          "value": 521
+        }
+      ]
+    },
+    {
+      "name": "Sukomoro",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 318
+        },
+        {
+          "year": 2023,
+          "value": 1307
+        },
+        {
+          "year": 2024,
+          "value": 495
+        },
+        {
+          "year": 2025,
+          "value": 315
+        }
+      ]
+    },
+    {
+      "name": "Poncol",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 291
+        },
+        {
+          "year": 2023,
+          "value": 792
+        },
+        {
+          "year": 2024,
+          "value": 241
+        },
+        {
+          "year": 2025,
+          "value": 278
+        }
+      ]
+    },
+    {
+      "name": "Takeran",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 281
+        },
+        {
+          "year": 2023,
+          "value": 811
+        },
+        {
+          "year": 2024,
+          "value": 477
+        },
+        {
+          "year": 2025,
+          "value": 356
+        }
+      ]
+    },
+    {
+      "name": "Parang",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 279
+        },
+        {
+          "year": 2023,
+          "value": 792
+        },
+        {
+          "year": 2024,
+          "value": 364
+        },
+        {
+          "year": 2025,
+          "value": 407
+        }
+      ]
+    },
+    {
+      "name": "Bendo",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 221
+        },
+        {
+          "year": 2023,
+          "value": 842
+        },
+        {
+          "year": 2024,
+          "value": 555
+        },
+        {
+          "year": 2025,
+          "value": 288
+        }
+      ]
+    },
+    {
+      "name": "Karangrejo",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 206
+        },
+        {
+          "year": 2023,
+          "value": 845
+        },
+        {
+          "year": 2024,
+          "value": 346
+        },
+        {
+          "year": 2025,
+          "value": 401
+        }
+      ]
+    },
+    {
+      "name": "Barat",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 204
+        },
+        {
+          "year": 2023,
+          "value": 680
+        },
+        {
+          "year": 2024,
+          "value": 455
+        },
+        {
+          "year": 2025,
+          "value": 400
+        }
+      ]
+    },
+    {
+      "name": "Sidorejo",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 167
+        },
+        {
+          "year": 2023,
+          "value": 872
+        },
+        {
+          "year": 2024,
+          "value": 292
+        },
+        {
+          "year": 2025,
+          "value": 203
+        }
+      ]
+    },
+    {
+      "name": "Karas",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 162
+        },
+        {
+          "year": 2023,
+          "value": 989
+        },
+        {
+          "year": 2024,
+          "value": 373
+        },
+        {
+          "year": 2025,
+          "value": 479
+        }
+      ]
+    },
+    {
+      "name": "Kartoharjo",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 141
+        },
+        {
+          "year": 2023,
+          "value": 643
+        },
+        {
+          "year": 2024,
+          "value": 230
+        },
+        {
+          "year": 2025,
+          "value": 287
+        }
+      ]
+    },
+    {
+      "name": "Nguntoronadi",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2022,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2022,
+          "value": 139
+        },
+        {
+          "year": 2023,
+          "value": 481
+        },
+        {
+          "year": 2024,
+          "value": 250
+        },
+        {
+          "year": 2025,
+          "value": 143
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": 467,
+  "title": "Level Kapabilitas APIP",
+  "item_title": "Inspektorat",
+  "opd_id": 39,
+  "category": "governance",
+  "url": "https://dasatama.magetan.go.id/detail/467",
+  "scraped_at": "2026-05-07T13:20:25",
+  "metadata": {
+    "concept": "Kapabilitas Aparat Pengawasan Intern Pemerintah (APIP)",
+    "classification": "",
+    "measure": "Level",
+    "unit": "",
+    "period": "Tahunan",
+    "created_at": "2026-03-01 10:50:04",
+    "updated_at": "2026-03-01 11:12:35"
+  },
+  "total_data": 2,
+  "data": [
+    {
+      "name": "Level Kapabilitas APIP",
+      "type": "integer",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 2
+        },
+        {
+          "year": 2022,
+          "value": 2
+        },
+        {
+          "year": 2023,
+          "value": 3
+        },
+        {
+          "year": 2024,
+          "value": 3
+        }
+      ]
+    },
+    {
+      "name": "Keterangan",
+      "type": "string",
+      "years": {
+        "total": 4,
+        "min": 2021,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": "-"
+        },
+        {
+          "year": 2022,
+          "value": "Skor : 2,71"
+        },
+        {
+          "year": 2023,
+          "value": "Skor : 3,00"
+        },
+        {
+          "year": 2024,
+          "value": "Skor : 3,08"
+        }
+      ]
+    }
+  ]
+}

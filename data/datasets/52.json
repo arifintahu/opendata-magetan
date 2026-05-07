@@ -1,0 +1,216 @@
+{
+  "id": 52,
+  "title": "Realisasi Pendapatan Daerah",
+  "item_title": "Badan Pengelolaan Keuangan dan Pendapatan Daerah",
+  "opd_id": 5,
+  "category": "governance",
+  "url": "https://dasatama.magetan.go.id/detail/52",
+  "scraped_at": "2026-05-07T13:16:39",
+  "metadata": {
+    "concept": "Pendapatan",
+    "classification": "Jenis Sumber Pendapatan",
+    "measure": "Jumlah",
+    "unit": "Rupiah",
+    "period": "Tahunan",
+    "created_at": "2023-08-15 10:27:16",
+    "updated_at": "2026-04-02 09:37:45"
+  },
+  "total_data": 5,
+  "data": [
+    {
+      "name": "Pendapatan Asli Daerah (PAD)",
+      "type": "number",
+      "years": {
+        "total": 7,
+        "min": 2018,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2018,
+          "value": 196826063935.96
+        },
+        {
+          "year": 2019,
+          "value": 237377706041.6
+        },
+        {
+          "year": 2020,
+          "value": 203465853559.25
+        },
+        {
+          "year": 2021,
+          "value": 243732143559.5
+        },
+        {
+          "year": 2022,
+          "value": 238172331190.57
+        },
+        {
+          "year": 2023,
+          "value": 231713276054.32
+        },
+        {
+          "year": 2024,
+          "value": 283750462564.53
+        }
+      ]
+    },
+    {
+      "name": "Pendapatan Transfer",
+      "type": "number",
+      "years": {
+        "total": 7,
+        "min": 2018,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2018,
+          "value": 1579489488474.0
+        },
+        {
+          "year": 2019,
+          "value": 1646113968956.0
+        },
+        {
+          "year": 2020,
+          "value": 1542988152795.0
+        },
+        {
+          "year": 2021,
+          "value": 1582669529621.0
+        },
+        {
+          "year": 2022,
+          "value": 1586048920041.0
+        },
+        {
+          "year": 2023,
+          "value": 1651158873216.0
+        },
+        {
+          "year": 2024,
+          "value": 1740358778472.0
+        }
+      ]
+    },
+    {
+      "name": "Lain - lain Pendapatan Daerah Yang Sah",
+      "type": "number",
+      "years": {
+        "total": 7,
+        "min": 2018,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2018,
+          "value": 52476920000.0
+        },
+        {
+          "year": 2019,
+          "value": 53067360000.0
+        },
+        {
+          "year": 2020,
+          "value": 55358700000.0
+        },
+        {
+          "year": 2021,
+          "value": 69715864850.0
+        },
+        {
+          "year": 2022,
+          "value": 21191182644.0
+        },
+        {
+          "year": 2023,
+          "value": 28709023345.0
+        },
+        {
+          "year": 2024,
+          "value": 3432558361.0
+        }
+      ]
+    },
+    {
+      "name": "Jumlah Pendapatan Daerah",
+      "type": "number",
+      "years": {
+        "total": 7,
+        "min": 2018,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2018,
+          "value": 1828792472409.96
+        },
+        {
+          "year": 2019,
+          "value": 1936559034997.6
+        },
+        {
+          "year": 2020,
+          "value": 1801812706354.25
+        },
+        {
+          "year": 2021,
+          "value": 1896117538030.5
+        },
+        {
+          "year": 2022,
+          "value": 1845412433875.57
+        },
+        {
+          "year": 2023,
+          "value": 1911581172615.32
+        },
+        {
+          "year": 2024,
+          "value": 2027541799397.53
+        }
+      ]
+    },
+    {
+      "name": "Keterangan",
+      "type": "string",
+      "years": {
+        "total": 7,
+        "min": 2018,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2018,
+          "value": "audited"
+        },
+        {
+          "year": 2019,
+          "value": "audited"
+        },
+        {
+          "year": 2020,
+          "value": "audited"
+        },
+        {
+          "year": 2021,
+          "value": "audited"
+        },
+        {
+          "year": 2022,
+          "value": "audited"
+        },
+        {
+          "year": 2023,
+          "value": "audited"
+        },
+        {
+          "year": 2024,
+          "value": "unaudited"
+        }
+      ]
+    }
+  ]
+}

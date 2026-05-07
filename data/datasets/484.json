@@ -1,0 +1,114 @@
+{
+  "id": 484,
+  "title": "Indeks Pembangunan Manusia",
+  "item_title": "BPS Kabupaten Magetan",
+  "opd_id": 41,
+  "category": "macro-economy",
+  "url": "https://dasatama.magetan.go.id/detail/484",
+  "scraped_at": "2026-05-07T13:20:34",
+  "metadata": {
+    "concept": "Pembangunan Manusia",
+    "classification": "Wilayah",
+    "measure": "Indeks",
+    "unit": "",
+    "period": "Tahunan",
+    "created_at": "2026-03-06 09:46:18",
+    "updated_at": "2026-03-06 09:54:34"
+  },
+  "total_data": 3,
+  "data": [
+    {
+      "name": "Kab.Magetan",
+      "type": "number",
+      "years": {
+        "total": 5,
+        "min": 2020,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 74.85
+        },
+        {
+          "year": 2021,
+          "value": 75.08
+        },
+        {
+          "year": 2022,
+          "value": 75.76
+        },
+        {
+          "year": 2023,
+          "value": 76.3
+        },
+        {
+          "year": 2024,
+          "value": 76.77
+        }
+      ]
+    },
+    {
+      "name": "Jawa Timur",
+      "type": "number",
+      "years": {
+        "total": 5,
+        "min": 2020,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 73.04
+        },
+        {
+          "year": 2021,
+          "value": 73.48
+        },
+        {
+          "year": 2022,
+          "value": 74.05
+        },
+        {
+          "year": 2023,
+          "value": 74.65
+        },
+        {
+          "year": 2024,
+          "value": 75.35
+        }
+      ]
+    },
+    {
+      "name": "Nasional",
+      "type": "number",
+      "years": {
+        "total": 5,
+        "min": 2020,
+        "max": 2024
+      },
+      "values": [
+        {
+          "year": 2020,
+          "value": 72.81
+        },
+        {
+          "year": 2021,
+          "value": 73.16
+        },
+        {
+          "year": 2022,
+          "value": 73.77
+        },
+        {
+          "year": 2023,
+          "value": 74.39
+        },
+        {
+          "year": 2024,
+          "value": 75.02
+        }
+      ]
+    }
+  ]
+}

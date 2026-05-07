@@ -1,0 +1,238 @@
+{
+  "id": 54,
+  "title": "Jumlah Peserta KB Aktif Menurut Metode Kontrasepsi",
+  "item_title": "Dinas Pengendalian Penduduk, Keluarga Berencana, Pemberdayaan Perempuan, dan Perlindungan Anak",
+  "opd_id": 21,
+  "category": "health",
+  "url": "https://dasatama.magetan.go.id/detail/54",
+  "scraped_at": "2026-05-07T13:19:15",
+  "metadata": {
+    "concept": "Peserta Keluarga Berencana (KB) aktif yang menggunakan metode kontrasepsi tertentu pada tahun berjalan.",
+    "classification": "Metode kontrasepsi: IUD, MOW, MOP, Kondom, Implant, Suntik, dan Pil.",
+    "measure": "Jumlah",
+    "unit": "Akseptor",
+    "period": "Tahunan",
+    "created_at": "2023-08-15 10:29:00",
+    "updated_at": "2026-02-06 09:31:49"
+  },
+  "total_data": 7,
+  "data": [
+    {
+      "name": "IUD",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 11448
+        },
+        {
+          "year": 2022,
+          "value": 12411
+        },
+        {
+          "year": 2023,
+          "value": 9307
+        },
+        {
+          "year": 2024,
+          "value": 9465
+        },
+        {
+          "year": 2025,
+          "value": 9487
+        }
+      ]
+    },
+    {
+      "name": "MOW",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 5293
+        },
+        {
+          "year": 2022,
+          "value": 5332
+        },
+        {
+          "year": 2023,
+          "value": 3661
+        },
+        {
+          "year": 2024,
+          "value": 3377
+        },
+        {
+          "year": 2025,
+          "value": 3232
+        }
+      ]
+    },
+    {
+      "name": "MOP",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 199
+        },
+        {
+          "year": 2022,
+          "value": 226
+        },
+        {
+          "year": 2023,
+          "value": 159
+        },
+        {
+          "year": 2024,
+          "value": 154
+        },
+        {
+          "year": 2025,
+          "value": 136
+        }
+      ]
+    },
+    {
+      "name": "Kondom",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 2194
+        },
+        {
+          "year": 2022,
+          "value": 2961
+        },
+        {
+          "year": 2023,
+          "value": 3074
+        },
+        {
+          "year": 2024,
+          "value": 3902
+        },
+        {
+          "year": 2025,
+          "value": 3913
+        }
+      ]
+    },
+    {
+      "name": "Implant",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 5893
+        },
+        {
+          "year": 2022,
+          "value": 6476
+        },
+        {
+          "year": 2023,
+          "value": 4304
+        },
+        {
+          "year": 2024,
+          "value": 4772
+        },
+        {
+          "year": 2025,
+          "value": 5136
+        }
+      ]
+    },
+    {
+      "name": "Suntik",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 41040
+        },
+        {
+          "year": 2022,
+          "value": 42423
+        },
+        {
+          "year": 2023,
+          "value": 40368
+        },
+        {
+          "year": 2024,
+          "value": 41352
+        },
+        {
+          "year": 2025,
+          "value": 36823
+        }
+      ]
+    },
+    {
+      "name": "Pil",
+      "type": "integer",
+      "years": {
+        "total": 5,
+        "min": 2021,
+        "max": 2025
+      },
+      "values": [
+        {
+          "year": 2021,
+          "value": 7193
+        },
+        {
+          "year": 2022,
+          "value": 7338
+        },
+        {
+          "year": 2023,
+          "value": 7379
+        },
+        {
+          "year": 2024,
+          "value": 7561
+        },
+        {
+          "year": 2025,
+          "value": 6846
+        }
+      ]
+    }
+  ]
+}
