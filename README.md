@@ -1,47 +1,20 @@
 # Open Data Magetan
 
-Structured data extracted from [Satu Data Magetan](https://dasatama.magetan.go.id/) — the open data portal of Magetan Regency, East Java, Indonesia. Covers 454 datasets from 32 regional government agencies (OPD) across health, education, population, agriculture, finance, and more.
+> Structured, machine-readable data extracted from the official open data portal of Magetan Regency, East Java, Indonesia.
 
-## Data source
+[![Data](https://img.shields.io/badge/datasets-454-blue)](#) [![Agencies](https://img.shields.io/badge/agencies-32-green)](#) [![Categories](https://img.shields.io/badge/categories-15-orange)](#)
 
-This data is extracted from the official public open data portal of Magetan Regency and is freely available for public use. All datasets are published by the regional government and accessible without authentication on the source portal.
 
-**Portal:** https://dasatama.magetan.go.id/  
-**Publisher:** Pemerintah Kabupaten Magetan  
-**Coverage:** 32 OPD, 454 datasets, 15 thematic categories
+This repository republishes data from [Satu Data Magetan](https://dasatama.magetan.go.id/) in a clean, queryable JSON format — covering health, education, population, agriculture, finance, and more. All source data is published by the regional government and freely accessible to the public without authentication.
 
 ---
 
-## Using the data
+## Quick start
 
-All data files are accessible directly via GitHub raw URLs — no scraping or API keys needed.
-
-**Base URL:**
-```
-https://raw.githubusercontent.com/arifintahu/opendata-magetan/refs/heads/main/data/
-```
-
-### Endpoints
-
-| File | URL |
-|---|---|
-| All agencies | [`data/agencies.json`](https://raw.githubusercontent.com/arifintahu/opendata-magetan/refs/heads/main/data/agencies.json) |
-| Dataset index | [`data/datasets_index.json`](https://raw.githubusercontent.com/arifintahu/opendata-magetan/refs/heads/main/data/datasets_index.json) |
-| Category list | [`data/categories.json`](https://raw.githubusercontent.com/arifintahu/opendata-magetan/refs/heads/main/data/categories.json) |
-| Single dataset | `data/datasets/{id}.json` |
-
-### Fetch a dataset
+All files are served directly via GitHub raw URLs — no API keys, no scraping.
 
 ```js
-const res = await fetch(
-  "https://raw.githubusercontent.com/arifintahu/opendata-magetan/refs/heads/main/data/datasets/16.json"
-);
-const dataset = await res.json();
-```
-
-### Discover datasets via the index
-
-```js
+// Fetch the full dataset index
 const res = await fetch(
   "https://raw.githubusercontent.com/arifintahu/opendata-magetan/refs/heads/main/data/datasets_index.json"
 );
@@ -49,22 +22,32 @@ const { datasets } = await res.json();
 
 // Filter by category
 const health = datasets.filter(d => d.category === "health" && d.status === "success");
+
+// Load a single dataset
+const detail = await fetch(
+  `https://raw.githubusercontent.com/arifintahu/opendata-magetan/refs/heads/main/data/datasets/${health[0].id}.json`
+).then(r => r.json());
 ```
 
-### List agencies
+---
 
-```js
-const res = await fetch(
-  "https://raw.githubusercontent.com/arifintahu/opendata-magetan/refs/heads/main/data/agencies.json"
-);
-const { agencies } = await res.json();
-```
+## Data files
+
+| File | Description |
+|---|---|
+| [`data/agencies.json`](https://raw.githubusercontent.com/arifintahu/opendata-magetan/refs/heads/main/data/agencies.json) | All 32 government agencies with their dataset IDs |
+| [`data/datasets_index.json`](https://raw.githubusercontent.com/arifintahu/opendata-magetan/refs/heads/main/data/datasets_index.json) | Index of all 454 datasets with series metadata |
+| [`data/categories.json`](https://raw.githubusercontent.com/arifintahu/opendata-magetan/refs/heads/main/data/categories.json) | Datasets grouped by thematic category |
+| `data/datasets/{id}.json` | Full timeseries data for a single dataset |
+
+**Base URL:** `https://raw.githubusercontent.com/arifintahu/opendata-magetan/refs/heads/main/data/`
 
 ---
 
 ## Data format
 
-### `data/agencies.json`
+<details>
+<summary><strong>agencies.json</strong></summary>
 
 ```json
 {
@@ -80,8 +63,10 @@ const { agencies } = await res.json();
   ]
 }
 ```
+</details>
 
-### `data/datasets_index.json`
+<details>
+<summary><strong>datasets_index.json</strong></summary>
 
 ```json
 {
@@ -98,7 +83,11 @@ const { agencies } = await res.json();
       "category": "education",
       "total_data": 3,
       "series": [
-        { "name": "Judul Text-Book", "type": "integer", "years": { "total": 7, "min": 2019, "max": 2025 } }
+        {
+          "name": "Judul Text-Book",
+          "type": "integer",
+          "years": { "total": 7, "min": 2019, "max": 2025 }
+        }
       ],
       "scraped_at": "2026-05-07T13:00:00Z",
       "status": "success"
@@ -106,8 +95,10 @@ const { agencies } = await res.json();
   ]
 }
 ```
+</details>
 
-### `data/datasets/{id}.json`
+<details>
+<summary><strong>datasets/{id}.json</strong></summary>
 
 ```json
 {
@@ -141,21 +132,36 @@ const { agencies } = await res.json();
   ]
 }
 ```
+</details>
 
-**Categories:** commodity-prices · livestock-fisheries · agriculture-food · health · education · demographics · tourism-culture · investment-sme · macro-economy · infrastructure · housing-settlement · social-labor · environment · disaster-security · governance
+### Categories
+
+`commodity-prices` · `livestock-fisheries` · `agriculture-food` · `health` · `education` · `demographics` · `tourism-culture` · `investment-sme` · `macro-economy` · `infrastructure` · `housing-settlement` · `social-labor` · `environment` · `disaster-security` · `governance`
+
+---
+
+## Data source
+
+| | |
+|---|---|
+| **Portal** | https://dasatama.magetan.go.id/ |
+| **Publisher** | Pemerintah Kabupaten Magetan |
+| **Coverage** | 32 OPD, 454 datasets, 15 thematic categories |
+
+Data is sourced from an official public government portal and is freely available without authentication. This repository provides a structured, versioned mirror for easier programmatic access.
 
 ---
 
 ## Updating the data
 
-Scripts are in `scripts/` and require Python 3.9+.
+Requires Python 3.9+.
 
 ```bash
 pip install -r requirements.txt
 
-python scripts/extract_menu.py       # fetch sidebar → data/directories.json
-python scripts/categorize.py         # categorize → data/categories.json
-python scripts/scrape_datasets.py    # scrape all datasets → data/datasets/
+python scripts/extract_menu.py     # fetch agency sidebar → data/directories.json
+python scripts/categorize.py       # classify datasets   → data/categories.json
+python scripts/scrape_datasets.py  # scrape all datasets → data/datasets/
 ```
 
-`scrape_datasets.py` is incremental — skips already-downloaded files. Use `--force` to re-scrape everything, `--delay` to adjust request throttling (default 0.3s).
+The scraper is incremental — already-downloaded files are skipped. Use `--force` to re-fetch everything or `--delay` to adjust request throttling (default `0.3s`).
